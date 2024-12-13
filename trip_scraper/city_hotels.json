@@ -1,0 +1,2370 @@
+[
+    {
+        "city": "Dhaka",
+        "recommendHotels": [
+            {
+                "hotelId": 45570507,
+                "hotelUrl": "white-palace-hotel",
+                "hotelJumpUrl": "https://uk.trip.com/hotels/dhaka-hotel-detail-45570507/white-palace-hotel/",
+                "hotelName": "White Palace Hotel",
+                "districtName": "Uttara",
+                "districtId": 254152,
+                "districtJumpUrl": "/hotels/list?city=733&optionType=Zone&optionId=254152",
+                "hotelNameUrl": "/hotels/dhaka-hotel-detail-45570507/white-palace-hotel/?checkin=2024-12-20&city=733&module=list&link=button&from_page=list&adult=1&checkout=2024-12-21",
+                "lat": 23.879744,
+                "lon": 90.39683,
+                "brief": "Located in Dhaka, White Palace Hotel is within a 15-minute drive of International Convention City Bashundhara and Jamuna Future Park. This hotel is 7.3 mi (11.7 km) from Bangladesh National Zoo and 7.5 mi (12.1 km) from Sher-e-Bangla Cricket Stadium.\r\nPamper yourself with onsite massages or enjoy recreation amenities such as a 24-hour fitness center. This hotel also features complimentary wireless internet access, a television in a common area, and a banquet hall.\r\nEnjoy a meal at the restaurant or snacks in the coffee shop/cafe. The hotel also offers 24-hour room service.\r\nFeatured amenities include a 24-hour business center, express check-in, and express check-out. A roundtrip airport shuttle is provided for a surcharge (available 24 hours), and free self parking is available onsite.\r\nMake yourself at home in one of the 45 individually decorated guestrooms, featuring minibars and LED televisions. Complimentary wireless internet access keeps you connected, and cable programming is available for your entertainment. Private bathrooms have complimentary toiletries and hair dryers. Conveniences include safes and desks, as well as phones with free local calls.",
+                "star": 4,
+                "diamond": 4,
+                "votes": 85,
+                "rating": 4.2,
+                "ratingTxt": "4.2",
+                "ratingTag": "Very Good",
+                "imgUrl": "/0581612000d3euoz5C29D.jpg",
+                "pictureList": [
+                    {
+                        "pictureId": 772157865,
+                        "pictureType": 1,
+                        "pictureTypeName": "Hotel Exterior",
+                        "pictureUrl": "/0582v12000d3euqgb115E.jpg"
+                    },
+                    {
+                        "pictureId": 372385001,
+                        "pictureType": 1,
+                        "pictureTypeName": "Hotel Exterior",
+                        "pictureUrl": "/0222v12000ba5am42151A.jpg"
+                    },
+                    {
+                        "pictureId": 919839287,
+                        "pictureType": 6,
+                        "pictureTypeName": "Rooms",
+                        "pictureUrl": "/0226k12000ambm1c6368C.jpg"
+                    },
+                    {
+                        "pictureId": 919839315,
+                        "pictureType": 6,
+                        "pictureTypeName": "Rooms",
+                        "pictureUrl": "/0226312000amblukhFE7E.jpg"
+                    },
+                    {
+                        "pictureId": 867978319,
+                        "pictureType": 4,
+                        "pictureTypeName": "Dining/Meeting Rooms",
+                        "pictureUrl": "/0587312000d3eur1745E4.jpg"
+                    },
+                    {
+                        "pictureId": 372384989,
+                        "pictureType": 3,
+                        "pictureTypeName": "Fitness & Recreational Facilities",
+                        "pictureUrl": "/0225d12000ambm3en804E.jpg"
+                    },
+                    {
+                        "pictureId": 1140005081,
+                        "pictureType": 5,
+                        "pictureTypeName": "Others",
+                        "pictureUrl": "/1mc2b12000fhjwpzuB26E.jpg"
+                    },
+                    {
+                        "pictureId": 859306173,
+                        "pictureType": 5,
+                        "pictureTypeName": "Others",
+                        "pictureUrl": "/0584912000d3euhna9F60.jpg"
+                    },
+                    {
+                        "pictureId": 372385008,
+                        "pictureType": 5,
+                        "pictureTypeName": "Others",
+                        "pictureUrl": "/0586c12000d3eumrnC177.jpg"
+                    },
+                    {
+                        "pictureId": 941682647,
+                        "pictureType": 5,
+                        "pictureTypeName": "Others",
+                        "pictureUrl": "/1mc4g12000c0uhyiv4178.jpg"
+                    },
+                    {
+                        "pictureId": 867979261,
+                        "pictureType": 5,
+                        "pictureTypeName": "Others",
+                        "pictureUrl": "/0586m12000d3eup1cB74A.jpg"
+                    },
+                    {
+                        "pictureId": 1101660523,
+                        "pictureType": 5,
+                        "pictureTypeName": "Others",
+                        "pictureUrl": "/0580212000eztwx37D614.jpg"
+                    }
+                ],
+                "pictureTotalNum": 56,
+                "address": "House no: 25, Road-06, Sector-09, Dhaka, House 25 Road No. 6",
+                "fullAddress": "House no: 25, Road-06, Sector-09, Dhaka, House 25 Road No. 6, Uttara, Dhaka, Dhaka Division, 1230, Bangladesh",
+                "cityId": 733,
+                "cityName": "Dhaka",
+                "cityJumpUrl": "/hotels/list?city=733",
+                "countryId": 68,
+                "countryName": "Bangladesh",
+                "regionType": "Overseas",
+                "distance": {
+                    "distance": 7.88,
+                    "unit": "KM",
+                    "poiType": "Downtown",
+                    "poiName": ""
+                },
+                "distanceDesc": "7.88KM from city centre",
+                "prices": {
+                    "priceInfos": [
+                        {
+                            "price": 24,
+                            "type": "AverageWithoutTax",
+                            "checkIn": "2024-12-14"
+                        },
+                        {
+                            "price": 24,
+                            "type": "Cheap",
+                            "checkIn": "2024-12-15"
+                        }
+                    ]
+                },
+                "selectedReview": {
+                    "nickName": "Guest User",
+                    "regionCode": "",
+                    "content": "Affordable price for the room & food, food taste was good specially the Chawmin was so delicious. Transport service from Airport was good & fast. The employees working there were helpful & ready to help us.  I would recommend White Palace Hotel.",
+                    "rating": 5,
+                    "ratingTag": "Perfect",
+                    "avatarImgUrl": "",
+                    "reviewDate": "2023-10-26 08:45:22"
+                },
+                "selectedReviewList": [
+                    {
+                        "nickName": "Guest User",
+                        "regionCode": "",
+                        "content": "Affordable price for the room & food, food taste was good specially the Chawmin was so delicious. Transport service from Airport was good & fast. The employees working there were helpful & ready to help us.  I would recommend White Palace Hotel.",
+                        "rating": 5,
+                        "avatarImgUrl": ""
+                    },
+                    {
+                        "nickName": "Guest User",
+                        "regionCode": "",
+                        "content": "In a nice setting,the hotel offers fantastic service. The inside has a fresh and clear atmosphere,making it a pleasant place . The room service is good, and what makes it even better is the wonderful experience you get on the rooftop.",
+                        "rating": 5,
+                        "avatarImgUrl": ""
+                    },
+                    {
+                        "nickName": "Guest User",
+                        "regionCode": "",
+                        "content": "Such a good hotel in Uttara, specially the staff were professional, working approach was satisfactory. The rooftop was clean & view from there was fine. Room was comfortable to stay,Breakfast was fantastic with multiple items. ",
+                        "rating": 5,
+                        "avatarImgUrl": ""
+                    }
+                ],
+                "stimulation": {
+                    "lastBookTime": {
+                        "value": 9,
+                        "unit": "Hour"
+                    }
+                },
+                "commentTags": [
+                    "Friendly owner",
+                    "Great stay!"
+                ],
+                "encourage": {
+                    "breakfast": true,
+                    "cancellation": false
+                },
+                "displayPrice": {
+                    "price": 24,
+                    "taxPrice": 31,
+                    "oriPrice": 0,
+                    "checkIn": "2024-12-14"
+                },
+                "trafficList": [
+                    {
+                        "id": 1,
+                        "type": 2,
+                        "description": "7.4km from Hazrat Shahjalal International Airport"
+                    },
+                    {
+                        "id": 2,
+                        "type": 3,
+                        "description": "9.3km from Deventer Colmschate Railway Station"
+                    }
+                ],
+                "hotelTypeList": [],
+                "hotelThemeList": [
+                    {
+                        "id": 96,
+                        "name": "Family-friendly",
+                        "url": ""
+                    }
+                ],
+                "hotelFacilityList": [
+                    {
+                        "id": 0,
+                        "name": "Airport pickup service"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Restaurant"
+                    },
+                    {
+                        "id": 20,
+                        "name": "24 hour reception"
+                    },
+                    {
+                        "id": 4,
+                        "name": "Gym"
+                    },
+                    {
+                        "id": 21,
+                        "name": "Currency exchange"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Spa"
+                    },
+                    {
+                        "id": 23,
+                        "name": "Car hire"
+                    },
+                    {
+                        "id": 9,
+                        "name": "Wi-Fi"
+                    },
+                    {
+                        "id": 25,
+                        "name": "Smoking area"
+                    },
+                    {
+                        "id": 1,
+                        "name": "Breakfast"
+                    },
+                    {
+                        "id": 3,
+                        "name": "Non-smoking room"
+                    }
+                ],
+                "openYear": "2018-01-01",
+                "fitmentYear": "2023-09-16",
+                "standard": 0
+            },
+            {
+                "hotelId": 3725948,
+                "hotelUrl": "hotel-afford-inn-1",
+                "hotelJumpUrl": "https://uk.trip.com/hotels/dhaka-hotel-detail-3725948/hotel-afford-inn-1/",
+                "hotelName": "Hotel Afford Inn",
+                "districtName": "Uttara",
+                "districtId": 254152,
+                "districtJumpUrl": "/hotels/list?city=733&optionType=Zone&optionId=254152",
+                "hotelNameUrl": "/hotels/dhaka-hotel-detail-3725948/hotel-afford-inn-1/?checkin=2024-12-20&city=733&module=list&link=button&from_page=list&adult=1&checkout=2024-12-21",
+                "lat": 23.85611,
+                "lon": 90.403093,
+                "brief": "Welcome to Hotel Afford Inn, your ideal airport hotel offering unparalleled convenience and comfort. Situated just a 5-minute drive from Hazrat Shahjalal International Airport and Dhaka Airport Railway Station, our prime location also places you near key transit points like the Elevated Expressway station and Dhaka Metro Station, just 15 minutes away. For event attendees, International Convention City Bashundhara (ICCB) is only a 10-minute drive, while the Bangladesh-China Friendship Exhibition Center (BCFEC) is 20 minutes away. Guests can start their day with a complimentary buffet breakfast, served daily from 6:30 AM to 10:30 AM. Additional amenities include a 24-hour business center, complimentary newspapers in the lobby, dry cleaning and laundry services, a 24-hour round-trip airport shuttle (available for a surcharge), and free self-parking onsite.  \n\nFor dining, visit Afford Dine, our in-house restaurant specializing in international cuisine, or enjoy casual options at the coffee shop/café. For added convenience, 24-hour room service is available. Our 50 individually furnished guestrooms are designed with comfort in mind, featuring refrigerators, microwaves, LCD TVs with cable programming, and complimentary Wi-Fi to keep you connected. Bathrooms are equipped with bathtubs or showers, complimentary toiletries, and hair dryers. Additional conveniences include safes, desks, and daily housekeeping. At Hotel Afford Inn, we combine exceptional location with thoughtful amenities to ensure a seamless and enjoyable stay.",
+                "star": 3,
+                "diamond": 3,
+                "votes": 53,
+                "rating": 3.9,
+                "ratingTxt": "3.9",
+                "imgUrl": "/0221y120009uosuq43515.jpg",
+                "pictureList": [
+                    {
+                        "pictureId": 946378475,
+                        "pictureType": 1,
+                        "pictureTypeName": "Hotel Exterior",
+                        "pictureUrl": "/1mc6g12000c263zk6A083.jpg"
+                    },
+                    {
+                        "pictureId": 857207003,
+                        "pictureType": 6,
+                        "pictureTypeName": "Rooms",
+                        "pictureUrl": "/1mc5c12000b9j58w07B8D.jpg"
+                    },
+                    {
+                        "pictureId": 808294933,
+                        "pictureType": 6,
+                        "pictureTypeName": "Rooms",
+                        "pictureUrl": "/0223r12000auyicq68ED3.jpg"
+                    },
+                    {
+                        "pictureId": 526840278,
+                        "pictureType": 4,
+                        "pictureTypeName": "Dining/Meeting Rooms",
+                        "pictureUrl": "/0584712000cy3t8i2ACB1.jpg"
+                    },
+                    {
+                        "pictureId": 465486932,
+                        "pictureType": 3,
+                        "pictureTypeName": "Fitness & Recreational Facilities",
+                        "pictureUrl": "/0585z12000cy3tav1B938.jpg"
+                    },
+                    {
+                        "pictureId": 271366926,
+                        "pictureType": 5,
+                        "pictureTypeName": "Others",
+                        "pictureUrl": "/24020q000000gdm592DA1.jpg"
+                    },
+                    {
+                        "pictureId": 271366927,
+                        "pictureType": 5,
+                        "pictureTypeName": "Others",
+                        "pictureUrl": "/24030q000000g8az5289A.jpg"
+                    },
+                    {
+                        "pictureId": 1082076703,
+                        "pictureType": 5,
+                        "pictureTypeName": "Others",
+                        "pictureUrl": "/1mc2312000eg2bykl3F3B.jpg"
+                    },
+                    {
+                        "pictureId": 372795216,
+                        "pictureType": 5,
+                        "pictureTypeName": "Others",
+                        "pictureUrl": "/0581k12000cy3szzh122F.jpg"
+                    },
+                    {
+                        "pictureId": 648732079,
+                        "pictureType": 5,
+                        "pictureTypeName": "Others",
+                        "pictureUrl": "/0203p12000a6gker9EF0A.jpg"
+                    },
+                    {
+                        "pictureId": 648732077,
+                        "pictureType": 5,
+                        "pictureTypeName": "Others",
+                        "pictureUrl": "/0204s12000a6gki2wA1DE.jpg"
+                    }
+                ],
+                "pictureTotalNum": 51,
+                "address": "House 04 Road-03",
+                "fullAddress": "House 04 Road-03, Uttara, Dhaka, Dhaka Division, 1230, Bangladesh",
+                "cityId": 733,
+                "cityName": "Dhaka",
+                "cityJumpUrl": "/hotels/list?city=733",
+                "countryId": 68,
+                "countryName": "Bangladesh",
+                "regionType": "Overseas",
+                "distance": {
+                    "distance": 5.18,
+                    "unit": "KM",
+                    "poiType": "Downtown",
+                    "poiName": ""
+                },
+                "distanceDesc": "5.18KM from city centre",
+                "prices": {
+                    "priceInfos": [
+                        {
+                            "price": 25,
+                            "type": "AverageWithoutTax",
+                            "checkIn": "2024-12-13"
+                        },
+                        {
+                            "price": 25,
+                            "type": "Cheap",
+                            "checkIn": "2024-12-14"
+                        }
+                    ]
+                },
+                "selectedReview": {
+                    "nickName": "Guest User",
+                    "regionCode": "",
+                    "content": "Hotel is very near to the Airport, service quality is good enough, renovation is going on, so noise is there. Anyway food was reasonable, thanks Chef Mostafa was very professional & his food is tasty. Room service is okay but need to more faster. Thanks ",
+                    "rating": 5,
+                    "ratingTag": "Perfect",
+                    "avatarImgUrl": "",
+                    "reviewDate": "2023-10-21 05:39:08"
+                },
+                "selectedReviewList": [
+                    {
+                        "nickName": "Guest User",
+                        "regionCode": "",
+                        "content": "Hotel is very near to the Airport, service quality is good enough, renovation is going on, so noise is there. Anyway food was reasonable, thanks Chef Mostafa was very professional & his food is tasty. Room service is okay but need to more faster. Thanks ",
+                        "rating": 5,
+                        "avatarImgUrl": ""
+                    },
+                    {
+                        "nickName": "Guest User",
+                        "regionCode": "",
+                        "content": "Brilliant location, just walking distance from the Airport, easy to catch the flight. The staff serving us were professional, the driver was also good in his prompt service..   Thanks everyone, specially Mr Kook for his cordial approach ",
+                        "rating": 5,
+                        "avatarImgUrl": ""
+                    },
+                    {
+                        "nickName": "Guest User",
+                        "regionCode": "",
+                        "content": "Booked this hotel first time. Service was mind blowing. The staff were helpful, professional & cordial also. Food was fantastic to eat,  my son became happy to have the breakfast. Car service from.front office was fast & reasonable",
+                        "rating": 5,
+                        "avatarImgUrl": ""
+                    }
+                ],
+                "stimulation": {
+                    "lastBookTime": {
+                        "value": 0,
+                        "unit": "Hour"
+                    }
+                },
+                "commentTags": [
+                    "Great stay!",
+                    "Friendly owner"
+                ],
+                "encourage": {
+                    "breakfast": true,
+                    "cancellation": false
+                },
+                "displayPrice": {
+                    "price": 25,
+                    "taxPrice": 29,
+                    "oriPrice": 0,
+                    "checkIn": "2024-12-13"
+                },
+                "trafficList": [
+                    {
+                        "id": 1,
+                        "type": 2,
+                        "description": "1.7km from Hazrat Shahjalal International Airport"
+                    },
+                    {
+                        "id": 2,
+                        "type": 3,
+                        "description": "11.1km from Deventer Colmschate Railway Station"
+                    }
+                ],
+                "hotelFacilityList": [
+                    {
+                        "id": 0,
+                        "name": "Airport pickup service"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Restaurant"
+                    },
+                    {
+                        "id": 4,
+                        "name": "Gym"
+                    },
+                    {
+                        "id": 20,
+                        "name": "24 hour reception"
+                    },
+                    {
+                        "id": 21,
+                        "name": "Currency exchange"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Spa"
+                    },
+                    {
+                        "id": 23,
+                        "name": "Car hire"
+                    },
+                    {
+                        "id": 25,
+                        "name": "Smoking area"
+                    },
+                    {
+                        "id": 9,
+                        "name": "Wi-Fi"
+                    },
+                    {
+                        "id": 1,
+                        "name": "Breakfast"
+                    },
+                    {
+                        "id": 3,
+                        "name": "Non-smoking room"
+                    }
+                ],
+                "openYear": "2014-01-01",
+                "fitmentYear": "2022-08-31",
+                "standard": 0
+            },
+            {
+                "hotelId": 2192471,
+                "hotelUrl": "the-westin-dhaka",
+                "hotelJumpUrl": "https://uk.trip.com/hotels/dhaka-hotel-detail-2192471/the-westin-dhaka/",
+                "hotelName": "The Westin Dhaka",
+                "districtName": "Gulshan",
+                "districtId": 254631,
+                "districtJumpUrl": "/hotels/list?city=733&optionType=Zone&optionId=254631",
+                "hotelNameUrl": "/hotels/dhaka-hotel-detail-2192471/the-westin-dhaka/?checkin=2024-12-20&city=733&module=list&link=button&from_page=list&adult=1&checkout=2024-12-21",
+                "lat": 23.793288,
+                "lon": 90.414718,
+                "brief": "Discover Dhaka, Bangladesh, from the Westin Dhaka. Located in Gulshan 2, Dhaka's dynamic business and diplomatic district, our luxury Gulshan, Dhaka, hotel places you close to Farmgate, Banani, corporate offices, the U.S. Embassy, shopping, dining, entertainment, and historical landmarks. Recharge in your spacious luxury hotel room or suite where you'll find pampering touches, high-speed Wi-Fi, a mini-refrigerator, room service available 24 hours a day, a supremely comfortable Westin Heavenly Bed, and skyline views. Our five restaurants and bars offer an array of tempting international choices from fine Italian to a Pan Asian buffet. Relax in our outdoor heated pool, work out in our gym, or rejuvenate at our spa. If a business meeting, social event or wedding brings you to our hotel in Gulshan 2, Dhaka, you'll be delighted with our custom catering, exceptional service, and versatile indoor and outdoor venues. Whether traveling for work or play, we look forward to welcoming you to the Westin Dhaka soon.",
+                "star": 5,
+                "diamond": 5,
+                "votes": 71,
+                "rating": 4.5,
+                "ratingTxt": "4.5",
+                "ratingTag": "Excellent",
+                "imgUrl": "/220w0z000000mxlzdF2B5.jpg",
+                "pictureList": [
+                    {
+                        "pictureId": 71507140,
+                        "pictureType": 1,
+                        "pictureTypeName": "Hotel Exterior",
+                        "pictureUrl": "/0220w1200084a7aqa129E.jpg"
+                    },
+                    {
+                        "pictureId": 584206057,
+                        "pictureType": 6,
+                        "pictureTypeName": "Rooms",
+                        "pictureUrl": "/220t14000000we2ayB6BA.jpg"
+                    },
+                    {
+                        "pictureId": 584229057,
+                        "pictureType": 6,
+                        "pictureTypeName": "Rooms",
+                        "pictureUrl": "/200k10000000qbcua638A.jpg"
+                    },
+                    {
+                        "pictureId": 356929743,
+                        "pictureType": 4,
+                        "pictureTypeName": "Dining/Meeting Rooms",
+                        "pictureUrl": "/220a14000000w91q7A2A8.jpg"
+                    },
+                    {
+                        "pictureId": 356929738,
+                        "pictureType": 3,
+                        "pictureTypeName": "Fitness & Recreational Facilities",
+                        "pictureUrl": "/220214000000wesyz78C8.jpg"
+                    },
+                    {
+                        "pictureId": 281331676,
+                        "pictureType": 5,
+                        "pictureTypeName": "Others",
+                        "pictureUrl": "/240l0s000000hy8oaFD3C.jpg"
+                    },
+                    {
+                        "pictureId": 281331677,
+                        "pictureType": 5,
+                        "pictureTypeName": "Others",
+                        "pictureUrl": "/240d0s000000hwlg2995A.jpg"
+                    },
+                    {
+                        "pictureId": 588773480,
+                        "pictureType": 5,
+                        "pictureTypeName": "Others",
+                        "pictureUrl": "/0221i120009szmtl9204B.jpg"
+                    },
+                    {
+                        "pictureId": 71507136,
+                        "pictureType": 5,
+                        "pictureTypeName": "Others",
+                        "pictureUrl": "/220j0g00000080vsj269B.jpg"
+                    },
+                    {
+                        "pictureId": 133513939,
+                        "pictureType": 5,
+                        "pictureTypeName": "Others",
+                        "pictureUrl": "/22080g00000080e4n35F2.jpg"
+                    },
+                    {
+                        "pictureId": 130929620,
+                        "pictureType": 5,
+                        "pictureTypeName": "Others",
+                        "pictureUrl": "/22030g00000080fwg1A9A.jpg"
+                    }
+                ],
+                "pictureTotalNum": 129,
+                "address": "Main Gulshan Avenue, Plot-01 Rd 45",
+                "fullAddress": "Main Gulshan Avenue, Plot-01 Rd 45, Gulshan, Dhaka, Dhaka Division, 1212, Bangladesh",
+                "cityId": 733,
+                "cityName": "Dhaka",
+                "cityJumpUrl": "/hotels/list?city=733",
+                "countryId": 68,
+                "countryName": "Bangladesh",
+                "regionType": "Overseas",
+                "distance": {
+                    "distance": 1.91,
+                    "unit": "KM",
+                    "poiType": "Downtown",
+                    "poiName": ""
+                },
+                "distanceDesc": "1.91KM from city centre",
+                "prices": {
+                    "priceInfos": [
+                        {
+                            "price": 110,
+                            "type": "AverageWithoutTax",
+                            "checkIn": "2024-12-17"
+                        },
+                        {
+                            "price": 134,
+                            "type": "Cheap",
+                            "checkIn": "2024-12-15"
+                        }
+                    ]
+                },
+                "selectedReview": {
+                    "nickName": "Guest User",
+                    "regionCode": "",
+                    "content": "The first time I came to Bangladesh for a business trip, the locals recommended Dhaka Westin, I came directly, and I was not disappointed. The hotel is very clean, the breakfast is also very appetizing, the surrounding is particularly convenient, and it will be here in the future!",
+                    "rating": 5,
+                    "ratingTag": "Perfect",
+                    "avatarImgUrl": "https://ak-d.tripcdn.com/target/Z80q0v000000jmf90B344.jpg",
+                    "reviewDate": "2023-10-25 18:36:31"
+                },
+                "selectedReviewList": [
+                    {
+                        "nickName": "Guest User",
+                        "regionCode": "",
+                        "content": "The first time I came to Bangladesh for a business trip, the locals recommended Dhaka Westin, I came directly, and I was not disappointed. The hotel is very clean, the breakfast is also very appetizing, the surrounding is particularly convenient, and it will be here in the future!",
+                        "rating": 5,
+                        "avatarImgUrl": "https://ak-d.tripcdn.com/target/Z80q0v000000jmf90B344.jpg"
+                    },
+                    {
+                        "nickName": "Guest User",
+                        "regionCode": "",
+                        "content": "The hotel management is satisfactory, the breakfast is very rich, the environment is very good, clean and tidy.",
+                        "rating": 5,
+                        "avatarImgUrl": "https://ak-d.tripcdn.com/target/Z80q0v000000jmf90B344.jpg"
+                    },
+                    {
+                        "nickName": "AYZQ",
+                        "regionCode": "",
+                        "content": "Booked for management business trip. Nothing to complain and satisfied with stay.",
+                        "rating": 5,
+                        "avatarImgUrl": "https://ak-d.tripcdn.com/target/0a22q22348aiq2qgwED2B.jpg"
+                    }
+                ],
+                "stimulation": {
+                    "lastBookTime": {
+                        "value": 0,
+                        "unit": "Hour"
+                    }
+                },
+                "commentTags": [],
+                "encourage": {
+                    "breakfast": true,
+                    "cancellation": false
+                },
+                "displayPrice": {
+                    "price": 134,
+                    "taxPrice": 176,
+                    "oriPrice": 154,
+                    "checkIn": "2024-12-14"
+                },
+                "brand": {
+                    "id": 1165,
+                    "name": "Westin"
+                },
+                "trafficList": [
+                    {
+                        "id": 1,
+                        "type": 2,
+                        "description": "9.5km from Hazrat Shahjalal International Airport"
+                    },
+                    {
+                        "id": 2,
+                        "type": 3,
+                        "description": "4.6km from Deventer Colmschate Railway Station"
+                    }
+                ],
+                "hotelTypeList": [],
+                "hotelThemeList": [
+                    {
+                        "id": 58,
+                        "name": "Business travel",
+                        "url": ""
+                    }
+                ],
+                "hotelFacilityList": [
+                    {
+                        "id": 0,
+                        "name": "Airport pickup service"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Restaurant"
+                    },
+                    {
+                        "id": 4,
+                        "name": "Gym"
+                    },
+                    {
+                        "id": 20,
+                        "name": "24 hour reception"
+                    },
+                    {
+                        "id": 21,
+                        "name": "Currency exchange"
+                    },
+                    {
+                        "id": 22,
+                        "name": "Luggage storage"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Spa"
+                    },
+                    {
+                        "id": 23,
+                        "name": "Car hire"
+                    },
+                    {
+                        "id": 8,
+                        "name": "Swimming Pools"
+                    },
+                    {
+                        "id": 25,
+                        "name": "Smoking area"
+                    },
+                    {
+                        "id": 11,
+                        "name": "Bar"
+                    },
+                    {
+                        "id": 1,
+                        "name": "Breakfast"
+                    },
+                    {
+                        "id": 3,
+                        "name": "Non-smoking room"
+                    }
+                ],
+                "openYear": "2007-07-01",
+                "fitmentYear": "2011-01-01",
+                "standard": 0
+            },
+            {
+                "hotelId": 120229404,
+                "hotelUrl": "grand-vistana",
+                "hotelJumpUrl": "https://uk.trip.com/hotels/dhaka-hotel-detail-120229404/grand-vistana/",
+                "hotelName": "Grand Vistana",
+                "districtName": "Uttara",
+                "districtId": 254152,
+                "districtJumpUrl": "/hotels/list?city=733&optionType=Zone&optionId=254152",
+                "hotelNameUrl": "/hotels/dhaka-hotel-detail-120229404/grand-vistana/?checkin=2024-12-20&city=733&module=list&link=button&from_page=list&adult=1&checkout=2024-12-21",
+                "lat": 23.856941,
+                "lon": 90.401835,
+                "brief": "A stay at Grand Vistana places you in the heart of Dhaka, within a 10-minute drive of International Convention City Bashundhara and Jamuna Future Park. This hotel is 6.2 mi (9.9 km) from Baridhara Park and 7.2 mi (11.7 km) from Sher-e-Bangla Cricket Stadium.\r\nTake advantage of recreation opportunities such as a 24-hour fitness center, or other amenities including complimentary wireless internet access and concierge services. Additional features at this hotel include wedding services and a ballroom. If you'd like to spend the day shopping, you can hop on the shuttle (surcharge).\r\nEnjoy a meal at the restaurant, or stay in and take advantage of the hotel's 24-hour room service. A complimentary buffet breakfast is served daily from 6:00 AM to 10:30 AM.\r\nFeatured amenities include a business center, a 24-hour front desk, and luggage storage. Planning an event in Dhaka? This hotel has 380 square feet (35 square meters) of space consisting of a conference center and meeting rooms. A shuttle from the airport to the hotel is complimentary (available 24 hours), and a train station pick-up service is also provided at no charge.\r\nMake yourself at home in one of the 42 air-conditioned rooms featuring minibars. Your pillowtop bed comes with premium bedding. Complimentary wireless internet access is available to keep you connected. Private bathrooms with showers feature rainfall showerheads and complimentary toiletries.",
+                "star": 4,
+                "diamond": 4,
+                "votes": 13,
+                "rating": 4.6,
+                "ratingTxt": "4.6",
+                "ratingTag": "Outstanding",
+                "imgUrl": "/1mc5z12000gjtddur706C.jpg",
+                "pictureList": [
+                    {
+                        "pictureId": 1125602293,
+                        "pictureType": 1,
+                        "pictureTypeName": "Hotel Exterior",
+                        "pictureUrl": "/0224u12000egyivzl26B4.jpg"
+                    },
+                    {
+                        "pictureId": 1079951517,
+                        "pictureType": 6,
+                        "pictureTypeName": "Rooms",
+                        "pictureUrl": "/0585812000ed15juu3351.jpg"
+                    },
+                    {
+                        "pictureId": 1079951243,
+                        "pictureType": 6,
+                        "pictureTypeName": "Rooms",
+                        "pictureUrl": "/0583712000ed15hna1E66.jpg"
+                    },
+                    {
+                        "pictureId": 1079440309,
+                        "pictureType": 4,
+                        "pictureTypeName": "Dining/Meeting Rooms",
+                        "pictureUrl": "/0580412000eaxtxlmB597.jpg"
+                    },
+                    {
+                        "pictureId": 1207159657,
+                        "pictureType": 3,
+                        "pictureTypeName": "Fitness & Recreational Facilities",
+                        "pictureUrl": "/0226k12000egp1uzp7B58.jpg"
+                    },
+                    {
+                        "pictureId": 1079914909,
+                        "pictureType": 5,
+                        "pictureTypeName": "Others",
+                        "pictureUrl": "/0200u12000ebfczzq89F1.jpg"
+                    },
+                    {
+                        "pictureId": 1079440321,
+                        "pictureType": 5,
+                        "pictureTypeName": "Others",
+                        "pictureUrl": "/0583912000eaxwvbqB7AD.jpg"
+                    },
+                    {
+                        "pictureId": 1079440323,
+                        "pictureType": 5,
+                        "pictureTypeName": "Others",
+                        "pictureUrl": "/0584t12000eaxtj003B92.jpg"
+                    },
+                    {
+                        "pictureId": 1079440291,
+                        "pictureType": 5,
+                        "pictureTypeName": "Others",
+                        "pictureUrl": "/0582p12000eaxx3zz7052.jpg"
+                    },
+                    {
+                        "pictureId": 1148032867,
+                        "pictureType": 5,
+                        "pictureTypeName": "Others",
+                        "pictureUrl": "/0586u12000fvud2j5F473.jpg"
+                    },
+                    {
+                        "pictureId": 1125602253,
+                        "pictureType": 5,
+                        "pictureTypeName": "Others",
+                        "pictureUrl": "/0221412000egp1enl961C.jpg"
+                    }
+                ],
+                "pictureTotalNum": 66,
+                "address": "Uttara Model Town | Sector: 1 | House: 11 | Road: 06 |",
+                "fullAddress": "Uttara Model Town | Sector: 1 | House: 11 | Road: 06 |, Uttara, Dhaka, Dhaka Division, 1230, Bangladesh",
+                "cityId": 733,
+                "cityName": "Dhaka",
+                "cityJumpUrl": "/hotels/list?city=733",
+                "countryId": 68,
+                "countryName": "Bangladesh",
+                "regionType": "Overseas",
+                "distance": {
+                    "distance": 5.29,
+                    "unit": "KM",
+                    "poiType": "Downtown",
+                    "poiName": ""
+                },
+                "distanceDesc": "5.29KM from city centre",
+                "prices": {
+                    "priceInfos": [
+                        {
+                            "price": 29,
+                            "type": "AverageWithoutTax",
+                            "checkIn": "2024-12-12"
+                        },
+                        {
+                            "price": 29,
+                            "type": "Cheap",
+                            "checkIn": "2024-12-15"
+                        }
+                    ]
+                },
+                "selectedReview": {
+                    "nickName": "",
+                    "regionCode": "",
+                    "content": "We chose this hotel for its situation near the airport. It was a good move as traffic getting into Dhaka is chaotic and time consuming. Our room was quite small but pleasant with both a kettle and minibar. However the air conditioning unit was very noisy and I had to use earplugs to get to sleep. The staff were helpful and even offered to take us somewhere to buy beer. However, when we got there we were not able to get any !!!!!! We had a good evening meal in the hotel restaurant ( fish and chips )",
+                    "rating": 4,
+                    "ratingTag": "Very Good",
+                    "avatarImgUrl": "",
+                    "reviewDate": "2024-11-21 10:08:40"
+                },
+                "selectedReviewList": [
+                    {
+                        "nickName": "",
+                        "regionCode": "",
+                        "content": "We chose this hotel for its situation near the airport. It was a good move as traffic getting into Dhaka is chaotic and time consuming. Our room was quite small but pleasant with both a kettle and minibar. However the air conditioning unit was very noisy and I had to use earplugs to get to sleep. The staff were helpful and even offered to take us somewhere to buy beer. However, when we got there we were not able to get any !!!!!! We had a good evening meal in the hotel restaurant ( fish and chips )",
+                        "rating": 4,
+                        "avatarImgUrl": ""
+                    },
+                    {
+                        "nickName": "",
+                        "regionCode": "",
+                        "content": "In my personal opinion Grand Vistana is one of the best hotel in uttara and it’s located near International airport. They have a wonderful lobby, room is very neat and clear, all employees are polite, food is very delicious. In department of F&B service, Mr. Rabby Dewan is very kind & helpful. Definitely I’ll come again with my family & I also suggest everyone to visit this lovely hotel.",
+                        "rating": 5,
+                        "avatarImgUrl": ""
+                    },
+                    {
+                        "nickName": "86 ec",
+                        "regionCode": "",
+                        "content": "The location of the hotel is very close to the airport, right on the road, which is really convenient\nThe waiters are very friendly and solve problems promptly.\nThe spray force is too small and the amount of warm water is too small\nThe toilet was not scrubbed clean\nOverall, get by with it.",
+                        "rating": 4,
+                        "avatarImgUrl": "https://ak-d.tripcdn.com/target/1i54412000dex20ub5452.jpg"
+                    }
+                ],
+                "stimulation": {
+                    "lastBookTime": {
+                        "value": 0,
+                        "unit": "Hour"
+                    }
+                },
+                "commentTags": [],
+                "encourage": {
+                    "breakfast": true,
+                    "cancellation": false
+                },
+                "displayPrice": {
+                    "price": 29,
+                    "taxPrice": 36,
+                    "oriPrice": 35,
+                    "checkIn": "2024-12-14"
+                },
+                "trafficList": [
+                    {
+                        "id": 1,
+                        "type": 2,
+                        "description": "2.0km from Hazrat Shahjalal International Airport"
+                    },
+                    {
+                        "id": 2,
+                        "type": 3,
+                        "description": "7.1km from Deventer Colmschate Railway Station"
+                    }
+                ],
+                "hotelFacilityList": [
+                    {
+                        "id": 0,
+                        "name": "Airport pickup service"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Restaurant"
+                    },
+                    {
+                        "id": 4,
+                        "name": "Gym"
+                    },
+                    {
+                        "id": 20,
+                        "name": "24 hour reception"
+                    },
+                    {
+                        "id": 21,
+                        "name": "Currency exchange"
+                    },
+                    {
+                        "id": 22,
+                        "name": "Luggage storage"
+                    },
+                    {
+                        "id": 23,
+                        "name": "Car hire"
+                    },
+                    {
+                        "id": 9,
+                        "name": "Wi-Fi"
+                    },
+                    {
+                        "id": 25,
+                        "name": "Smoking area"
+                    },
+                    {
+                        "id": 1,
+                        "name": "Breakfast"
+                    },
+                    {
+                        "id": 3,
+                        "name": "Non-smoking room"
+                    }
+                ],
+                "openYear": "2024-01-01",
+                "fitmentYear": "2024-01-01",
+                "standard": 0
+            },
+            {
+                "hotelId": 99965525,
+                "hotelUrl": "doreen-hotel-dhaka-gulshan",
+                "hotelJumpUrl": "https://uk.trip.com/hotels/dhaka-hotel-detail-99965525/doreen-hotel-dhaka-gulshan/",
+                "hotelName": "Crowne Plaza Dhaka Gulshan",
+                "districtName": "Gulshan",
+                "districtId": 254631,
+                "districtJumpUrl": "/hotels/list?city=733&optionType=Zone&optionId=254631",
+                "hotelNameUrl": "/hotels/dhaka-hotel-detail-99965525/doreen-hotel-dhaka-gulshan/?checkin=2024-12-20&city=733&module=list&link=button&from_page=list&adult=1&checkout=2024-12-21",
+                "lat": 23.79459,
+                "lon": 90.41395,
+                "brief": "Welcome to Crowne Plaza Dhaka Gulshan! We are a prominent hotel brand in IHG, known for our family-friendly environment and extensive loyalty program, IHG One Rewards. Located just 8.9 km from Hazrat Shahjalal International Airport, our hotel provides easy access to business districts, premium shopping, and dining options.During your stay, enjoy our modern amenities, comfortable bedding, and pillow choices in our premium accommodations. Indulge in culinary delights at our diverse dining establishments. Flair offers a wide selection of dishes at our all-day buffet restaurant, while Deli serves freshly brewed coffee and delightful pastries. For an exceptional dining experience, visit The Beast, our fine dining restaurant on the 26th floor, or try the unique flavors of our seasonal BBQ restaurant, Panache.Enjoy 24/7 access to our well-equipped gym, along with convenient services like in-house laundry, a self-service Business Centre, and round-the-clock room service.If you're planning an event, our modern function rooms feature state-of-the-art audio-visual equipment, perfect for meetings, receptions, or wedding dinners. Our dedicated banquets team will customize our facilities to meet your specific needs.We can't wait to welcome you to Crowne Plaza Dhaka Gulshan and provide you with true hospitality.",
+                "star": 5,
+                "diamond": 5,
+                "votes": 63,
+                "rating": 4.7,
+                "ratingTxt": "4.7",
+                "ratingTag": "Outstanding",
+                "imgUrl": "/0585812000cvq1sip15F9.jpg",
+                "pictureList": [
+                    {
+                        "pictureId": 1092744501,
+                        "pictureType": 1,
+                        "pictureTypeName": "Hotel Exterior",
+                        "pictureUrl": "/0581612000eqhjqdq2294.jpg"
+                    },
+                    {
+                        "pictureId": 1091679285,
+                        "pictureType": 6,
+                        "pictureTypeName": "Rooms",
+                        "pictureUrl": "/0222412000epgw1uz29DE.jpg"
+                    },
+                    {
+                        "pictureId": 1093337993,
+                        "pictureType": 6,
+                        "pictureTypeName": "Rooms",
+                        "pictureUrl": "/0222412000epgw1uz29DE.jpg"
+                    },
+                    {
+                        "pictureId": 871736185,
+                        "pictureType": 4,
+                        "pictureTypeName": "Dining/Meeting Rooms",
+                        "pictureUrl": "/0582112000cvq1zfyF2C1.jpg"
+                    },
+                    {
+                        "pictureId": 1079208833,
+                        "pictureType": 3,
+                        "pictureTypeName": "Fitness & Recreational Facilities",
+                        "pictureUrl": "/0223v12000ea8m50j46F0.jpg"
+                    },
+                    {
+                        "pictureId": 824338821,
+                        "pictureType": 5,
+                        "pictureTypeName": "Others",
+                        "pictureUrl": "/02240120009y6991u7789.jpg"
+                    },
+                    {
+                        "pictureId": 1092424033,
+                        "pictureType": 5,
+                        "pictureTypeName": "Others",
+                        "pictureUrl": "/0222e12000d572imw10FC.jpg"
+                    },
+                    {
+                        "pictureId": 871736183,
+                        "pictureType": 5,
+                        "pictureTypeName": "Others",
+                        "pictureUrl": "/0584612000cvq3tdu5E3D.jpg"
+                    },
+                    {
+                        "pictureId": 1005839493,
+                        "pictureType": 5,
+                        "pictureTypeName": "Others",
+                        "pictureUrl": "/0585w12000corxd6h677A.jpg"
+                    },
+                    {
+                        "pictureId": 673732804,
+                        "pictureType": 5,
+                        "pictureTypeName": "Others",
+                        "pictureUrl": "/0226s12000aaknilo0EEB.jpg"
+                    },
+                    {
+                        "pictureId": 1091973683,
+                        "pictureType": 5,
+                        "pictureTypeName": "Others",
+                        "pictureUrl": "/0223712000ckh6x1jBD95.jpg"
+                    }
+                ],
+                "pictureTotalNum": 143,
+                "address": "6A Madani Ave",
+                "fullAddress": "6A Madani Ave, Gulshan, Dhaka, Dhaka Division, 1212, Bangladesh",
+                "cityId": 733,
+                "cityName": "Dhaka",
+                "cityJumpUrl": "/hotels/list?city=733",
+                "countryId": 68,
+                "countryName": "Bangladesh",
+                "regionType": "Overseas",
+                "distance": {
+                    "distance": 1.76,
+                    "unit": "KM",
+                    "poiType": "Downtown",
+                    "poiName": ""
+                },
+                "distanceDesc": "1.76KM from city centre",
+                "prices": {
+                    "priceInfos": [
+                        {
+                            "price": 82,
+                            "type": "AverageWithoutTax",
+                            "checkIn": "2024-12-16"
+                        },
+                        {
+                            "price": 82,
+                            "type": "Cheap",
+                            "checkIn": "2024-12-19"
+                        }
+                    ]
+                },
+                "selectedReview": {
+                    "nickName": "Guest User",
+                    "regionCode": "",
+                    "content": "My 1st time to Bangladesh for work trip, and glad to stay in Crowne Plaza for 4 nights. I wished to thank all the staff for the great services.  Special thanks to Ms Shinthia, Mr Sawan, Mr Farhan, Mr Manazi, Mr Rakib, Mr Absar and Mr Kadih. They are very friendly, thoughtful, polite and attentive. They are always ready to serve and really cheerful too.   Ms Shinthia has good memory and remembers I drink Americano in the morning and always get it ready when she sees me.   Mr Kadih who is from the housekeeping team is very attentive and patient too.  Though Mr Absar is new but he is always ready to serve and tried his best to communicate with the guest.  You have a good team which is commendable and had made my stay a great one. I'll definitely be back on next work trip.  Once again all the best and keep up the good work too.  Cheers :)",
+                    "rating": 5,
+                    "ratingTag": "Perfect",
+                    "avatarImgUrl": "",
+                    "reviewDate": "2024-01-13 11:25:49"
+                },
+                "selectedReviewList": [
+                    {
+                        "nickName": "Guest User",
+                        "regionCode": "",
+                        "content": "My 1st time to Bangladesh for work trip, and glad to stay in Crowne Plaza for 4 nights. I wished to thank all the staff for the great services.  Special thanks to Ms Shinthia, Mr Sawan, Mr Farhan, Mr Manazi, Mr Rakib, Mr Absar and Mr Kadih. They are very friendly, thoughtful, polite and attentive. They are always ready to serve and really cheerful too.   Ms Shinthia has good memory and remembers I drink Americano in the morning and always get it ready when she sees me.   Mr Kadih who is from the housekeeping team is very attentive and patient too.  Though Mr Absar is new but he is always ready to serve and tried his best to communicate with the guest.  You have a good team which is commendable and had made my stay a great one. I'll definitely be back on next work trip.  Once again all the best and keep up the good work too.  Cheers :)",
+                        "rating": 5,
+                        "avatarImgUrl": ""
+                    },
+                    {
+                        "nickName": "Guest User",
+                        "regionCode": "",
+                        "content": "I would like to extend my sincere thanks to the entire staff of IHG Crowne Plaza Dhaka, as this is my third time staying at this establishment. I would like to specifically acknowledge the manager, Mr Riyaz, as well as the hospitality team consisting of Mr Shidul, Ms Shinthia, Mr. Tomoy, Mr. Emraan, and Mr. Saidul. I would also like to thank the chefs and housekeeping staff, particularly Mr Hazzaz. The exceptional level of service provided by Mr Riyad and the rest of the reception staff is truly commendable. Each and every member of the team has been incredibly helpful during my stay, and I look forward to seeing them again during my next visit.",
+                        "rating": 5,
+                        "avatarImgUrl": ""
+                    },
+                    {
+                        "nickName": "Guest User",
+                        "regionCode": "",
+                        "content": "It was a great experience there. Strating from tge beginning up to last moment. Their behaviour, ambience everything was so worthy.  The time i was there i enjoyed every single second.  excellent place with a calm ambiance. The peaceful atmosphere  made my experience really enjoyable. ",
+                        "rating": 5,
+                        "avatarImgUrl": ""
+                    }
+                ],
+                "stimulation": {
+                    "lastBookTime": {
+                        "value": 0,
+                        "unit": "Hour"
+                    }
+                },
+                "commentTags": [
+                    "Great service",
+                    "Great stay!"
+                ],
+                "encourage": {
+                    "breakfast": true,
+                    "cancellation": false
+                },
+                "displayPrice": {
+                    "price": 87,
+                    "taxPrice": 114,
+                    "oriPrice": 0,
+                    "checkIn": "2024-12-18"
+                },
+                "brand": {
+                    "id": 23,
+                    "name": "Crowne Plaza"
+                },
+                "trafficList": [
+                    {
+                        "id": 1,
+                        "type": 2,
+                        "description": "9.0km from Hazrat Shahjalal International Airport"
+                    },
+                    {
+                        "id": 2,
+                        "type": 3,
+                        "description": "4.4km from Deventer Colmschate Railway Station"
+                    }
+                ],
+                "hotelFacilityList": [
+                    {
+                        "id": 0,
+                        "name": "Airport pickup service"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Restaurant"
+                    },
+                    {
+                        "id": 4,
+                        "name": "Gym"
+                    },
+                    {
+                        "id": 20,
+                        "name": "24 hour reception"
+                    },
+                    {
+                        "id": 22,
+                        "name": "Luggage storage"
+                    },
+                    {
+                        "id": 23,
+                        "name": "Car hire"
+                    },
+                    {
+                        "id": 8,
+                        "name": "Swimming Pools"
+                    },
+                    {
+                        "id": 25,
+                        "name": "Smoking area"
+                    },
+                    {
+                        "id": 9,
+                        "name": "Wi-Fi"
+                    },
+                    {
+                        "id": 1,
+                        "name": "Breakfast"
+                    },
+                    {
+                        "id": 3,
+                        "name": "Non-smoking room"
+                    }
+                ],
+                "openYear": "2023-01-19",
+                "fitmentYear": "2023-01-19",
+                "standard": 0
+            },
+            {
+                "hotelId": 2192472,
+                "hotelUrl": "dhaka-regency-hotel-and-resort-limited",
+                "hotelJumpUrl": "https://uk.trip.com/hotels/dhaka-hotel-detail-2192472/dhaka-regency-hotel-and-resort-limited/",
+                "hotelName": "Dhaka Regency Hotel & Resort Limited",
+                "districtId": 0,
+                "hotelNameUrl": "/hotels/dhaka-hotel-detail-2192472/dhaka-regency-hotel-and-resort-limited/?checkin=2024-12-20&city=733&module=list&link=button&from_page=list&adult=1&checkout=2024-12-21",
+                "lat": 23.829347,
+                "lon": 90.419461,
+                "brief": "Located in Dhaka, Dhaka Regency Hotel & Resort is connected to the convention center, a 1-minute drive from Rajuk Trade Center Shopping Mall and 6 minutes from Jamuna Future Park. This family-friendly hotel is 3.3 mi (5.3 km) from Kurmitola General Hospital and 3.4 mi (5.5 km) from Army Golf Club.\r\nRelax at the full-service spa, where you can enjoy massages, body treatments, and facials. You're sure to appreciate the recreational amenities, including a health club, an outdoor pool, and a sauna. Additional amenities at this hotel include complimentary wireless internet access, concierge services, and free babysitting.\r\nEnjoy international cuisine at Grandiose Restaurant, a restaurant which features a bar/lounge, or stay in and take advantage of the 24-hour room service. Wrap up your day with a drink at the poolside bar. Buffet breakfasts are available daily from 6:30 AM to 10:30 AM for a fee.\r\nFeatured amenities include a 24-hour business center, limo/town car service, and complimentary newspapers in the lobby. A roundtrip airport shuttle is provided for a surcharge (available 24 hours), and free valet parking is available onsite.\r\nMake yourself at home in one of the 220 air-conditioned rooms featuring minibars and LED televisions. Complimentary wireless internet access keeps you connected, and satellite programming is available for your entertainment. Private bathrooms with shower/tub combinations feature complimentary toiletries and hair dryers. Conveniences include phones, as well as safes and desks.",
+                "star": 5,
+                "diamond": 5,
+                "votes": 69,
+                "rating": 3.8,
+                "ratingTxt": "3.8",
+                "imgUrl": "/0581j12000cs51an0887C.jpg",
+                "pictureList": [
+                    {
+                        "pictureId": 1070960859,
+                        "pictureType": 1,
+                        "pictureTypeName": "Hotel Exterior",
+                        "pictureUrl": "/0584z12000dxj9oei0F2B.jpg"
+                    },
+                    {
+                        "pictureId": 374136352,
+                        "pictureType": 1,
+                        "pictureTypeName": "Hotel Exterior",
+                        "pictureUrl": "/0220b120009vug2a9EF7D.jpg"
+                    },
+                    {
+                        "pictureId": 432191531,
+                        "pictureType": 6,
+                        "pictureTypeName": "Rooms",
+                        "pictureUrl": "/200m1e000001fxr0h7EC1.jpg"
+                    },
+                    {
+                        "pictureId": 432195434,
+                        "pictureType": 6,
+                        "pictureTypeName": "Rooms",
+                        "pictureUrl": "/200m1e000001fxr0h7EC1.jpg"
+                    },
+                    {
+                        "pictureId": 1066331581,
+                        "pictureType": 4,
+                        "pictureTypeName": "Dining/Meeting Rooms",
+                        "pictureUrl": "/0584w12000dtk8qpsB932.jpg"
+                    },
+                    {
+                        "pictureId": 280624866,
+                        "pictureType": 5,
+                        "pictureTypeName": "Others",
+                        "pictureUrl": "/240i0s000000hsjas206F.jpg"
+                    },
+                    {
+                        "pictureId": 280624868,
+                        "pictureType": 5,
+                        "pictureTypeName": "Others",
+                        "pictureUrl": "/240p0s000000hsuky6670.jpg"
+                    },
+                    {
+                        "pictureId": 374136326,
+                        "pictureType": 5,
+                        "pictureTypeName": "Others",
+                        "pictureUrl": "/0222p120009vug0ji7A55.jpg"
+                    },
+                    {
+                        "pictureId": 1028866663,
+                        "pictureType": 5,
+                        "pictureTypeName": "Others",
+                        "pictureUrl": "/0585412000d3sog8h6315.jpg"
+                    },
+                    {
+                        "pictureId": 1028866653,
+                        "pictureType": 5,
+                        "pictureTypeName": "Others",
+                        "pictureUrl": "/0583n12000d3sot2t9038.jpg"
+                    },
+                    {
+                        "pictureId": 637182137,
+                        "pictureType": 5,
+                        "pictureTypeName": "Others",
+                        "pictureUrl": "/0220z120009vug3vwAED8.jpg"
+                    }
+                ],
+                "pictureTotalNum": 226,
+                "address": "Airport Rd",
+                "fullAddress": "Airport Rd, Dhaka, Dhaka Division, 1229, Bangladesh",
+                "cityId": 733,
+                "cityName": "Dhaka",
+                "cityJumpUrl": "/hotels/list?city=733",
+                "countryId": 68,
+                "countryName": "Bangladesh",
+                "regionType": "Overseas",
+                "distance": {
+                    "distance": 2.23,
+                    "unit": "KM",
+                    "poiType": "Downtown",
+                    "poiName": ""
+                },
+                "distanceDesc": "2.23KM from city centre",
+                "prices": {
+                    "priceInfos": [
+                        {
+                            "price": 62,
+                            "type": "AverageWithoutTax",
+                            "checkIn": "2024-12-14"
+                        },
+                        {
+                            "price": 62,
+                            "type": "Cheap",
+                            "checkIn": "2024-12-15"
+                        }
+                    ]
+                },
+                "selectedReview": {
+                    "nickName": "Buleigencisushunqin",
+                    "regionCode": "",
+                    "content": "The room is OK, and the breakfast is OK. It is next to the airport road, so try to ask the front desk not to arrange a room facing the street. The picture shows the sky garden on the top floor, and the swimming pool is also on the top floor",
+                    "rating": 5,
+                    "ratingTag": "Perfect",
+                    "avatarImgUrl": "https://ak-d.tripcdn.com/target/1h65v12000dkztr8s5F69.jpg",
+                    "reviewDate": "2024-03-15 23:03:39"
+                },
+                "selectedReviewList": [
+                    {
+                        "nickName": "Buleigencisushunqin",
+                        "regionCode": "",
+                        "content": "The room is OK, and the breakfast is OK. It is next to the airport road, so try to ask the front desk not to arrange a room facing the street. The picture shows the sky garden on the top floor, and the swimming pool is also on the top floor",
+                        "rating": 5,
+                        "avatarImgUrl": "https://ak-d.tripcdn.com/target/1h65v12000dkztr8s5F69.jpg"
+                    },
+                    {
+                        "nickName": "Alex Yiek",
+                        "regionCode": "",
+                        "content": "Facilities totally spoiled, shower head, pipe hanger all broke, room small, smelly don’t matched with the price paid for at all. Not recommended",
+                        "rating": 3,
+                        "avatarImgUrl": "https://ak-d.tripcdn.com/target/0a202224x8tkkxl5j41C0.jpg"
+                    },
+                    {
+                        "nickName": "Guest User",
+                        "regionCode": "",
+                        "content": "A little bit of taste, but it will be gone after a while",
+                        "rating": 4.7,
+                        "avatarImgUrl": "https://ak-d.tripcdn.com/target/1i54d12000dex2bvn9345.jpg"
+                    }
+                ],
+                "stimulation": {
+                    "lastBookTime": {
+                        "value": 0,
+                        "unit": "Hour"
+                    }
+                },
+                "commentTags": [],
+                "encourage": {
+                    "breakfast": true,
+                    "cancellation": false
+                },
+                "displayPrice": {
+                    "price": 62,
+                    "taxPrice": 78,
+                    "oriPrice": 0,
+                    "checkIn": "2024-12-14"
+                },
+                "trafficList": [
+                    {
+                        "id": 1,
+                        "type": 3,
+                        "description": "5.1km from Deventer Colmschate Railway Station"
+                    }
+                ],
+                "hotelTypeList": [],
+                "hotelThemeList": [
+                    {
+                        "id": 58,
+                        "name": "Business travel",
+                        "url": ""
+                    }
+                ],
+                "hotelFacilityList": [
+                    {
+                        "id": 0,
+                        "name": "Airport pickup service"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Restaurant"
+                    },
+                    {
+                        "id": 4,
+                        "name": "Gym"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Spa"
+                    },
+                    {
+                        "id": 8,
+                        "name": "Swimming Pools"
+                    },
+                    {
+                        "id": 9,
+                        "name": "Wi-Fi"
+                    },
+                    {
+                        "id": 11,
+                        "name": "Bar"
+                    },
+                    {
+                        "id": 16,
+                        "name": "Sauna"
+                    },
+                    {
+                        "id": 20,
+                        "name": "24 hour reception"
+                    },
+                    {
+                        "id": 21,
+                        "name": "Currency exchange"
+                    },
+                    {
+                        "id": 22,
+                        "name": "Luggage storage"
+                    },
+                    {
+                        "id": 23,
+                        "name": "Car hire"
+                    },
+                    {
+                        "id": 25,
+                        "name": "Smoking area"
+                    },
+                    {
+                        "id": 26,
+                        "name": "Golf course"
+                    },
+                    {
+                        "id": 1,
+                        "name": "Breakfast"
+                    },
+                    {
+                        "id": 3,
+                        "name": "Non-smoking room"
+                    }
+                ],
+                "openYear": "2007-01-01",
+                "fitmentYear": "2007-01-01",
+                "standard": 0
+            },
+            {
+                "hotelId": 6443806,
+                "hotelUrl": "blossom-hotel-pvt-ltd",
+                "hotelJumpUrl": "https://uk.trip.com/hotels/dhaka-hotel-detail-6443806/blossom-hotel-pvt-ltd/",
+                "hotelName": "Blossom Hotel Dhaka",
+                "districtName": "Baridhara",
+                "districtId": 254732,
+                "districtJumpUrl": "/hotels/list?city=733&optionType=Zone&optionId=254732",
+                "hotelNameUrl": "/hotels/dhaka-hotel-detail-6443806/blossom-hotel-pvt-ltd/?checkin=2024-12-20&city=733&module=list&link=button&from_page=list&adult=1&checkout=2024-12-21",
+                "lat": 23.797509,
+                "lon": 90.425268,
+                "brief": "When you stay at Blossom Hotel Dhaka in Dhaka, you'll be connected to the convention center, within a 10-minute walk of Embassy of the United States of America and Embassy of Thailand. This hotel is 0.7 mi (1.2 km) from Embassy of Turkey and 0.8 mi (1.2 km) from Embassy of South Korea.\r\nEnjoy recreation amenities such as a 24-hour health club or take in the view from a rooftop terrace. Additional features at this hotel include complimentary wireless internet access, concierge services, and barbecue grills.\r\nEnjoy a meal at the restaurant, or stay in and take advantage of the hotel's 24-hour room service. Mingle with other guests at the complimentary reception, held daily. A complimentary local cuisine breakfast is served daily from 6:30 AM to 10:30 AM.\r\nFeatured amenities include a 24-hour business center, express check-in, and express check-out. A shuttle from the airport to the hotel is provided for a surcharge (available 24 hours), and free self parking is available onsite.\r\nMake yourself at home in one of the 35 air-conditioned rooms featuring fireplaces and plasma televisions. Your bed comes with down comforters and premium bedding. Complimentary wireless internet access keeps you connected, and cable programming is available for your entertainment. Conveniences include laptop-compatible safes and desks, and housekeeping is provided daily.",
+                "star": 3,
+                "diamond": 3,
+                "votes": 36,
+                "rating": 4.1,
+                "ratingTxt": "4.1",
+                "ratingTag": "Very Good",
+                "imgUrl": "/0584p12000dwzcihz8DCE.jpg",
+                "pictureList": [
+                    {
+                        "pictureId": 1114860623,
+                        "pictureType": 1,
+                        "pictureTypeName": "Hotel Exterior",
+                        "pictureUrl": "/0226d12000acbjazw6606.jpg"
+                    },
+                    {
+                        "pictureId": 1114860563,
+                        "pictureType": 1,
+                        "pictureTypeName": "Hotel Exterior",
+                        "pictureUrl": "/0221c120009xk22iu669C.jpg"
+                    },
+                    {
+                        "pictureId": 1070350361,
+                        "pictureType": 6,
+                        "pictureTypeName": "Rooms",
+                        "pictureUrl": "/0221512000alamhdd3742.jpg"
+                    },
+                    {
+                        "pictureId": 839004227,
+                        "pictureType": 4,
+                        "pictureTypeName": "Dining/Meeting Rooms",
+                        "pictureUrl": "/0223r12000b5e6tcu1DEA.jpg"
+                    },
+                    {
+                        "pictureId": 1114860293,
+                        "pictureType": 3,
+                        "pictureTypeName": "Fitness & Recreational Facilities",
+                        "pictureUrl": "/0222c12000alamvq7A461.jpg"
+                    },
+                    {
+                        "pictureId": 285375718,
+                        "pictureType": 5,
+                        "pictureTypeName": "Others",
+                        "pictureUrl": "/240a0u000000ituky8A12.jpg"
+                    },
+                    {
+                        "pictureId": 285375719,
+                        "pictureType": 5,
+                        "pictureTypeName": "Others",
+                        "pictureUrl": "/240p0u000000irnsz293C.jpg"
+                    },
+                    {
+                        "pictureId": 1114860379,
+                        "pictureType": 5,
+                        "pictureTypeName": "Others",
+                        "pictureUrl": "/0224212000alamv04E4A3.jpg"
+                    },
+                    {
+                        "pictureId": 1114860253,
+                        "pictureType": 5,
+                        "pictureTypeName": "Others",
+                        "pictureUrl": "/0220i12000alamv0005AA.jpg"
+                    },
+                    {
+                        "pictureId": 1016322289,
+                        "pictureType": 5,
+                        "pictureTypeName": "Others",
+                        "pictureUrl": "/0226t12000am2vapgE3B9.jpg"
+                    },
+                    {
+                        "pictureId": 1114860417,
+                        "pictureType": 5,
+                        "pictureTypeName": "Others",
+                        "pictureUrl": "/0225a12000alamtw48221.jpg"
+                    }
+                ],
+                "pictureTotalNum": 105,
+                "address": "House# 5, Road# 1/A, Block# J, Baridhara, US Embassy Rd",
+                "fullAddress": "House# 5, Road# 1/A, Block# J, Baridhara, US Embassy Rd, Baridhara, Dhaka, Dhaka Division, 1212, Bangladesh",
+                "cityId": 733,
+                "cityName": "Dhaka",
+                "cityJumpUrl": "/hotels/list?city=733",
+                "countryId": 68,
+                "countryName": "Bangladesh",
+                "regionType": "Overseas",
+                "distance": {
+                    "distance": 1.93,
+                    "unit": "KM",
+                    "poiType": "Downtown",
+                    "poiName": ""
+                },
+                "distanceDesc": "1.93KM from city centre",
+                "prices": {
+                    "priceInfos": [
+                        {
+                            "price": 17,
+                            "type": "AverageWithoutTax",
+                            "checkIn": "2024-12-13"
+                        },
+                        {
+                            "price": 14,
+                            "type": "Cheap",
+                            "checkIn": "2024-12-14"
+                        }
+                    ]
+                },
+                "selectedReview": {
+                    "nickName": "Shixilanhuaa",
+                    "regionCode": "",
+                    "content": "In Bangladesh, the hotel service is very good. It provides breakfast, airport pick-up and drop-off, and the rooms are cleaned every day in a timely manner. The service is in place. The hotel owner is very kind. Because the parade blocked my trip, the owner was worried that we were in danger and asked me to stay in the hotel for safety. In short, it is different from the negative news I heard before I came! It is very safe, come with confidence! 👍👍",
+                    "rating": 5,
+                    "ratingTag": "Perfect",
+                    "avatarImgUrl": "https://ak-d.tripcdn.com/target/0Z84t12000dnz7ytpFF47.jpg",
+                    "reviewDate": "2024-07-18 14:54:46"
+                },
+                "selectedReviewList": [
+                    {
+                        "nickName": "Shixilanhuaa",
+                        "regionCode": "",
+                        "content": "In Bangladesh, the hotel service is very good. It provides breakfast, airport pick-up and drop-off, and the rooms are cleaned every day in a timely manner. The service is in place. The hotel owner is very kind. Because the parade blocked my trip, the owner was worried that we were in danger and asked me to stay in the hotel for safety. In short, it is different from the negative news I heard before I came! It is very safe, come with confidence! 👍👍",
+                        "rating": 5,
+                        "avatarImgUrl": "https://ak-d.tripcdn.com/target/0Z84t12000dnz7ytpFF47.jpg"
+                    },
+                    {
+                        "nickName": "Guest User",
+                        "regionCode": "",
+                        "content": "It was a good stay at the HOTEL & also had an excellent hospitality .The rooms were having quite good & the ambience was good . Happen to have a great time with business meetings & also enjoyed the food & the GYM at the hotel . The team across reception , housekeeping , restaurant were quite courteous   Would recommend the same for all visitors travelling DHAKA",
+                        "rating": 4,
+                        "avatarImgUrl": ""
+                    },
+                    {
+                        "nickName": "Guest User",
+                        "regionCode": "",
+                        "content": "Clean room, good service",
+                        "rating": 5,
+                        "avatarImgUrl": "https://ak-d.tripcdn.com/target/1i54b12000dex2gdeE7AD.jpg"
+                    }
+                ],
+                "stimulation": {
+                    "lastBookTime": {
+                        "value": 0,
+                        "unit": "Hour"
+                    }
+                },
+                "commentTags": [
+                    "Friendly owner"
+                ],
+                "encourage": {
+                    "breakfast": true,
+                    "cancellation": false
+                },
+                "displayPrice": {
+                    "price": 14,
+                    "taxPrice": 16,
+                    "oriPrice": 23,
+                    "checkIn": "2024-12-13"
+                },
+                "trafficList": [
+                    {
+                        "id": 1,
+                        "type": 2,
+                        "description": "8.3km from Hazrat Shahjalal International Airport"
+                    },
+                    {
+                        "id": 2,
+                        "type": 3,
+                        "description": "4.6km from Deventer Colmschate Railway Station"
+                    }
+                ],
+                "hotelFacilityList": [
+                    {
+                        "id": 0,
+                        "name": "Airport pickup service"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Restaurant"
+                    },
+                    {
+                        "id": 4,
+                        "name": "Gym"
+                    },
+                    {
+                        "id": 20,
+                        "name": "24 hour reception"
+                    },
+                    {
+                        "id": 21,
+                        "name": "Currency exchange"
+                    },
+                    {
+                        "id": 22,
+                        "name": "Luggage storage"
+                    },
+                    {
+                        "id": 9,
+                        "name": "Wi-Fi"
+                    },
+                    {
+                        "id": 25,
+                        "name": "Smoking area"
+                    },
+                    {
+                        "id": 1,
+                        "name": "Breakfast"
+                    },
+                    {
+                        "id": 3,
+                        "name": "Non-smoking room"
+                    }
+                ],
+                "openYear": "2015-01-01",
+                "fitmentYear": "2022-01-01",
+                "standard": 0
+            },
+            {
+                "hotelId": 2510907,
+                "hotelUrl": "best-western-plus-maple-leaf-dhaka",
+                "hotelJumpUrl": "https://uk.trip.com/hotels/dhaka-hotel-detail-2510907/best-western-plus-maple-leaf-dhaka/",
+                "hotelName": "Best Western Plus Maple Leaf",
+                "districtName": "Uttara",
+                "districtId": 254152,
+                "districtJumpUrl": "/hotels/list?city=733&optionType=Zone&optionId=254152",
+                "hotelNameUrl": "/hotels/dhaka-hotel-detail-2510907/best-western-plus-maple-leaf-dhaka/?checkin=2024-12-20&city=733&module=list&link=button&from_page=list&adult=1&checkout=2024-12-21",
+                "lat": 23.855243,
+                "lon": 90.404097,
+                "brief": "A stay at Best Western Plus Maple Leaf places you in the heart of Dhaka, within a 10-minute drive of Jamuna Future Park and Bangladesh Army Stadium. This luxury hotel is 7.3 mi (11.7 km) from Gulshan Circle 1 and 8.8 mi (14.2 km) from Sher-e-Bangla Cricket Stadium.\r\nRelax at the full-service spa, where you can enjoy massages, body treatments, and facials. You can take advantage of recreational amenities such as a sauna and a fitness center. This hotel also features complimentary wireless internet access, concierge services, and a banquet hall.\r\nEnjoy Fusion cuisine at Tarragon, one of the hotel's 2 restaurants, or stay in and take advantage of the 24-hour room service. Snacks are also available at the coffee shop/cafe. Wrap up your day with a drink at the bar/lounge. Buffet breakfasts are available daily from 6:00 AM to 10:30 AM for a fee.\r\nFeatured amenities include complimentary wired internet access, a 24-hour business center, and express check-in. A roundtrip airport shuttle is provided for a surcharge (available 24 hours), and free self parking is available onsite.\r\nMake yourself at home in one of the 50 air-conditioned rooms featuring minibars and flat-screen televisions. Complimentary wired and wireless internet access keeps you connected, and cable programming provides entertainment. Private bathrooms with showers feature rainfall showerheads and complimentary toiletries. Conveniences include phones, as well as safes and desks.",
+                "star": 4,
+                "diamond": 4,
+                "votes": 64,
+                "rating": 4.3,
+                "ratingTxt": "4.3",
+                "ratingTag": "Excellent",
+                "imgUrl": "/200k0s000000i31cdA937.jpg",
+                "pictureList": [
+                    {
+                        "pictureId": 278060180,
+                        "pictureType": 1,
+                        "pictureTypeName": "Hotel Exterior",
+                        "pictureUrl": "/220c0u000000jcub331DF.jpg"
+                    },
+                    {
+                        "pictureId": 84430593,
+                        "pictureType": 1,
+                        "pictureTypeName": "Hotel Exterior",
+                        "pictureUrl": "/0226512000b6mdeku3726.jpg"
+                    },
+                    {
+                        "pictureId": 861452677,
+                        "pictureType": 6,
+                        "pictureTypeName": "Rooms",
+                        "pictureUrl": "/0225912000amab6xl9D21.jpg"
+                    },
+                    {
+                        "pictureId": 1045471357,
+                        "pictureType": 6,
+                        "pictureTypeName": "Rooms",
+                        "pictureUrl": "/1mc6y12000dfwl3mzC11F.jpg"
+                    },
+                    {
+                        "pictureId": 715316549,
+                        "pictureType": 4,
+                        "pictureTypeName": "Dining/Meeting Rooms",
+                        "pictureUrl": "/0220z120009i5tk0nA9FD.jpg"
+                    },
+                    {
+                        "pictureId": 1094738249,
+                        "pictureType": 3,
+                        "pictureTypeName": "Fitness & Recreational Facilities",
+                        "pictureUrl": "/0580b12000esl7y7n4A4E.jpg"
+                    },
+                    {
+                        "pictureId": 153463036,
+                        "pictureType": 5,
+                        "pictureTypeName": "Others",
+                        "pictureUrl": "/240i090000004b8p7E38E.jpg"
+                    },
+                    {
+                        "pictureId": 153463037,
+                        "pictureType": 5,
+                        "pictureTypeName": "Others",
+                        "pictureUrl": "/240g090000004b8oa5A49.jpg"
+                    },
+                    {
+                        "pictureId": 1100712865,
+                        "pictureType": 5,
+                        "pictureTypeName": "Others",
+                        "pictureUrl": "/0581l12000eytscop4141.jpg"
+                    },
+                    {
+                        "pictureId": 882705261,
+                        "pictureType": 5,
+                        "pictureTypeName": "Others",
+                        "pictureUrl": "/0585612000cv8kt129EE2.jpg"
+                    },
+                    {
+                        "pictureId": 1089422345,
+                        "pictureType": 5,
+                        "pictureTypeName": "Others",
+                        "pictureUrl": "/0582w12000emv12c39A61.jpg"
+                    },
+                    {
+                        "pictureId": 1089422341,
+                        "pictureType": 5,
+                        "pictureTypeName": "Others",
+                        "pictureUrl": "/0586b12000emv16brF153.jpg"
+                    }
+                ],
+                "pictureTotalNum": 107,
+                "address": "Maple Leaf Hotel, Plot 1B, Rd No 1",
+                "fullAddress": "Maple Leaf Hotel, Plot 1B, Rd No 1, Uttara, Dhaka, Dhaka Division, 1230, Bangladesh",
+                "cityId": 733,
+                "cityName": "Dhaka",
+                "cityJumpUrl": "/hotels/list?city=733",
+                "countryId": 68,
+                "countryName": "Bangladesh",
+                "regionType": "Overseas",
+                "distance": {
+                    "distance": 5.06,
+                    "unit": "KM",
+                    "poiType": "Downtown",
+                    "poiName": ""
+                },
+                "distanceDesc": "5.06KM from city centre",
+                "prices": {
+                    "priceInfos": [
+                        {
+                            "price": 79,
+                            "type": "AverageWithoutTax",
+                            "checkIn": "2024-12-13"
+                        },
+                        {
+                            "price": 79,
+                            "type": "Cheap",
+                            "checkIn": "2024-12-15"
+                        }
+                    ]
+                },
+                "selectedReview": {
+                    "nickName": "Guest User",
+                    "regionCode": "",
+                    "content": "Good to have a quick rest in a good hotel before/after the journey (5 min away from the airport).  Adv to the foreigners: 1. Don't take the room facing the road.. very noisy during day/night with honking everytime non stop. 2. Try to avoid fresh juice if you know yr stomach can't take it, otherwise you will suffer from poisoning.  The rest are acceptable as per the rest of other country's Best Western. Great view towards the airport on the rooftop  while enjoying the BBQ dinner. Small gym and a massage center on the top floor. Transport to the airport - UsD9 Dinner buffet doesn't come with a hot drink, even with a cofee/tea (only for b'fast).. ",
+                    "rating": 5,
+                    "ratingTag": "Perfect",
+                    "avatarImgUrl": "",
+                    "reviewDate": "2023-08-16 06:01:57"
+                },
+                "selectedReviewList": [
+                    {
+                        "nickName": "Guest User",
+                        "regionCode": "",
+                        "content": "Good to have a quick rest in a good hotel before/after the journey (5 min away from the airport).  Adv to the foreigners: 1. Don't take the room facing the road.. very noisy during day/night with honking everytime non stop. 2. Try to avoid fresh juice if you know yr stomach can't take it, otherwise you will suffer from poisoning.  The rest are acceptable as per the rest of other country's Best Western. Great view towards the airport on the rooftop  while enjoying the BBQ dinner. Small gym and a massage center on the top floor. Transport to the airport - UsD9 Dinner buffet doesn't come with a hot drink, even with a cofee/tea (only for b'fast).. ",
+                        "rating": 5,
+                        "avatarImgUrl": ""
+                    },
+                    {
+                        "nickName": "Guest User",
+                        "regionCode": "",
+                        "content": "The service has been exceptional. Extremely polite, efficient, accommodating and hospitable all round. The room and facilities are very comfortable and clean. My suitcase did not arrive with my flight and the hotel front desk, particularly Ahad, followed up with the airline diligently throughout the day and stayed on past the end of his shift to ensure that the bag arrived at the hotel in good order and that I received it directly. It has been an incredible start to my first trip to Bangladesh.",
+                        "rating": 5,
+                        "avatarImgUrl": ""
+                    },
+                    {
+                        "nickName": "Guest User",
+                        "regionCode": "",
+                        "content": "Was a short layover before departing from Dhaka. Hotel is nearest to airport thus making it convenient to travel to and fro the airport. Room was nice and clean and basic necessities available in-room. Only glitch was the room tv was not working. Anyway needed to rest so did not bother about it.",
+                        "rating": 5,
+                        "avatarImgUrl": ""
+                    }
+                ],
+                "stimulation": {
+                    "lastBookTime": {
+                        "value": 0,
+                        "unit": "Hour"
+                    }
+                },
+                "commentTags": [
+                    "Great service",
+                    "Easy to get around"
+                ],
+                "encourage": {
+                    "breakfast": true,
+                    "cancellation": false
+                },
+                "displayPrice": {
+                    "price": 79,
+                    "taxPrice": 100,
+                    "oriPrice": 0,
+                    "checkIn": "2024-12-14"
+                },
+                "brand": {
+                    "id": 1054,
+                    "name": "Best Western Plus"
+                },
+                "trafficList": [
+                    {
+                        "id": 1,
+                        "type": 2,
+                        "description": "1.6km from Hazrat Shahjalal International Airport"
+                    },
+                    {
+                        "id": 2,
+                        "type": 3,
+                        "description": "11.0km from Deventer Colmschate Railway Station"
+                    }
+                ],
+                "hotelFacilityList": [
+                    {
+                        "id": 0,
+                        "name": "Airport pickup service"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Restaurant"
+                    },
+                    {
+                        "id": 4,
+                        "name": "Gym"
+                    },
+                    {
+                        "id": 20,
+                        "name": "24 hour reception"
+                    },
+                    {
+                        "id": 21,
+                        "name": "Currency exchange"
+                    },
+                    {
+                        "id": 22,
+                        "name": "Luggage storage"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Spa"
+                    },
+                    {
+                        "id": 23,
+                        "name": "Car hire"
+                    },
+                    {
+                        "id": 9,
+                        "name": "Wi-Fi"
+                    },
+                    {
+                        "id": 25,
+                        "name": "Smoking area"
+                    },
+                    {
+                        "id": 11,
+                        "name": "Bar"
+                    },
+                    {
+                        "id": 1,
+                        "name": "Breakfast"
+                    },
+                    {
+                        "id": 3,
+                        "name": "Non-smoking room"
+                    }
+                ],
+                "openYear": "2014-01-01",
+                "fitmentYear": "2019-01-01",
+                "standard": 0
+            },
+            {
+                "hotelId": 13905697,
+                "hotelUrl": "hotel-ashrafee",
+                "hotelJumpUrl": "https://uk.trip.com/hotels/dhaka-hotel-detail-13905697/hotel-ashrafee/",
+                "hotelName": "Hotel Grand Circle Inn",
+                "districtName": "Motijheel",
+                "districtId": 253262,
+                "districtJumpUrl": "/hotels/list?city=733&optionType=Zone&optionId=253262",
+                "hotelNameUrl": "/hotels/dhaka-hotel-detail-13905697/hotel-ashrafee/?checkin=2024-12-20&city=733&module=list&link=button&from_page=list&adult=1&checkout=2024-12-21",
+                "lat": 23.741173,
+                "lon": 90.418581,
+                "brief": "Located in Dhaka, Hotel Ashrafee is within a 5-minute drive of Baitul Mukarram and St. Mary's Cathedral. This hotel is 1.1 mi (1.9 km) from Baily Road and 1.4 mi (2.3 km) from Ramna Park.\r\nTake in the views from a terrace and make use of amenities such as complimentary wireless internet access and concierge services.\r\nSatisfy your appetite for lunch or dinner at Aahelee, a restaurant which specializes in international cuisine, or stay in and take advantage of the 24-hour room service.\r\nFeatured amenities include complimentary newspapers in the lobby, dry cleaning/laundry services, and a 24-hour front desk. Free self parking is available onsite.\r\nStay in one of 30 guestrooms featuring LED televisions. Your pillowtop bed comes with down comforters and Egyptian cotton sheets. Complimentary wireless internet access keeps you connected, and cable programming is available for your entertainment. Bathrooms have deep soaking bathtubs and rainfall showerheads.",
+                "star": 3,
+                "diamond": 3,
+                "votes": 1,
+                "rating": 4,
+                "ratingTxt": "4.0",
+                "ratingTag": "Very Good",
+                "imgUrl": "/0220k12000ab794b48AEC.jpg",
+                "pictureList": [
+                    {
+                        "pictureId": 1172510809,
+                        "pictureType": 1,
+                        "pictureTypeName": "Hotel Exterior",
+                        "pictureUrl": "/0581x12000gqtg1wy0D81.jpg"
+                    },
+                    {
+                        "pictureId": 1183114181,
+                        "pictureType": 1,
+                        "pictureTypeName": "Hotel Exterior",
+                        "pictureUrl": "/0221112000fllo6bcB637.jpg"
+                    },
+                    {
+                        "pictureId": 1161051205,
+                        "pictureType": 6,
+                        "pictureTypeName": "Rooms",
+                        "pictureUrl": "/0581y12000gg9m3k9B3A6.jpg"
+                    },
+                    {
+                        "pictureId": 1119853909,
+                        "pictureType": 4,
+                        "pictureTypeName": "Dining/Meeting Rooms",
+                        "pictureUrl": "/0226v12000d1cmpy7D164.jpg"
+                    },
+                    {
+                        "pictureId": 263035498,
+                        "pictureType": 5,
+                        "pictureTypeName": "Others",
+                        "pictureUrl": "/240n0n000000e1mk133B2.jpg"
+                    },
+                    {
+                        "pictureId": 263035499,
+                        "pictureType": 5,
+                        "pictureTypeName": "Others",
+                        "pictureUrl": "/240c0n000000e56vrE8B6.jpg"
+                    },
+                    {
+                        "pictureId": 1119853849,
+                        "pictureType": 5,
+                        "pictureTypeName": "Others",
+                        "pictureUrl": "/0220h12000d1cmonfD772.jpg"
+                    },
+                    {
+                        "pictureId": 1025746571,
+                        "pictureType": 5,
+                        "pictureTypeName": "Others",
+                        "pictureUrl": "/0221u12000d1cmu957892.jpg"
+                    },
+                    {
+                        "pictureId": 1119853697,
+                        "pictureType": 5,
+                        "pictureTypeName": "Others",
+                        "pictureUrl": "/0225u12000d1cmvre6450.jpg"
+                    },
+                    {
+                        "pictureId": 1038035061,
+                        "pictureType": 5,
+                        "pictureTypeName": "Others",
+                        "pictureUrl": "/0225k12000dati2nh84D4.jpg"
+                    }
+                ],
+                "pictureTotalNum": 122,
+                "address": "12 Outer Circular Rd",
+                "fullAddress": "12 Outer Circular Rd, Motijheel, Dhaka, Dhaka Division, 1217, Bangladesh",
+                "cityId": 733,
+                "cityName": "Dhaka",
+                "cityJumpUrl": "/hotels/list?city=733",
+                "countryId": 68,
+                "countryName": "Bangladesh",
+                "regionType": "Overseas",
+                "distance": {
+                    "distance": 7.71,
+                    "unit": "KM",
+                    "poiType": "Downtown",
+                    "poiName": ""
+                },
+                "distanceDesc": "7.71KM from city centre",
+                "prices": {
+                    "priceInfos": [
+                        {
+                            "price": 16,
+                            "type": "AverageWithoutTax",
+                            "checkIn": "2024-12-13"
+                        },
+                        {
+                            "price": 17,
+                            "type": "Cheap",
+                            "checkIn": "2024-12-14"
+                        }
+                    ]
+                },
+                "selectedReview": {
+                    "nickName": "TerryLu",
+                    "regionCode": "",
+                    "content": "The overall comfort is okay, but the single bed is a bit narrow and difficult to turn over. For breakfast, there are pancakes, quiches, eggs, coffee or juice. It’s also convenient to hail a taxi when going out, which is okay.",
+                    "rating": 4,
+                    "ratingTag": "Very Good",
+                    "avatarImgUrl": "https://ak-d.tripcdn.com/target/0a24b224x8u418kmoE501.jpg",
+                    "reviewDate": "2024-04-14 23:19:23"
+                },
+                "selectedReviewList": [
+                    {
+                        "nickName": "TerryLu",
+                        "regionCode": "",
+                        "content": "The overall comfort is okay, but the single bed is a bit narrow and difficult to turn over. For breakfast, there are pancakes, quiches, eggs, coffee or juice. It’s also convenient to hail a taxi when going out, which is okay.",
+                        "rating": 4,
+                        "avatarImgUrl": "https://ak-d.tripcdn.com/target/0a24b224x8u418kmoE501.jpg"
+                    }
+                ],
+                "stimulation": {
+                    "lastBookTime": {
+                        "value": 0,
+                        "unit": "Hour"
+                    }
+                },
+                "commentTags": [],
+                "encourage": {
+                    "breakfast": true,
+                    "cancellation": false
+                },
+                "displayPrice": {
+                    "price": 17,
+                    "taxPrice": 19,
+                    "oriPrice": 20,
+                    "checkIn": "2024-12-13"
+                },
+                "trafficList": [
+                    {
+                        "id": 1,
+                        "type": 2,
+                        "description": "17.7km from Hazrat Shahjalal International Airport"
+                    },
+                    {
+                        "id": 2,
+                        "type": 3,
+                        "description": "12.0km from Deventer Colmschate Railway Station"
+                    }
+                ],
+                "hotelFacilityList": [
+                    {
+                        "id": 2,
+                        "name": "Restaurant"
+                    },
+                    {
+                        "id": 20,
+                        "name": "24 hour reception"
+                    },
+                    {
+                        "id": 21,
+                        "name": "Currency exchange"
+                    },
+                    {
+                        "id": 22,
+                        "name": "Luggage storage"
+                    },
+                    {
+                        "id": 9,
+                        "name": "Wi-Fi"
+                    },
+                    {
+                        "id": 1,
+                        "name": "Breakfast"
+                    },
+                    {
+                        "id": 3,
+                        "name": "Non-smoking room"
+                    }
+                ],
+                "openYear": "1753-01-01",
+                "fitmentYear": "1753-01-01",
+                "standard": 0
+            },
+            {
+                "hotelId": 1014156,
+                "hotelUrl": "pan-pacific-sonargaon-dhaka",
+                "hotelJumpUrl": "https://uk.trip.com/hotels/dhaka-hotel-detail-1014156/pan-pacific-sonargaon-dhaka/",
+                "hotelName": "Pan Pacific Sonargaon Dhaka",
+                "districtName": "Ramna",
+                "districtId": 253321,
+                "districtJumpUrl": "/hotels/list?city=733&optionType=Zone&optionId=253321",
+                "hotelNameUrl": "/hotels/dhaka-hotel-detail-1014156/pan-pacific-sonargaon-dhaka/?checkin=2024-12-20&city=733&module=list&link=button&from_page=list&adult=1&checkout=2024-12-21",
+                "lat": 23.749489,
+                "lon": 90.394466,
+                "brief": "With a stay at Pan Pacific Sonargaon Dhaka, you'll be centrally located in Dhaka, a 4-minute walk from Bashundhara City Mall and a 2-minute drive from University of Dhaka. This 5-star hotel is 1.3 mi (2 km) from Bangladesh National Museum and 1.4 mi (2.3 km) from Square Hospital Limited.\r\nPamper yourself with a visit to the spa, which offers massages, body treatments, and facials. You can take advantage of recreational amenities such as a health club, an outdoor pool, and a spa tub. This hotel also features complimentary wireless Internet access, concierge services, and gift shops/newsstands.\r\nGrab a bite at Jharna Grill, one of the hotel's 2 restaurants, or stay in and take advantage of the 24-hour room service. Snacks are also available at the 3 coffee shops/cafes. Wrap up your day with a drink at the bar/lounge. Buffet breakfasts are available daily from 6:30 AM to 10:00 AM for a fee.\r\nFeatured amenities include complimentary wired Internet access, a business center, and limo/town car service. A roundtrip airport shuttle is provided for a surcharge (available 24 hours), and free valet parking is available onsite.\r\nMake yourself at home in one of the 277 air-conditioned rooms featuring plasma televisions. Complimentary wired and wireless Internet access keeps you connected, and cable programming provides entertainment. Private bathrooms with shower/tub combinations feature complimentary toiletries and hair dryers. Conveniences include phones, as well as safes and desks.",
+                "star": 5,
+                "diamond": 5,
+                "votes": 78,
+                "rating": 4.3,
+                "ratingTxt": "4.3",
+                "ratingTag": "Excellent",
+                "imgUrl": "/02271120009h92ygsEDDE.jpg",
+                "pictureList": [
+                    {
+                        "pictureId": 837943979,
+                        "pictureType": 1,
+                        "pictureTypeName": "Hotel Exterior",
+                        "pictureUrl": "/0582b12000cttsxzwF22C.jpg"
+                    },
+                    {
+                        "pictureId": 892233021,
+                        "pictureType": 6,
+                        "pictureTypeName": "Rooms",
+                        "pictureUrl": "/1mc5412000bkyr01r37C3.jpg"
+                    },
+                    {
+                        "pictureId": 892233869,
+                        "pictureType": 6,
+                        "pictureTypeName": "Rooms",
+                        "pictureUrl": "/1mc5412000bkyr01r37C3.jpg"
+                    },
+                    {
+                        "pictureId": 266406620,
+                        "pictureType": 4,
+                        "pictureTypeName": "Dining/Meeting Rooms",
+                        "pictureUrl": "/220a0g00000080y2l8726.jpg"
+                    },
+                    {
+                        "pictureId": 591250121,
+                        "pictureType": 3,
+                        "pictureTypeName": "Fitness & Recreational Facilities",
+                        "pictureUrl": "/0583712000ctttdgkC755.jpg"
+                    },
+                    {
+                        "pictureId": 282025884,
+                        "pictureType": 5,
+                        "pictureTypeName": "Others",
+                        "pictureUrl": "/240e0s000000ibnf0024C.jpg"
+                    },
+                    {
+                        "pictureId": 282025885,
+                        "pictureType": 5,
+                        "pictureTypeName": "Others",
+                        "pictureUrl": "/240b0s000000ibaeu58A9.jpg"
+                    },
+                    {
+                        "pictureId": 344965247,
+                        "pictureType": 5,
+                        "pictureTypeName": "Others",
+                        "pictureUrl": "/220o14000000vzbo08C1B.jpg"
+                    },
+                    {
+                        "pictureId": 409601481,
+                        "pictureType": 5,
+                        "pictureTypeName": "Others",
+                        "pictureUrl": "/0586y12000ctttonyEA98.jpg"
+                    },
+                    {
+                        "pictureId": 602976471,
+                        "pictureType": 5,
+                        "pictureTypeName": "Others",
+                        "pictureUrl": "/0581612000cttt2y78985.jpg"
+                    },
+                    {
+                        "pictureId": 368148558,
+                        "pictureType": 5,
+                        "pictureTypeName": "Others",
+                        "pictureUrl": "/0225t120008d1ns0823BA.jpg"
+                    }
+                ],
+                "pictureTotalNum": 142,
+                "address": "107 Kazi Nazrul Islam Ave",
+                "fullAddress": "107 Kazi Nazrul Islam Ave, Ramna, Dhaka, Dhaka Division, 1215, Bangladesh",
+                "cityId": 733,
+                "cityName": "Dhaka",
+                "cityJumpUrl": "/hotels/list?city=733",
+                "countryId": 68,
+                "countryName": "Bangladesh",
+                "regionType": "Overseas",
+                "distance": {
+                    "distance": 7.01,
+                    "unit": "KM",
+                    "poiType": "Downtown",
+                    "poiName": ""
+                },
+                "distanceDesc": "7.01KM from city centre",
+                "prices": {
+                    "priceInfos": [
+                        {
+                            "price": 104,
+                            "type": "AverageWithoutTax",
+                            "checkIn": "2024-12-14"
+                        },
+                        {
+                            "price": 104,
+                            "type": "Cheap",
+                            "checkIn": "2024-12-14"
+                        }
+                    ]
+                },
+                "selectedReview": {
+                    "nickName": "Guest User",
+                    "regionCode": "",
+                    "content": "The room is only about 20 square meters, and the bathroom is relatively small. It cannot be compared with domestic 5-star hotel standards. Compared with 3-4 stars, the people are still very welcoming.",
+                    "rating": 3.7,
+                    "avatarImgUrl": "https://ak-d.tripcdn.com/target/1i54p12000h1rhnro8066.jpg",
+                    "reviewDate": "2024-03-11 18:56:37"
+                },
+                "selectedReviewList": [
+                    {
+                        "nickName": "Guest User",
+                        "regionCode": "",
+                        "content": "The room is only about 20 square meters, and the bathroom is relatively small. It cannot be compared with domestic 5-star hotel standards. Compared with 3-4 stars, the people are still very welcoming.",
+                        "rating": 3.7,
+                        "avatarImgUrl": "https://ak-d.tripcdn.com/target/1i54p12000h1rhnro8066.jpg"
+                    },
+                    {
+                        "nickName": "K…..",
+                        "regionCode": "",
+                        "content": "Great hotel, great service, also great food. The location of this hotel was perfect for my stay",
+                        "rating": 5,
+                        "avatarImgUrl": "https://ak-d.tripcdn.com/target/1i54b12000dex2gdeE7AD.jpg"
+                    },
+                    {
+                        "nickName": "Water",
+                        "regionCode": "",
+                        "content": "Very satisfied for hotel services",
+                        "rating": 5,
+                        "avatarImgUrl": "https://ak-d.tripcdn.com/target/Z8050f0000007ds812618.jpg"
+                    }
+                ],
+                "stimulation": {
+                    "lastBookTime": {
+                        "value": 0,
+                        "unit": "Hour"
+                    }
+                },
+                "commentTags": [
+                    "Great service"
+                ],
+                "encourage": {
+                    "breakfast": true,
+                    "cancellation": false
+                },
+                "displayPrice": {
+                    "price": 104,
+                    "taxPrice": 120,
+                    "oriPrice": 0,
+                    "checkIn": "2024-12-13"
+                },
+                "brand": {
+                    "id": 740,
+                    "name": "Pan Pacific"
+                },
+                "trafficList": [
+                    {
+                        "id": 1,
+                        "type": 2,
+                        "description": "15.0km from Hazrat Shahjalal International Airport"
+                    },
+                    {
+                        "id": 2,
+                        "type": 3,
+                        "description": "9.1km from Deventer Colmschate Railway Station"
+                    }
+                ],
+                "hotelTypeList": [],
+                "hotelThemeList": [
+                    {
+                        "id": 96,
+                        "name": "Family-friendly",
+                        "url": ""
+                    },
+                    {
+                        "id": 58,
+                        "name": "Business travel",
+                        "url": ""
+                    }
+                ],
+                "hotelFacilityList": [
+                    {
+                        "id": 0,
+                        "name": "Airport pickup service"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Restaurant"
+                    },
+                    {
+                        "id": 4,
+                        "name": "Gym"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Spa"
+                    },
+                    {
+                        "id": 8,
+                        "name": "Swimming Pools"
+                    },
+                    {
+                        "id": 9,
+                        "name": "Wi-Fi"
+                    },
+                    {
+                        "id": 11,
+                        "name": "Bar"
+                    },
+                    {
+                        "id": 16,
+                        "name": "Sauna"
+                    },
+                    {
+                        "id": 20,
+                        "name": "24 hour reception"
+                    },
+                    {
+                        "id": 21,
+                        "name": "Currency exchange"
+                    },
+                    {
+                        "id": 22,
+                        "name": "Luggage storage"
+                    },
+                    {
+                        "id": 23,
+                        "name": "Car hire"
+                    },
+                    {
+                        "id": 25,
+                        "name": "Smoking area"
+                    },
+                    {
+                        "id": 1,
+                        "name": "Breakfast"
+                    },
+                    {
+                        "id": 3,
+                        "name": "Non-smoking room"
+                    }
+                ],
+                "openYear": "1981-01-01",
+                "fitmentYear": "2006-01-01",
+                "standard": 0
+            }
+        ]
+    }
+]

@@ -1,0 +1,4203 @@
+[
+    {
+        "hotelList": [
+            {
+                "hotelBasicInfo": {
+                    "hotelId": 45570507,
+                    "masterHotelId": 45570507,
+                    "hotelName": "White Palace Hotel",
+                    "hotelEnName": "White Palace Hotel",
+                    "hotelImg": "https://ak-d.tripcdn.com/images/0581612000d3euoz5C29D_R_250_250_R5_D.jpg",
+                    "hotelImgRoundLoad": [
+                        {
+                            "position": 5,
+                            "group": 1,
+                            "url": "https://ak-d.tripcdn.com/images/0581612000d3euoz5C29D_R_250_250_R5_D.jpg",
+                            "pictureId": 372384977
+                        },
+                        {
+                            "position": 5,
+                            "group": 2,
+                            "url": "https://ak-d.tripcdn.com/images/0581612000d3euoz5C29D_R_600_600_R5_D.jpg",
+                            "pictureId": 372384977
+                        }
+                    ],
+                    "hotelAddress": "House no: 25, Road-06, Sector-09, Dhaka, House 25 Road No. 6",
+                    "superStar": 1,
+                    "favorityCount": 182,
+                    "browseCount": 0,
+                    "topRecommend": false,
+                    "topRecommendReason": "",
+                    "payType": 3,
+                    "isAdHotel": false,
+                    "adTraceid": "H4sIAAAAAAAA/+N40jnvz24jAUYDLg/GAMYoVkMrc2PjBKYC1g5GuQmMLjMYmQAoHBNFIwAAAA==",
+                    "isAdSlot": false,
+                    "starIcon": "",
+                    "hourRoomHours": "",
+                    "hourEarliestArriveTime": "",
+                    "hourLatestArriveTime": "",
+                    "price": 36,
+                    "originPrice": 40,
+                    "onlineTaxPrice": "36",
+                    "onlineAndShopTaxPrice": "36.31",
+                    "isEncrypt": false,
+                    "payAtHotelTax": 0,
+                    "isCollected": false,
+                    "isFullRoom": false,
+                    "isFullRoomCanFold": false,
+                    "hotelCloseInfo": null,
+                    "canNotBeOrderedInfo": {
+                        "messageBold": "",
+                        "cannotReserveCode": ""
+                    },
+                    "isPriceMask": 0,
+                    "medalInfo": {
+                        "medalType": 5,
+                        "description": "",
+                        "badgeHover": "Highly recommended hotels/suppliers have established a close partnership with Trip.com to provide attractive offers"
+                    },
+                    "wowHotel": false,
+                    "lastBookingTimeRemark": "",
+                    "additionTexts": [
+                        {
+                            "additionName": "ChildrenNormalTag",
+                            "additionText": ""
+                        },
+                        {
+                            "additionName": "FreeCancelMessage",
+                            "additionText": "Free Cancellation"
+                        },
+                        {
+                            "additionName": "FreeBreakfast",
+                            "additionText": "Breakfast included"
+                        },
+                        {
+                            "additionName": "LastBooking",
+                            "additionText": "Last booked 10 hours ago on our site"
+                        }
+                    ],
+                    "isThirtyFreeCancel": false,
+                    "openYear": "2018",
+                    "guestInfoEntity": {
+                        "childAge": [],
+                        "childBed": [],
+                        "childMeal": [],
+                        "childType": [],
+                        "guestHover": "",
+                        "childCount": 0,
+                        "adultCount": 2
+                    },
+                    "signInNote": "",
+                    "hidePrice": false,
+                    "priceExplanation": "Incl. taxes & fees",
+                    "payAtHotelTaxText": "",
+                    "hotelMultiImgs": [
+                        [
+                            {
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0581612000d3euoz5C29D_R_600_600_R5_D.jpg",
+                                "pictureId": 372384977
+                            },
+                            {
+                                "position": 29,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0581612000d3euoz5C29D_R_600_600_R5_D.jpg",
+                                "pictureId": 372384977
+                            }
+                        ],
+                        [
+                            {
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0226k12000ambm1c6368C_R_600_600_R5_D.jpg",
+                                "pictureId": 919839287
+                            },
+                            {
+                                "position": 29,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0226k12000ambm1c6368C_R_600_600_R5_D.jpg",
+                                "pictureId": 919839287
+                            }
+                        ],
+                        [
+                            {
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0226312000amblukhFE7E_R_600_600_R5_D.jpg",
+                                "pictureId": 919839315
+                            },
+                            {
+                                "position": 29,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0226312000amblukhFE7E_R_600_600_R5_D.jpg",
+                                "pictureId": 919839315
+                            }
+                        ],
+                        [
+                            {
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0586c12000d3eumrnC177_R_600_600_R5_D.jpg",
+                                "pictureId": 372385008
+                            },
+                            {
+                                "position": 29,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0586c12000d3eumrnC177_R_600_600_R5_D.jpg",
+                                "pictureId": 372385008
+                            }
+                        ],
+                        [
+                            {
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0587312000d3eur1745E4_R_600_600_R5_D.jpg",
+                                "pictureId": 867978319
+                            },
+                            {
+                                "position": 29,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0587312000d3eur1745E4_R_600_600_R5_D.jpg",
+                                "pictureId": 867978319
+                            }
+                        ]
+                    ],
+                    "hotelNames": [
+                        "White Palace Hotel"
+                    ],
+                    "needHighlight": false
+                },
+                "hotelDecorateInfo": {
+                    "tagName": "Renovated in 2023"
+                },
+                "hotelFeatureTagInfo": [],
+                "hotelStarInfo": {
+                    "star": 4,
+                    "isLicenseStar": false,
+                    "starType": 1
+                },
+                "commentInfo": {
+                    "commentScore": "4.2",
+                    "commentDescription": "Very Good",
+                    "commenterNumber": "86 reviews",
+                    "subScore": [
+                        {
+                            "number": "4.2",
+                            "content": "Location",
+                            "scoreAvg": "4",
+                            "scoreType": 2
+                        },
+                        {
+                            "number": "4.1",
+                            "content": "Cleanliness",
+                            "scoreAvg": "3.9",
+                            "scoreType": 3
+                        },
+                        {
+                            "number": "4.4",
+                            "content": "Service",
+                            "scoreAvg": "4",
+                            "scoreType": 4
+                        },
+                        {
+                            "number": "4.2",
+                            "content": "Amenities",
+                            "scoreAvg": "3.9",
+                            "scoreType": 5
+                        }
+                    ],
+                    "tARatingInfo": null,
+                    "taAlt": "",
+                    "taUrl": "",
+                    "taCount": 0,
+                    "taReview": ""
+                },
+                "roomInfo": {
+                    "roomId": "1542728919",
+                    "shadowId": 0,
+                    "name": "",
+                    "adult": 0,
+                    "physicalRoomName": "Super Deluxe Twin Room",
+                    "isBooking": false,
+                    "bed": {
+                        "list": [
+                            "ic_new_twobeds"
+                        ],
+                        "contentListHover": [],
+                        "contentList": [
+                            "2 single beds"
+                        ],
+                        "cpxBedInfo": {
+                            "title": "",
+                            "bedDetail": [
+                                {
+                                    "roomName": "Bedroom 1",
+                                    "detail": [
+                                        "2 single beds(1m wide)"
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                },
+                "positionInfo": {
+                    "cityId": 733,
+                    "cityName": "Dhaka",
+                    "cityNameEn": "Dhaka",
+                    "positionDesc": "Near Hazrat Shahjalal International Airport",
+                    "positionName": "Near Hazrat Shahjalal International Airport",
+                    "positionInfo": "7.9 km from centre",
+                    "transport": {},
+                    "coordinate": {
+                        "cityId": 733,
+                        "lat": 23.879744,
+                        "lng": 90.39683,
+                        "isOversea": true,
+                        "coordinateType": 1
+                    },
+                    "zoneNames": [
+                        "Near Hazrat Shahjalal International Airport"
+                    ],
+                    "isOversea": true,
+                    "mapCoordinate": [
+                        {
+                            "coordinateType": 1,
+                            "latitude": "23.879744",
+                            "longitude": "90.39683",
+                            "gcoordType": "WGS84"
+                        },
+                        {
+                            "coordinateType": 2,
+                            "latitude": "23.879744",
+                            "longitude": "90.39683",
+                            "gcoordType": "WGS84"
+                        },
+                        {
+                            "coordinateType": 3,
+                            "latitude": "23.882968346799398",
+                            "longitude": "90.40494163655853",
+                            "gcoordType": "BD09"
+                        }
+                    ],
+                    "linearDist": 7.890282399999999
+                },
+                "minRoomInfo": {
+                    "roomId": "1542728919",
+                    "roomName": "",
+                    "shadowId": 0,
+                    "encryptedRoomId": 0
+                },
+                "tags": [
+                    {
+                        "name": "",
+                        "tagTitle": "DISCOUNTAMOUNT",
+                        "tagId": 90001,
+                        "tagDesc": "",
+                        "value": "4",
+                        "subTagId": 0,
+                        "tagPosition": 0,
+                        "labelExtensions": [],
+                        "tagTemplateId": 0
+                    },
+                    {
+                        "name": "Friendly owner|Great stay!",
+                        "tagTitle": "OneSentenceComment",
+                        "tagId": 0,
+                        "tagDesc": "",
+                        "value": "",
+                        "subTagId": 0,
+                        "tagPosition": 0,
+                        "labelExtensions": [],
+                        "tagTemplateId": 0
+                    },
+                    {
+                        "name": "",
+                        "tagTitle": "PROMOTION",
+                        "tagId": 11600,
+                        "tagDesc": "Special Discount",
+                        "value": "",
+                        "subTagId": 0,
+                        "tagPosition": 0,
+                        "labelExtensions": [],
+                        "tagTemplateId": 0
+                    }
+                ],
+                "saleRoom": {
+                    "person": 2,
+                    "mealNum": 2,
+                    "mealType": 4
+                },
+                "promotion": [
+                    {
+                        "type": 1,
+                        "tagIcon": "ic_tag_sale",
+                        "text": "Special Discount"
+                    }
+                ],
+                "discountLabels": [
+                    {
+                        "type": 21,
+                        "text": "",
+                        "value": "4"
+                    },
+                    {
+                        "type": 1,
+                        "tagIcon": "ic_tag_sale",
+                        "text": "Special Discount"
+                    }
+                ],
+                "specialPriceLabels": [],
+                "memberGrade": {},
+                "trace": {
+                    "traceLogId": "bbece0027a397",
+                    "timestamp": "1734085150414"
+                },
+                "extensions": {
+                    "hotelUniqueKey": "H4sIAAAAAAAAAONaxMTFJMEkxMTBKDWdieP6zQv3WS0mCjn2H_qqEVNc4OB5fXGBLdflEocAnkIGMHB2aGQ8ewYIeuwdJjFWcIIFGzwdBMGCa1wdlMQ5fjftsRBoZJT437F0NaMCo8VB8SCGKAYlF47blyYaC-hLXHyxYgZQXBNmoiGMYdEo6Agz3BPGCGLlmMIswRLFynGdSYLFiZXjsLwEywzG05vviq5gZNzIKN_6OnBHXaDDDkamE4wqC5iebl-hsosJouwQkP7JKsFyionhEhPDLSaGR0wQ014xMXxigpj4C6q2iZmhi5lhEjNExyxmiMJFzAxSvElJqcmpBgZG5onGluYKQhrzpnzYxWakNImRyd3pFKOUobmxiYGFqaGJiYmxsV5imnFiuH96qWNJQZoVsxSjmwdjEJuxiYWFq2GUFhdzaLCLoNLfb6UPZGQdpJjdnQIU97AKidinKTlogeQMYXJJrKl5uu5OGX8FChgbGJm7GDkEGD0YIxgrGF8xgrT9AIcAALdq1KLBAQAA",
+                    "quarantineTip": "",
+                    "recommendFilter": 0,
+                    "priceHigh": -1,
+                    "attachedFilters": [],
+                    "dispatchId": "308736fb-12d4-4328-8cc2-e82c59a82918-104"
+                },
+                "queryType": "NORMAL",
+                "isCombinedRoom": false,
+                "combinedRoomQuality": null,
+                "extras": {
+                    "COMPENSATE_FILTER_ITEMS_INDEX": null,
+                    "PropertyCurrency": "USD",
+                    "PropertyCurrencyExchange": "7.2782",
+                    "PriceCalendarRecommend": null,
+                    "ChildPriceRoom": "T"
+                },
+                "token": "eJyrVkrJLC7ISawMKMpMTlWyMjbTUcpNLC5JLfLIL0nN8UxRsjIxNTU3MDUw11HKSSwuCS1ISSxJDcnMTVWyMjQ3NjGwMDU0NTA2Na0FAK0HFzg=",
+                "hotelNameTags": [
+                    {
+                        "tagTitle": "Renovated in 2023",
+                        "tagTemplateId": 202333
+                    }
+                ],
+                "roomTags": {
+                    "advantageTags": [
+                        {
+                            "tagTitle": "Free Cancellation",
+                            "tagId": 10580,
+                            "tagTemplateId": 10001,
+                            "tagPosition": 2
+                        },
+                        {
+                            "tagTitle": "Breakfast included",
+                            "tagId": 12367,
+                            "tagTemplateId": 10001,
+                            "tagPosition": 2
+                        }
+                    ],
+                    "promotionTags": [
+                        {
+                            "tagTitle": "Special Discount",
+                            "tagTemplateId": 400030
+                        }
+                    ],
+                    "discountPercentTags": [
+                        {
+                            "tagTitle": "£4 Off",
+                            "tagTemplateId": 40006
+                        }
+                    ],
+                    "encourageTags": [
+                        {
+                            "tagTitle": "Last booked 10 hrs ago",
+                            "tagTemplateId": 10011
+                        }
+                    ]
+                }
+            },
+            {
+                "hotelBasicInfo": {
+                    "hotelId": 120229404,
+                    "masterHotelId": 120229404,
+                    "hotelName": "Grand Vistana",
+                    "hotelEnName": "Grand Vistana",
+                    "hotelImg": "https://ak-d.tripcdn.com/images/1mc5z12000gjtddur706C_R_250_250_R5_D.jpg",
+                    "hotelImgRoundLoad": [
+                        {
+                            "position": 5,
+                            "group": 1,
+                            "url": "https://ak-d.tripcdn.com/images/1mc5z12000gjtddur706C_R_250_250_R5_D.jpg",
+                            "pictureId": 1163215967
+                        },
+                        {
+                            "position": 5,
+                            "group": 2,
+                            "url": "https://ak-d.tripcdn.com/images/1mc5z12000gjtddur706C_R_600_600_R5_D.jpg",
+                            "pictureId": 1163215967
+                        }
+                    ],
+                    "hotelAddress": "Uttara Model Town | Sector: 1 | House: 11 | Road: 06 |",
+                    "superStar": 1,
+                    "favorityCount": 0,
+                    "browseCount": 0,
+                    "topRecommend": false,
+                    "topRecommendReason": "",
+                    "payType": 1,
+                    "isAdHotel": false,
+                    "adTraceid": "H4sIAAAAAAAA/+N40jnvz24jAUYDLg/GAMYoVkMrc2PjBKYC1g5GuQmMLjMYmQAoHBNFIwAAAA==",
+                    "isAdSlot": false,
+                    "starIcon": "",
+                    "hourRoomHours": "",
+                    "hourEarliestArriveTime": "",
+                    "hourLatestArriveTime": "",
+                    "price": 37,
+                    "originPrice": 44,
+                    "onlineTaxPrice": "37",
+                    "onlineAndShopTaxPrice": "36.67",
+                    "isEncrypt": false,
+                    "payAtHotelTax": 0,
+                    "isCollected": false,
+                    "isFullRoom": false,
+                    "isFullRoomCanFold": false,
+                    "hotelCloseInfo": null,
+                    "canNotBeOrderedInfo": {
+                        "messageBold": "",
+                        "cannotReserveCode": ""
+                    },
+                    "isPriceMask": 0,
+                    "medalInfo": {
+                        "medalType": 5,
+                        "description": "",
+                        "badgeHover": "Highly recommended hotels/suppliers have established a close partnership with Trip.com to provide attractive offers"
+                    },
+                    "wowHotel": false,
+                    "lastBookingTimeRemark": "",
+                    "additionTexts": [
+                        {
+                            "additionName": "ChildrenNormalTag",
+                            "additionText": ""
+                        },
+                        {
+                            "additionName": "LastBooking",
+                            "additionText": "Last booked 4 hours ago on our site"
+                        }
+                    ],
+                    "isThirtyFreeCancel": false,
+                    "openYear": "2024",
+                    "guestInfoEntity": {
+                        "childAge": [],
+                        "childBed": [],
+                        "childMeal": [],
+                        "childType": [],
+                        "guestHover": "",
+                        "childCount": 0,
+                        "adultCount": 2
+                    },
+                    "signInNote": "",
+                    "hidePrice": false,
+                    "priceExplanation": "Incl. taxes & fees",
+                    "payAtHotelTaxText": "",
+                    "hotelMultiImgs": [
+                        [
+                            {
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/1mc5z12000gjtddur706C_R_600_600_R5_D.jpg",
+                                "pictureId": 1163215967
+                            },
+                            {
+                                "position": 29,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/1mc5z12000gjtddur706C_R_600_600_R5_D.jpg",
+                                "pictureId": 1163215967
+                            }
+                        ],
+                        [
+                            {
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0224u12000egyivzl26B4_R_600_600_R5_D.jpg",
+                                "pictureId": 1125602293
+                            },
+                            {
+                                "position": 29,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0224u12000egyivzl26B4_R_600_600_R5_D.jpg",
+                                "pictureId": 1125602293
+                            }
+                        ],
+                        [
+                            {
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0585812000ed15juu3351_R_600_600_R5_D.jpg",
+                                "pictureId": 1079951517
+                            },
+                            {
+                                "position": 29,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0585812000ed15juu3351_R_600_600_R5_D.jpg",
+                                "pictureId": 1079951517
+                            }
+                        ],
+                        [
+                            {
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0583712000ed15hna1E66_R_600_600_R5_D.jpg",
+                                "pictureId": 1079951243
+                            },
+                            {
+                                "position": 29,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0583712000ed15hna1E66_R_600_600_R5_D.jpg",
+                                "pictureId": 1079951243
+                            }
+                        ],
+                        [
+                            {
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0200u12000ebfczzq89F1_R_600_600_R5_D.jpg",
+                                "pictureId": 1079914909
+                            },
+                            {
+                                "position": 29,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0200u12000ebfczzq89F1_R_600_600_R5_D.jpg",
+                                "pictureId": 1079914909
+                            }
+                        ]
+                    ],
+                    "hotelNames": [
+                        "Grand Vistana"
+                    ],
+                    "needHighlight": false
+                },
+                "hotelDecorateInfo": {
+                    "tagName": "Opened in 2024"
+                },
+                "hotelFeatureTagInfo": [],
+                "hotelStarInfo": {
+                    "star": 4,
+                    "isLicenseStar": false,
+                    "starType": 1
+                },
+                "commentInfo": {
+                    "commentScore": "4.7",
+                    "commentDescription": "Amazing",
+                    "commenterNumber": "16 reviews",
+                    "subScore": [
+                        {
+                            "number": "4.8",
+                            "content": "Location",
+                            "scoreAvg": "4",
+                            "scoreType": 2
+                        },
+                        {
+                            "number": "4.6",
+                            "content": "Cleanliness",
+                            "scoreAvg": "3.9",
+                            "scoreType": 3
+                        },
+                        {
+                            "number": "4.8",
+                            "content": "Service",
+                            "scoreAvg": "4",
+                            "scoreType": 4
+                        },
+                        {
+                            "number": "4.6",
+                            "content": "Amenities",
+                            "scoreAvg": "3.9",
+                            "scoreType": 5
+                        }
+                    ],
+                    "tARatingInfo": null,
+                    "taAlt": "",
+                    "taUrl": "",
+                    "taCount": 0,
+                    "taReview": ""
+                },
+                "roomInfo": {
+                    "roomId": "1559753170",
+                    "shadowId": 0,
+                    "name": "",
+                    "adult": 0,
+                    "physicalRoomName": "Deluxe Room With City View",
+                    "isBooking": false,
+                    "bed": {
+                        "list": [
+                            "ic_new_double_bed"
+                        ],
+                        "contentListHover": [],
+                        "contentList": [
+                            "1 double bed"
+                        ],
+                        "cpxBedInfo": {
+                            "title": "",
+                            "bedDetail": [
+                                {
+                                    "roomName": "Bedroom 1",
+                                    "detail": [
+                                        "1 double bed(1.5m wide)"
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                },
+                "positionInfo": {
+                    "cityId": 733,
+                    "cityName": "Dhaka",
+                    "cityNameEn": "Dhaka",
+                    "positionDesc": "Near Hazrat Shahjalal International Airport",
+                    "positionName": "Near Hazrat Shahjalal International Airport",
+                    "positionInfo": "5.3 km from centre",
+                    "transport": {},
+                    "coordinate": {
+                        "cityId": 733,
+                        "lat": 23.856941,
+                        "lng": 90.401835,
+                        "isOversea": true,
+                        "coordinateType": 1
+                    },
+                    "zoneNames": [
+                        "Near Hazrat Shahjalal International Airport"
+                    ],
+                    "isOversea": true,
+                    "mapCoordinate": [
+                        {
+                            "coordinateType": 1,
+                            "latitude": "23.856941",
+                            "longitude": "90.401835",
+                            "gcoordType": "WGS84"
+                        },
+                        {
+                            "coordinateType": 2,
+                            "latitude": "23.856941",
+                            "longitude": "90.401835",
+                            "gcoordType": "WGS84"
+                        },
+                        {
+                            "coordinateType": 3,
+                            "latitude": "23.860110940802507",
+                            "longitude": "90.40994365905476",
+                            "gcoordType": "BD09"
+                        }
+                    ],
+                    "linearDist": 5.3013005
+                },
+                "minRoomInfo": {
+                    "roomId": "1559753170",
+                    "roomName": "",
+                    "shadowId": 0,
+                    "encryptedRoomId": 0
+                },
+                "tags": [
+                    {
+                        "name": "",
+                        "tagTitle": "DISCOUNTAMOUNT",
+                        "tagId": 90001,
+                        "tagDesc": "",
+                        "value": "7",
+                        "subTagId": 0,
+                        "tagPosition": 0,
+                        "labelExtensions": [],
+                        "tagTemplateId": 0
+                    },
+                    {
+                        "name": "",
+                        "tagTitle": "PROMOTION",
+                        "tagId": 11600,
+                        "tagDesc": "Special Discount",
+                        "value": "",
+                        "subTagId": 0,
+                        "tagPosition": 0,
+                        "labelExtensions": [],
+                        "tagTemplateId": 0
+                    }
+                ],
+                "saleRoom": {
+                    "person": 2,
+                    "mealNum": 0,
+                    "mealType": 4
+                },
+                "promotion": [
+                    {
+                        "type": 1,
+                        "tagIcon": "ic_tag_sale",
+                        "text": "Special Discount"
+                    }
+                ],
+                "discountLabels": [
+                    {
+                        "type": 21,
+                        "text": "",
+                        "value": "7"
+                    },
+                    {
+                        "type": 1,
+                        "tagIcon": "ic_tag_sale",
+                        "text": "Special Discount"
+                    }
+                ],
+                "specialPriceLabels": [],
+                "memberGrade": {},
+                "trace": {
+                    "traceLogId": "bbece0027a397",
+                    "timestamp": "1734085150414"
+                },
+                "extensions": {
+                    "hotelUniqueKey": "H4sIAAAAAAAAAON6w8jFJMEkxMTBKPWQkePS4_vPWS3mlDu-Cdwh17q4wMEzCEi_5i11COApZACBAwEOkxhDOOVbXwfu2OftIAgWbHBzUBLn-N20x0KgkVHif8fS1YwKjBYHxYMYohiUFBRYNGFaDWEMi2ecQawcV1glWKIYnFg5litJsMxgnDNnleVGxlkzgWBloMMORqYTjKoLmP7u2GS5iwmi5hCQbmCTYDnFxHCJieEWE8MjJogpr5gYPjEx_IIqa2Jm6GJmmMQMUTyLGaJmETODFG9SUmpyqoGBkXmisaW5gpDGvCkfdrEZKU1iZHJ3OsUoZWhubGJgYWpoYmJibKyXmGacGO6fXupYUpBmxSzF6ObBGMRm6OzsaGEZpcXFHBrsIqj091vpAxlZBylmd6cAxT2sQiL2aUoOWsxOLiGG18Le6O9WX2-fxJqap-vulPFXoICxgZG5i5FDgNGDMYKxgvEVI0jbD7DPAZN5mPKLAQAA",
+                    "quarantineTip": "",
+                    "recommendFilter": 0,
+                    "priceHigh": -1,
+                    "attachedFilters": [],
+                    "dispatchId": "308736fb-12d4-4328-8cc2-e82c59a82918-104"
+                },
+                "queryType": "NORMAL",
+                "isCombinedRoom": false,
+                "combinedRoomQuality": null,
+                "extras": {
+                    "COMPENSATE_FILTER_ITEMS_INDEX": null,
+                    "PropertyCurrency": "BDT",
+                    "PropertyCurrencyExchange": "0.06085",
+                    "PriceCalendarRecommend": null,
+                    "ChildPriceRoom": null
+                },
+                "token": "eJyrVkrJLC7ISawMKMpMTlWyMjbXUcpNLC5JLfLIL0nN8UxRsjI0MjAysjQxMNFRykksLgktSEksSQ3JzE1VsjI0NzYxsDA1NDUwNjWtBQC/xhdg",
+                "hotelNameTags": [
+                    {
+                        "tagTitle": "Opened in 2024",
+                        "tagTemplateId": 202333
+                    }
+                ],
+                "roomTags": {
+                    "advantageTags": [],
+                    "promotionTags": [
+                        {
+                            "tagTitle": "Special Discount",
+                            "tagTemplateId": 400030
+                        }
+                    ],
+                    "discountPercentTags": [
+                        {
+                            "tagTitle": "£7 Off",
+                            "tagTemplateId": 40006
+                        }
+                    ],
+                    "encourageTags": [
+                        {
+                            "tagTitle": "Last booked 4 hrs ago",
+                            "tagTemplateId": 10011
+                        }
+                    ]
+                }
+            },
+            {
+                "hotelBasicInfo": {
+                    "hotelId": 2199579,
+                    "masterHotelId": 2199579,
+                    "hotelName": "Six Seasons Hotel",
+                    "hotelEnName": "Six Seasons Hotel",
+                    "hotelImg": "https://ak-d.tripcdn.com/images/0580n12000cuqbd6u494F_R_250_250_R5_D.jpg",
+                    "hotelImgRoundLoad": [
+                        {
+                            "position": 5,
+                            "group": 1,
+                            "url": "https://ak-d.tripcdn.com/images/0580n12000cuqbd6u494F_R_250_250_R5_D.jpg",
+                            "pictureId": 749260109
+                        },
+                        {
+                            "position": 5,
+                            "group": 2,
+                            "url": "https://ak-d.tripcdn.com/images/0580n12000cuqbd6u494F_R_600_600_R5_D.jpg",
+                            "pictureId": 749260109
+                        }
+                    ],
+                    "hotelAddress": "Asha Concord, House No 19, Road No 96, Gulshan 2, Plot # 7, Block # NW (J Rd",
+                    "superStar": 1,
+                    "favorityCount": 182,
+                    "browseCount": 0,
+                    "topRecommend": false,
+                    "topRecommendReason": "",
+                    "payType": 1,
+                    "isAdHotel": false,
+                    "adTraceid": "H4sIAAAAAAAA/+N40jnvz24jAUYDLg/GAMYoVkMrc2PjBKYC1g5GuQmMLjMYmQAoHBNFIwAAAA==",
+                    "isAdSlot": false,
+                    "starIcon": "",
+                    "hourRoomHours": "",
+                    "hourEarliestArriveTime": "",
+                    "hourLatestArriveTime": "",
+                    "price": 92,
+                    "originPrice": 99,
+                    "onlineTaxPrice": "92",
+                    "onlineAndShopTaxPrice": "92.21",
+                    "isEncrypt": false,
+                    "payAtHotelTax": 0,
+                    "isCollected": false,
+                    "isFullRoom": false,
+                    "isFullRoomCanFold": false,
+                    "hotelCloseInfo": null,
+                    "canNotBeOrderedInfo": {
+                        "messageBold": "",
+                        "cannotReserveCode": ""
+                    },
+                    "isPriceMask": 0,
+                    "medalInfo": {
+                        "medalType": 0,
+                        "description": "",
+                        "badgeHover": ""
+                    },
+                    "wowHotel": false,
+                    "lastBookingTimeRemark": "",
+                    "additionTexts": [
+                        {
+                            "additionName": "ChildrenNormalTag",
+                            "additionText": ""
+                        },
+                        {
+                            "additionName": "FreeBreakfast",
+                            "additionText": "Breakfast included"
+                        },
+                        {
+                            "additionName": "LastBooking",
+                            "additionText": "Last booked 12 hours ago on our site"
+                        }
+                    ],
+                    "isThirtyFreeCancel": false,
+                    "openYear": "",
+                    "guestInfoEntity": {
+                        "childAge": [],
+                        "childBed": [],
+                        "childMeal": [],
+                        "childType": [],
+                        "guestHover": "",
+                        "childCount": 0,
+                        "adultCount": 2
+                    },
+                    "signInNote": "",
+                    "hidePrice": false,
+                    "priceExplanation": "Incl. taxes & fees",
+                    "payAtHotelTaxText": "",
+                    "hotelMultiImgs": [
+                        [
+                            {
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0580n12000cuqbd6u494F_R_600_600_R5_D.jpg",
+                                "pictureId": 749260109
+                            },
+                            {
+                                "position": 29,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0580n12000cuqbd6u494F_R_600_600_R5_D.jpg",
+                                "pictureId": 749260109
+                            }
+                        ],
+                        [
+                            {
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0204h1200082epgf4CC38_R_600_600_R5_D.jpg",
+                                "pictureId": 462732938
+                            },
+                            {
+                                "position": 29,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0204h1200082epgf4CC38_R_600_600_R5_D.jpg",
+                                "pictureId": 462732938
+                            }
+                        ],
+                        [
+                            {
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0580m12000cuqadx42617_R_600_600_R5_D.jpg",
+                                "pictureId": 584207619
+                            },
+                            {
+                                "position": 29,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0580m12000cuqadx42617_R_600_600_R5_D.jpg",
+                                "pictureId": 584207619
+                            }
+                        ],
+                        [
+                            {
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0583d12000cuqadamB4FC_R_600_600_R5_D.jpg",
+                                "pictureId": 584207793
+                            },
+                            {
+                                "position": 29,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0583d12000cuqadamB4FC_R_600_600_R5_D.jpg",
+                                "pictureId": 584207793
+                            }
+                        ],
+                        [
+                            {
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0580w12000cuqbi7dC2E9_R_600_600_R5_D.jpg",
+                                "pictureId": 538585047
+                            },
+                            {
+                                "position": 29,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0580w12000cuqbi7dC2E9_R_600_600_R5_D.jpg",
+                                "pictureId": 538585047
+                            }
+                        ]
+                    ],
+                    "hotelNames": [
+                        "Six Seasons Hotel"
+                    ],
+                    "needHighlight": false
+                },
+                "hotelDecorateInfo": {},
+                "hotelFeatureTagInfo": [],
+                "hotelStarInfo": {
+                    "star": 5,
+                    "isLicenseStar": false,
+                    "starType": 1
+                },
+                "commentInfo": {
+                    "commentScore": "4.6",
+                    "commentDescription": "Great",
+                    "commenterNumber": "62 reviews",
+                    "subScore": [
+                        {
+                            "number": "4.5",
+                            "content": "Location",
+                            "scoreAvg": "4.3",
+                            "scoreType": 2
+                        },
+                        {
+                            "number": "4.5",
+                            "content": "Cleanliness",
+                            "scoreAvg": "4.3",
+                            "scoreType": 3
+                        },
+                        {
+                            "number": "4.6",
+                            "content": "Service",
+                            "scoreAvg": "4.3",
+                            "scoreType": 4
+                        },
+                        {
+                            "number": "4.6",
+                            "content": "Amenities",
+                            "scoreAvg": "4.3",
+                            "scoreType": 5
+                        }
+                    ],
+                    "tARatingInfo": null,
+                    "taAlt": "",
+                    "taUrl": "",
+                    "taCount": 0,
+                    "taReview": ""
+                },
+                "roomInfo": {
+                    "roomId": "1495699412",
+                    "shadowId": 0,
+                    "name": "",
+                    "adult": 0,
+                    "physicalRoomName": "Deluxe Room",
+                    "isBooking": false,
+                    "bed": {
+                        "list": [
+                            "ic_new_double_bed"
+                        ],
+                        "contentListHover": [],
+                        "contentList": [
+                            "1 double bed"
+                        ],
+                        "cpxBedInfo": {
+                            "title": "",
+                            "bedDetail": [
+                                {
+                                    "roomName": "Bedroom 1",
+                                    "detail": [
+                                        "1 double bed(1.5m wide)"
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                },
+                "positionInfo": {
+                    "cityId": 733,
+                    "cityName": "Dhaka",
+                    "cityNameEn": "Dhaka",
+                    "positionDesc": "Near Hazrat Shahjalal International Airport",
+                    "positionName": "Near Hazrat Shahjalal International Airport",
+                    "positionInfo": "1.9 km from centre",
+                    "transport": {},
+                    "coordinate": {
+                        "cityId": 733,
+                        "lat": 23.794703,
+                        "lng": 90.419378,
+                        "isOversea": true,
+                        "coordinateType": 1
+                    },
+                    "zoneNames": [
+                        "Near Hazrat Shahjalal International Airport"
+                    ],
+                    "isOversea": true,
+                    "mapCoordinate": [
+                        {
+                            "coordinateType": 1,
+                            "latitude": "23.794703",
+                            "longitude": "90.419378",
+                            "gcoordType": "WGS84"
+                        },
+                        {
+                            "coordinateType": 2,
+                            "latitude": "23.794703",
+                            "longitude": "90.419378",
+                            "gcoordType": "WGS84"
+                        },
+                        {
+                            "coordinateType": 3,
+                            "latitude": "23.79780264426891",
+                            "longitude": "90.42753116943045",
+                            "gcoordType": "BD09"
+                        }
+                    ],
+                    "linearDist": 1.8748627
+                },
+                "minRoomInfo": {
+                    "roomId": "1495699412",
+                    "roomName": "",
+                    "shadowId": 0,
+                    "encryptedRoomId": 0
+                },
+                "tags": [
+                    {
+                        "name": "",
+                        "tagTitle": "DISCOUNTAMOUNT",
+                        "tagId": 90001,
+                        "tagDesc": "",
+                        "value": "7",
+                        "subTagId": 0,
+                        "tagPosition": 0,
+                        "labelExtensions": [],
+                        "tagTemplateId": 0
+                    },
+                    {
+                        "name": "",
+                        "tagTitle": "PROMOTION",
+                        "tagId": 11600,
+                        "tagDesc": "Special Discount",
+                        "value": "",
+                        "subTagId": 0,
+                        "tagPosition": 0,
+                        "labelExtensions": [],
+                        "tagTemplateId": 0
+                    }
+                ],
+                "saleRoom": {
+                    "person": 2,
+                    "mealNum": 2,
+                    "mealType": 4
+                },
+                "promotion": [
+                    {
+                        "type": 1,
+                        "tagIcon": "ic_tag_sale",
+                        "text": "Special Discount"
+                    }
+                ],
+                "discountLabels": [
+                    {
+                        "type": 21,
+                        "text": "",
+                        "value": "7"
+                    },
+                    {
+                        "type": 1,
+                        "tagIcon": "ic_tag_sale",
+                        "text": "Special Discount"
+                    }
+                ],
+                "specialPriceLabels": [],
+                "memberGrade": {},
+                "trace": {
+                    "traceLogId": "bbece0027a397",
+                    "timestamp": "1734085150415"
+                },
+                "extensions": {
+                    "hotelUniqueKey": "H4sIAAAAAAAAAOO6zMjFJMEkxMTBKHWCkePK_FknWS3mlDvG9B_6qhHS4uAZtEOu9bVvl0MATyEDCDQEOExitOZc5_6wSkQv3kEQLHgg2kFJQYFFE6bCEMaweMYZxMpxklWCJYrBiZWjx1eCZQbj7AVtjBsZry8usOV6nu6wg5HpBGPMAqavm86q72KCqDkEpOcLSLCcYmK4xMRwi4nhERPElFdMDJ-YGH5BlTUxM3QxM0xihiiexQxRs4iZQYo3KSk1OdXAwMg80djSXEFIY96UD7vYjJQmMTK5O51ilDI0NzYxsDA1NDExMTbWS0wzTgz3Ty91LClIs2KWYnTzYAxiM3UzM3R0itLiYg4NdhFU-vut9IGMrIMUs7tTgOIeViER-zQlBy2QnCFMLok1NU_X3Snjr0ABYwMjcxcjhwCjB2MEYwXjK0aQth9gnwMA6zLDhnIBAAA",
+                    "quarantineTip": "",
+                    "recommendFilter": 0,
+                    "priceHigh": -1,
+                    "attachedFilters": [],
+                    "dispatchId": "308736fb-12d4-4328-8cc2-e82c59a82918-104"
+                },
+                "queryType": "NORMAL",
+                "isCombinedRoom": false,
+                "combinedRoomQuality": null,
+                "extras": {
+                    "COMPENSATE_FILTER_ITEMS_INDEX": null,
+                    "PropertyCurrency": "USD",
+                    "PropertyCurrencyExchange": "7.2782",
+                    "PriceCalendarRecommend": null,
+                    "ChildPriceRoom": null
+                },
+                "token": "eJyrVkrJLC7ISawMKMpMTlWysjTSUcpNLC5JLfLIL0nN8UxRsjIytLQ0NbfUUcpJLC4JLUhJLEkNycxNVbIyNDc2MbAwNTQ1MDY1rQUAmuUXEw==",
+                "hotelNameTags": [],
+                "roomTags": {
+                    "advantageTags": [
+                        {
+                            "tagTitle": "Breakfast included",
+                            "tagId": 12367,
+                            "tagTemplateId": 10001,
+                            "tagPosition": 2
+                        }
+                    ],
+                    "promotionTags": [
+                        {
+                            "tagTitle": "Special Discount",
+                            "tagTemplateId": 400030
+                        }
+                    ],
+                    "discountPercentTags": [
+                        {
+                            "tagTitle": "£7 Off",
+                            "tagTemplateId": 40006
+                        }
+                    ],
+                    "encourageTags": [
+                        {
+                            "tagTitle": "Last booked 12 hrs ago",
+                            "tagTemplateId": 10011
+                        }
+                    ]
+                }
+            },
+            {
+                "hotelBasicInfo": {
+                    "hotelId": 2510907,
+                    "masterHotelId": 2510907,
+                    "hotelName": "Best Western Plus Maple Leaf",
+                    "hotelEnName": "Best Western Plus Maple Leaf",
+                    "hotelImg": "https://ak-d.tripcdn.com/images/200k0s000000i31cdA937_R_250_250_R5_D.jpg",
+                    "hotelImgRoundLoad": [
+                        {
+                            "position": 5,
+                            "group": 1,
+                            "url": "https://ak-d.tripcdn.com/images/200k0s000000i31cdA937_R_250_250_R5_D.jpg",
+                            "pictureId": 281749708
+                        },
+                        {
+                            "position": 5,
+                            "group": 2,
+                            "url": "https://ak-d.tripcdn.com/images/200k0s000000i31cdA937_R_600_600_R5_D.jpg",
+                            "pictureId": 281749708
+                        }
+                    ],
+                    "hotelAddress": "Maple Leaf Hotel, Plot 1B, Rd No 1",
+                    "superStar": 1,
+                    "favorityCount": 193,
+                    "browseCount": 0,
+                    "topRecommend": false,
+                    "topRecommendReason": "",
+                    "payType": 1,
+                    "isAdHotel": false,
+                    "adTraceid": "H4sIAAAAAAAA/+N40jnvz24jAUYDLg/GAMYoVkMrc2PjBKYC1g5GuQmMLjMYmQAoHBNFIwAAAA==",
+                    "isAdSlot": false,
+                    "starIcon": "",
+                    "hourRoomHours": "",
+                    "hourEarliestArriveTime": "",
+                    "hourLatestArriveTime": "",
+                    "price": 110,
+                    "originPrice": "",
+                    "onlineTaxPrice": "110",
+                    "onlineAndShopTaxPrice": "110.11",
+                    "isEncrypt": false,
+                    "payAtHotelTax": 0,
+                    "isCollected": false,
+                    "isFullRoom": false,
+                    "isFullRoomCanFold": false,
+                    "hotelCloseInfo": null,
+                    "canNotBeOrderedInfo": {
+                        "messageBold": "",
+                        "cannotReserveCode": ""
+                    },
+                    "isPriceMask": 0,
+                    "medalInfo": {
+                        "medalType": 5,
+                        "description": "",
+                        "badgeHover": "Highly recommended hotels/suppliers have established a close partnership with Trip.com to provide attractive offers"
+                    },
+                    "wowHotel": false,
+                    "lastBookingTimeRemark": "",
+                    "additionTexts": [
+                        {
+                            "additionName": "ChildrenNormalTag",
+                            "additionText": ""
+                        },
+                        {
+                            "additionName": "LowestPriceWillSellout",
+                            "additionText": "We only have 5 rooms left"
+                        }
+                    ],
+                    "isThirtyFreeCancel": false,
+                    "openYear": "2014",
+                    "guestInfoEntity": {
+                        "childAge": [],
+                        "childBed": [],
+                        "childMeal": [],
+                        "childType": [],
+                        "guestHover": "",
+                        "childCount": 0,
+                        "adultCount": 2
+                    },
+                    "signInNote": "",
+                    "hidePrice": false,
+                    "priceExplanation": "Incl. taxes & fees",
+                    "payAtHotelTaxText": "",
+                    "hotelMultiImgs": [
+                        [
+                            {
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/200k0s000000i31cdA937_R_600_600_R5_D.jpg",
+                                "pictureId": 281749708
+                            },
+                            {
+                                "position": 29,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/200k0s000000i31cdA937_R_600_600_R5_D.jpg",
+                                "pictureId": 281749708
+                            }
+                        ],
+                        [
+                            {
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0225912000amab6xl9D21_R_600_600_R5_D.jpg",
+                                "pictureId": 861452677
+                            },
+                            {
+                                "position": 29,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0225912000amab6xl9D21_R_600_600_R5_D.jpg",
+                                "pictureId": 861452677
+                            }
+                        ],
+                        [
+                            {
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/1mc6y12000dfwl3mzC11F_R_600_600_R5_D.jpg",
+                                "pictureId": 1045471357
+                            },
+                            {
+                                "position": 29,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/1mc6y12000dfwl3mzC11F_R_600_600_R5_D.jpg",
+                                "pictureId": 1045471357
+                            }
+                        ],
+                        [
+                            {
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0581l12000eytscop4141_R_600_600_R5_D.jpg",
+                                "pictureId": 1100712865
+                            },
+                            {
+                                "position": 29,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0581l12000eytscop4141_R_600_600_R5_D.jpg",
+                                "pictureId": 1100712865
+                            }
+                        ],
+                        [
+                            {
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0220z120009i5tk0nA9FD_R_600_600_R5_D.jpg",
+                                "pictureId": 715316549
+                            },
+                            {
+                                "position": 29,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0220z120009i5tk0nA9FD_R_600_600_R5_D.jpg",
+                                "pictureId": 715316549
+                            }
+                        ]
+                    ],
+                    "hotelNames": [
+                        "Best Western Plus Maple Leaf"
+                    ],
+                    "needHighlight": false
+                },
+                "hotelDecorateInfo": {},
+                "hotelFeatureTagInfo": [],
+                "hotelStarInfo": {
+                    "star": 4,
+                    "isLicenseStar": false,
+                    "starType": 1
+                },
+                "commentInfo": {
+                    "commentScore": "4.2",
+                    "commentDescription": "Very Good",
+                    "commenterNumber": "65 reviews",
+                    "subScore": [
+                        {
+                            "number": "4.3",
+                            "content": "Location",
+                            "scoreAvg": "4",
+                            "scoreType": 2
+                        },
+                        {
+                            "number": "4.2",
+                            "content": "Cleanliness",
+                            "scoreAvg": "3.9",
+                            "scoreType": 3
+                        },
+                        {
+                            "number": "4.3",
+                            "content": "Service",
+                            "scoreAvg": "4",
+                            "scoreType": 4
+                        },
+                        {
+                            "number": "4.1",
+                            "content": "Amenities",
+                            "scoreAvg": "3.9",
+                            "scoreType": 5
+                        }
+                    ],
+                    "tARatingInfo": null,
+                    "taAlt": "",
+                    "taUrl": "",
+                    "taCount": 0,
+                    "taReview": ""
+                },
+                "roomInfo": {
+                    "roomId": "1544373532",
+                    "shadowId": 0,
+                    "name": "",
+                    "adult": 2,
+                    "physicalRoomName": "Deluxe King Room",
+                    "isBooking": false,
+                    "bed": {
+                        "list": [
+                            "ic_new_double_bed"
+                        ],
+                        "contentListHover": [],
+                        "contentList": [
+                            "1 king bed"
+                        ],
+                        "cpxBedInfo": {
+                            "title": "",
+                            "bedDetail": [
+                                {
+                                    "roomName": "Bedroom 1",
+                                    "detail": [
+                                        "1 king bed(1.81m wide)"
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                },
+                "positionInfo": {
+                    "cityId": 733,
+                    "cityName": "Dhaka",
+                    "cityNameEn": "Dhaka",
+                    "positionDesc": "Near Hazrat Shahjalal International Airport",
+                    "positionName": "Near Hazrat Shahjalal International Airport",
+                    "positionInfo": "5.1 km from centre",
+                    "transport": {},
+                    "coordinate": {
+                        "cityId": 733,
+                        "lat": 23.855243,
+                        "lng": 90.404097,
+                        "isOversea": true,
+                        "coordinateType": 1
+                    },
+                    "zoneNames": [
+                        "Near Hazrat Shahjalal International Airport"
+                    ],
+                    "isOversea": true,
+                    "mapCoordinate": [
+                        {
+                            "coordinateType": 1,
+                            "latitude": "23.855243",
+                            "longitude": "90.404097",
+                            "gcoordType": "WGS84"
+                        },
+                        {
+                            "coordinateType": 2,
+                            "latitude": "23.855243",
+                            "longitude": "90.404097",
+                            "gcoordType": "WGS84"
+                        },
+                        {
+                            "coordinateType": 3,
+                            "latitude": "23.858390200468108",
+                            "longitude": "90.41220999893389",
+                            "gcoordType": "BD09"
+                        }
+                    ],
+                    "linearDist": 5.0724744
+                },
+                "minRoomInfo": {
+                    "roomId": "1544373532",
+                    "roomName": "",
+                    "shadowId": 0,
+                    "encryptedRoomId": 0
+                },
+                "tags": [
+                    {
+                        "name": "Great service|Convenient location",
+                        "tagTitle": "OneSentenceComment",
+                        "tagId": 0,
+                        "tagDesc": "",
+                        "value": "",
+                        "subTagId": 0,
+                        "tagPosition": 0,
+                        "labelExtensions": [],
+                        "tagTemplateId": 0
+                    }
+                ],
+                "saleRoom": {
+                    "person": 2,
+                    "mealNum": 0,
+                    "mealType": 4
+                },
+                "promotion": [],
+                "discountLabels": [
+                    {
+                        "type": 6,
+                        "tagIcon": "ic_new_tripcoins",
+                        "text": "Earn {0}£1.76{/0} in Trip Coins"
+                    }
+                ],
+                "specialPriceLabels": [],
+                "memberGrade": {},
+                "trace": {
+                    "traceLogId": "bbece0027a397",
+                    "timestamp": "1734085150415"
+                },
+                "extensions": {
+                    "hotelUniqueKey": "H4sIAAAAAAAAAOPazsjFJMEkxMTBKLWGkWNO19YHrBa_BR0fVomsc2ftdPAstOW6vnhZv0MAzyRGI87W14E75FITHQQPf9WI6Z8U66AkzvG7aY-FQCOjxP-OpasZFRgtDooHMUQxOLFyNIdJsMxg3L1gJuNGRpApBa1ZDjsYmU4w5i1gajnxi3kXE0TNIRAtJMFyionhEhPDLSaGR0wMr5gYPjEx_IKqaGJm6GJmmMQMUTeLmWERM4MUb1JSanKqgYGReaKxpbmCkMa8KR92sRkpTWJkcnc6xShlaG5sYmBhamhiYmJsrJeYZpwY7p9e6lhSkGbFLMXo5sEYxGZgYmZs4RqlxcUcGuwiqPT3W-kDGVkHKWZ3pwDFPaxCIvZpSg5aIDlDmFwSa2qerrtTxl-BAsYGRuYuRg4BRg_GCMYKxleMIG0_wP4FAOQ6pcBWAQAA",
+                    "quarantineTip": "",
+                    "recommendFilter": 0,
+                    "priceHigh": -1,
+                    "attachedFilters": [],
+                    "dispatchId": "308736fb-12d4-4328-8cc2-e82c59a82918-104"
+                },
+                "queryType": "NORMAL",
+                "isCombinedRoom": false,
+                "combinedRoomQuality": null,
+                "extras": {
+                    "COMPENSATE_FILTER_ITEMS_INDEX": null,
+                    "PropertyCurrency": "USD",
+                    "PropertyCurrencyExchange": "7.2782",
+                    "PriceCalendarRecommend": null,
+                    "ChildPriceRoom": null
+                },
+                "token": "eJyrVkrJLC7ISawMKMpMTlWyMjQ00FHKTSwuSS3yyC9JzfFMUbIyMjU0sDQw11HKSSwuCS1ISSxJDcnMBSk2NzYxsDA1NDUwNjWtBQCnWRco",
+                "hotelNameTags": [],
+                "roomTags": {
+                    "advantageTags": [],
+                    "promotionTags": [],
+                    "discountPercentTags": [],
+                    "encourageTags": [
+                        {
+                            "tagTitle": "We only have 5 rooms left",
+                            "tagTemplateId": 10009
+                        }
+                    ]
+                }
+            },
+            {
+                "hotelBasicInfo": {
+                    "hotelId": 3725948,
+                    "masterHotelId": 3725948,
+                    "hotelName": "Hotel Afford Inn",
+                    "hotelEnName": "Hotel Afford Inn",
+                    "hotelImg": "https://ak-d.tripcdn.com/images/0221y120009uosuq43515_R_250_250_R5_D.jpg",
+                    "hotelImgRoundLoad": [
+                        {
+                            "position": 5,
+                            "group": 1,
+                            "url": "https://ak-d.tripcdn.com/images/0221y120009uosuq43515_R_250_250_R5_D.jpg",
+                            "pictureId": 916394463
+                        },
+                        {
+                            "position": 5,
+                            "group": 2,
+                            "url": "https://ak-d.tripcdn.com/images/0221y120009uosuq43515_R_600_600_R5_D.jpg",
+                            "pictureId": 916394463
+                        }
+                    ],
+                    "hotelAddress": "House 04 Road-03",
+                    "superStar": 1,
+                    "favorityCount": 76,
+                    "browseCount": 0,
+                    "topRecommend": false,
+                    "topRecommendReason": "",
+                    "payType": 3,
+                    "isAdHotel": false,
+                    "adTraceid": "H4sIAAAAAAAA/+N40jnvz24jAUYDLg/GAMYoVkMrc2PjBKYC1g5GuQmMLjMYmQAoHBNFIwAAAA==",
+                    "isAdSlot": false,
+                    "starIcon": "",
+                    "hourRoomHours": "",
+                    "hourEarliestArriveTime": "",
+                    "hourLatestArriveTime": "",
+                    "price": 32,
+                    "originPrice": "",
+                    "onlineTaxPrice": "32",
+                    "onlineAndShopTaxPrice": "31.65",
+                    "isEncrypt": false,
+                    "payAtHotelTax": 0,
+                    "isCollected": false,
+                    "isFullRoom": false,
+                    "isFullRoomCanFold": false,
+                    "hotelCloseInfo": null,
+                    "canNotBeOrderedInfo": {
+                        "messageBold": "",
+                        "cannotReserveCode": ""
+                    },
+                    "isPriceMask": 0,
+                    "medalInfo": {
+                        "medalType": 0,
+                        "description": "",
+                        "badgeHover": ""
+                    },
+                    "wowHotel": false,
+                    "lastBookingTimeRemark": "",
+                    "additionTexts": [
+                        {
+                            "additionName": "ChildrenNormalTag",
+                            "additionText": ""
+                        },
+                        {
+                            "additionName": "FreeCancelMessage",
+                            "additionText": "Free Cancellation"
+                        },
+                        {
+                            "additionName": "FreeBreakfast",
+                            "additionText": "Breakfast included"
+                        },
+                        {
+                            "additionName": "LastBooking",
+                            "additionText": "Last booked 23 hours ago on our site"
+                        }
+                    ],
+                    "isThirtyFreeCancel": false,
+                    "openYear": "2014",
+                    "guestInfoEntity": {
+                        "childAge": [],
+                        "childBed": [],
+                        "childMeal": [],
+                        "childType": [],
+                        "guestHover": "",
+                        "childCount": 0,
+                        "adultCount": 2
+                    },
+                    "signInNote": "",
+                    "hidePrice": false,
+                    "priceExplanation": "Incl. taxes & fees",
+                    "payAtHotelTaxText": "",
+                    "hotelMultiImgs": [
+                        [
+                            {
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0221y120009uosuq43515_R_600_600_R5_D.jpg",
+                                "pictureId": 916394463
+                            },
+                            {
+                                "position": 29,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0221y120009uosuq43515_R_600_600_R5_D.jpg",
+                                "pictureId": 916394463
+                            }
+                        ],
+                        [
+                            {
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/1mc6g12000c263zk6A083_R_600_600_R5_D.jpg",
+                                "pictureId": 946378475
+                            },
+                            {
+                                "position": 29,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/1mc6g12000c263zk6A083_R_600_600_R5_D.jpg",
+                                "pictureId": 946378475
+                            }
+                        ],
+                        [
+                            {
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/1mc5c12000b9j58w07B8D_R_600_600_R5_D.jpg",
+                                "pictureId": 857207003
+                            },
+                            {
+                                "position": 29,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/1mc5c12000b9j58w07B8D_R_600_600_R5_D.jpg",
+                                "pictureId": 857207003
+                            }
+                        ],
+                        [
+                            {
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0223r12000auyicq68ED3_R_600_600_R5_D.jpg",
+                                "pictureId": 808294933
+                            },
+                            {
+                                "position": 29,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0223r12000auyicq68ED3_R_600_600_R5_D.jpg",
+                                "pictureId": 808294933
+                            }
+                        ],
+                        [
+                            {
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/1mc2312000eg2bykl3F3B_R_600_600_R5_D.jpg",
+                                "pictureId": 1082076703
+                            },
+                            {
+                                "position": 29,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/1mc2312000eg2bykl3F3B_R_600_600_R5_D.jpg",
+                                "pictureId": 1082076703
+                            }
+                        ]
+                    ],
+                    "hotelNames": [
+                        "Hotel Afford Inn"
+                    ],
+                    "needHighlight": false
+                },
+                "hotelDecorateInfo": {},
+                "hotelFeatureTagInfo": [],
+                "hotelStarInfo": {
+                    "star": 3,
+                    "isLicenseStar": false,
+                    "starType": 1
+                },
+                "commentInfo": {
+                    "commentScore": "3.9",
+                    "commentDescription": "Good",
+                    "commenterNumber": "53 reviews",
+                    "subScore": [
+                        {
+                            "number": "4.4",
+                            "content": "Location",
+                            "scoreAvg": "3.3",
+                            "scoreType": 2
+                        },
+                        {
+                            "number": "3.7",
+                            "content": "Cleanliness",
+                            "scoreAvg": "3.3",
+                            "scoreType": 3
+                        },
+                        {
+                            "number": "3.9",
+                            "content": "Service",
+                            "scoreAvg": "3.3",
+                            "scoreType": 4
+                        },
+                        {
+                            "number": "3.7",
+                            "content": "Amenities",
+                            "scoreAvg": "3.3",
+                            "scoreType": 5
+                        }
+                    ],
+                    "tARatingInfo": null,
+                    "taAlt": "",
+                    "taUrl": "",
+                    "taCount": 0,
+                    "taReview": ""
+                },
+                "roomInfo": {
+                    "roomId": "1428582405",
+                    "shadowId": 0,
+                    "name": "",
+                    "adult": 2,
+                    "physicalRoomName": "Deluxe Double Room",
+                    "isBooking": false,
+                    "bed": {
+                        "list": [
+                            "ic_new_double_bed"
+                        ],
+                        "contentListHover": [],
+                        "contentList": [
+                            "1 queen bed"
+                        ],
+                        "cpxBedInfo": {
+                            "title": "",
+                            "bedDetail": [
+                                {
+                                    "roomName": "Bedroom 1",
+                                    "detail": [
+                                        "1 queen bed(1.6m wide)"
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                },
+                "positionInfo": {
+                    "cityId": 733,
+                    "cityName": "Dhaka",
+                    "cityNameEn": "Dhaka",
+                    "positionDesc": "Near Hazrat Shahjalal International Airport",
+                    "positionName": "Near Hazrat Shahjalal International Airport",
+                    "positionInfo": "5.2 km from centre",
+                    "transport": {},
+                    "coordinate": {
+                        "cityId": 733,
+                        "lat": 23.85611,
+                        "lng": 90.403093,
+                        "isOversea": true,
+                        "coordinateType": 1
+                    },
+                    "zoneNames": [
+                        "Near Hazrat Shahjalal International Airport"
+                    ],
+                    "isOversea": true,
+                    "mapCoordinate": [
+                        {
+                            "coordinateType": 1,
+                            "latitude": "23.85611",
+                            "longitude": "90.403093",
+                            "gcoordType": "WGS84"
+                        },
+                        {
+                            "coordinateType": 2,
+                            "latitude": "23.85611",
+                            "longitude": "90.403093",
+                            "gcoordType": "WGS84"
+                        },
+                        {
+                            "coordinateType": 3,
+                            "latitude": "23.859266955409186",
+                            "longitude": "90.41120419184531",
+                            "gcoordType": "BD09"
+                        }
+                    ],
+                    "linearDist": 5.185569
+                },
+                "minRoomInfo": {
+                    "roomId": "1428582405",
+                    "roomName": "",
+                    "shadowId": 0,
+                    "encryptedRoomId": 0
+                },
+                "tags": [
+                    {
+                        "name": "Great stay!|Great service",
+                        "tagTitle": "OneSentenceComment",
+                        "tagId": 0,
+                        "tagDesc": "",
+                        "value": "",
+                        "subTagId": 0,
+                        "tagPosition": 0,
+                        "labelExtensions": [],
+                        "tagTemplateId": 0
+                    }
+                ],
+                "saleRoom": {
+                    "person": 2,
+                    "mealNum": 2,
+                    "mealType": 4
+                },
+                "promotion": [],
+                "discountLabels": [],
+                "specialPriceLabels": [],
+                "memberGrade": {},
+                "trace": {
+                    "traceLogId": "bbece0027a397",
+                    "timestamp": "1734085150415"
+                },
+                "extensions": {
+                    "hotelUniqueKey": "H4sIAAAAAAAAAONayMjFJMEkxMTBKDWNkaP1wcyVrBa_BR1bXwfukFua7-C5zv1hlYhRkUMAzyRGSU4GMHBxEIQwHB2cWDnuSkiwzGD8s-Ux4wpGxo2MMf2Hvmr8cXLYwch0glFhAdPJCzcNdjFBlB0C0nOZJVhOMTFcYmK4xcTwiInhFRPDJyaGX1AVTcwMXcwMk5gh6mYxMyxiZpDiTUpKTU41MDAyTzS2NFcQ0pg35cMuNiOlSYxM7k6nGKUMzY1NDCxMDU1MTIyN9RLTjBPD_dNLHUsK0qyYpRjdPBiD2BwtTS1NHKO0uJhDg10Elf5-K30gI-sgxezuFKC4h1VIxD5NyUGL2cklxPBa2Bv93err7ZNYU_N03Z0y_goUMDYwMncxcggwejBGMFYwvmIEafsB9jIABalYSEABAAA",
+                    "quarantineTip": "",
+                    "recommendFilter": 0,
+                    "priceHigh": -1,
+                    "attachedFilters": [],
+                    "dispatchId": "308736fb-12d4-4328-8cc2-e82c59a82918-104"
+                },
+                "queryType": "NORMAL",
+                "isCombinedRoom": false,
+                "combinedRoomQuality": null,
+                "extras": {
+                    "COMPENSATE_FILTER_ITEMS_INDEX": null,
+                    "PropertyCurrency": "BDT",
+                    "PropertyCurrencyExchange": "0.06085",
+                    "PriceCalendarRecommend": null,
+                    "ChildPriceRoom": null
+                },
+                "token": "eJyrVkrJLC7ISawMKMpMTlWyMjbSUcpNLC5JLfLIL0nN8UxRsjI2NzK1NLHQUcpJLC4JLUhJLEkNycxNVbIyNDc2MbAwNTQ1MDY1rQUAmQYXCQ==",
+                "hotelNameTags": [],
+                "roomTags": {
+                    "advantageTags": [
+                        {
+                            "tagTitle": "Free Cancellation",
+                            "tagId": 10580,
+                            "tagTemplateId": 10001,
+                            "tagPosition": 2
+                        },
+                        {
+                            "tagTitle": "Breakfast included",
+                            "tagId": 12367,
+                            "tagTemplateId": 10001,
+                            "tagPosition": 2
+                        }
+                    ],
+                    "promotionTags": [],
+                    "discountPercentTags": [],
+                    "encourageTags": [
+                        {
+                            "tagTitle": "Last booked 23 hrs ago",
+                            "tagTemplateId": 10011
+                        }
+                    ]
+                }
+            },
+            {
+                "hotelBasicInfo": {
+                    "hotelId": 108649019,
+                    "masterHotelId": 108649019,
+                    "hotelName": "Palm Tree Business Hotel",
+                    "hotelEnName": "Palm Tree Business Hotel",
+                    "hotelImg": "https://ak-d.tripcdn.com/images/0203r12000by2vv006317_R_250_250_R5_D.jpg",
+                    "hotelImgRoundLoad": [
+                        {
+                            "position": 5,
+                            "group": 1,
+                            "url": "https://ak-d.tripcdn.com/images/0203r12000by2vv006317_R_250_250_R5_D.jpg",
+                            "pictureId": 939055107
+                        },
+                        {
+                            "position": 5,
+                            "group": 2,
+                            "url": "https://ak-d.tripcdn.com/images/0203r12000by2vv006317_R_600_600_R5_D.jpg",
+                            "pictureId": 939055107
+                        }
+                    ],
+                    "hotelAddress": "House-10, Road-140, Gulshan-01",
+                    "superStar": 1,
+                    "favorityCount": 78,
+                    "browseCount": 0,
+                    "topRecommend": false,
+                    "topRecommendReason": "",
+                    "payType": 1,
+                    "isAdHotel": true,
+                    "adTraceid": "H4sIAAAAAAAA/+N40jnvz24jAUYDLg/GAMYoVkMrc2PjBKYC1g5GuQmMLjMYmQAoHBNFIwAAAA==",
+                    "isAdSlot": true,
+                    "starIcon": "",
+                    "hourRoomHours": "",
+                    "hourEarliestArriveTime": "",
+                    "hourLatestArriveTime": "",
+                    "price": 100,
+                    "originPrice": 115,
+                    "onlineTaxPrice": "100",
+                    "onlineAndShopTaxPrice": "100.39",
+                    "isEncrypt": false,
+                    "payAtHotelTax": 0,
+                    "isCollected": false,
+                    "isFullRoom": false,
+                    "isFullRoomCanFold": false,
+                    "hotelCloseInfo": null,
+                    "canNotBeOrderedInfo": {
+                        "messageBold": "",
+                        "cannotReserveCode": ""
+                    },
+                    "isPriceMask": 0,
+                    "medalInfo": {
+                        "medalType": 5,
+                        "description": "",
+                        "badgeHover": "Highly recommended hotels/suppliers have established a close partnership with Trip.com to provide attractive offers"
+                    },
+                    "wowHotel": false,
+                    "lastBookingTimeRemark": "",
+                    "additionTexts": [
+                        {
+                            "additionName": "ChildrenNormalTag",
+                            "additionText": ""
+                        },
+                        {
+                            "additionName": "LowestPriceWillSellout",
+                            "additionText": "We only have 2 rooms left"
+                        },
+                        {
+                            "additionName": "FreeBreakfast",
+                            "additionText": "Breakfast included"
+                        },
+                        {
+                            "additionName": "VeryClean",
+                            "additionText": "Very Clean 4.8/5"
+                        }
+                    ],
+                    "isThirtyFreeCancel": false,
+                    "openYear": "2023",
+                    "guestInfoEntity": {
+                        "childAge": [],
+                        "childBed": [],
+                        "childMeal": [],
+                        "childType": [],
+                        "guestHover": "",
+                        "childCount": 0,
+                        "adultCount": 2
+                    },
+                    "signInNote": "",
+                    "hidePrice": false,
+                    "priceExplanation": "Incl. taxes & fees",
+                    "payAtHotelTaxText": "",
+                    "hotelMultiImgs": [
+                        [
+                            {
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0203r12000by2vv006317_R_600_600_R5_D.jpg",
+                                "pictureId": 939055107
+                            },
+                            {
+                                "position": 29,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0203r12000by2vv006317_R_600_600_R5_D.jpg",
+                                "pictureId": 939055107
+                            }
+                        ],
+                        [
+                            {
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0586212000enz6kmb2198_R_600_600_R5_D.jpg",
+                                "pictureId": 1090270759
+                            },
+                            {
+                                "position": 29,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0586212000enz6kmb2198_R_600_600_R5_D.jpg",
+                                "pictureId": 1090270759
+                            }
+                        ],
+                        [
+                            {
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0204c12000by2xt48FD21_R_600_600_R5_D.jpg",
+                                "pictureId": 939049135
+                            },
+                            {
+                                "position": 29,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0204c12000by2xt48FD21_R_600_600_R5_D.jpg",
+                                "pictureId": 939049135
+                            }
+                        ],
+                        [
+                            {
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0580v12000enzag4m3781_R_600_600_R5_D.jpg",
+                                "pictureId": 1090270753
+                            },
+                            {
+                                "position": 29,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0580v12000enzag4m3781_R_600_600_R5_D.jpg",
+                                "pictureId": 1090270753
+                            }
+                        ],
+                        [
+                            {
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0206a12000by2y0wiBE05_R_600_600_R5_D.jpg",
+                                "pictureId": 939048099
+                            },
+                            {
+                                "position": 29,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0206a12000by2y0wiBE05_R_600_600_R5_D.jpg",
+                                "pictureId": 939048099
+                            }
+                        ]
+                    ],
+                    "hotelNames": [
+                        "Palm Tree Business Hotel"
+                    ],
+                    "needHighlight": false
+                },
+                "hotelDecorateInfo": {
+                    "tagName": "Opened in 2023"
+                },
+                "hotelFeatureTagInfo": [],
+                "hotelStarInfo": {
+                    "star": 3,
+                    "isLicenseStar": false,
+                    "starType": 1
+                },
+                "commentInfo": {
+                    "commentScore": "4.8",
+                    "commentDescription": "Amazing",
+                    "commenterNumber": "11 reviews",
+                    "subScore": [
+                        {
+                            "number": "4.9",
+                            "content": "Location",
+                            "scoreAvg": "3.3",
+                            "scoreType": 2
+                        },
+                        {
+                            "number": "4.8",
+                            "content": "Cleanliness",
+                            "scoreAvg": "3.3",
+                            "scoreType": 3
+                        },
+                        {
+                            "number": "4.8",
+                            "content": "Service",
+                            "scoreAvg": "3.3",
+                            "scoreType": 4
+                        },
+                        {
+                            "number": "4.8",
+                            "content": "Amenities",
+                            "scoreAvg": "3.3",
+                            "scoreType": 5
+                        }
+                    ],
+                    "tARatingInfo": null,
+                    "taAlt": "",
+                    "taUrl": "",
+                    "taCount": 0,
+                    "taReview": ""
+                },
+                "roomInfo": {
+                    "roomId": "1453835632",
+                    "shadowId": 0,
+                    "name": "",
+                    "adult": 2,
+                    "physicalRoomName": "Deluxe City View Twin Room",
+                    "isBooking": false,
+                    "bed": {
+                        "list": [
+                            "ic_new_twobeds"
+                        ],
+                        "contentListHover": [],
+                        "contentList": [
+                            "2 single beds"
+                        ],
+                        "cpxBedInfo": {
+                            "title": "",
+                            "bedDetail": [
+                                {
+                                    "roomName": "Bedroom 1",
+                                    "detail": [
+                                        "2 single beds(1.3m wide)"
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                },
+                "positionInfo": {
+                    "cityId": 733,
+                    "cityName": "Dhaka",
+                    "cityNameEn": "Dhaka",
+                    "positionDesc": "3.8 km from centre",
+                    "positionName": "",
+                    "positionInfo": "3.8 km from centre",
+                    "transport": {},
+                    "coordinate": {
+                        "cityId": 733,
+                        "lat": 23.776807,
+                        "lng": 90.417501,
+                        "isOversea": true,
+                        "coordinateType": 1
+                    },
+                    "zoneNames": [
+                        "Dhaka"
+                    ],
+                    "isOversea": true,
+                    "mapCoordinate": [
+                        {
+                            "coordinateType": 1,
+                            "latitude": "23.776807",
+                            "longitude": "90.417501",
+                            "gcoordType": "WGS84"
+                        },
+                        {
+                            "coordinateType": 2,
+                            "latitude": "23.776807",
+                            "longitude": "90.417501",
+                            "gcoordType": "WGS84"
+                        },
+                        {
+                            "coordinateType": 3,
+                            "latitude": "23.779912104836086",
+                            "longitude": "90.42565023269556",
+                            "gcoordType": "BD09"
+                        }
+                    ],
+                    "linearDist": 3.7663409
+                },
+                "minRoomInfo": {
+                    "roomId": "1453835632",
+                    "roomName": "",
+                    "shadowId": 0,
+                    "encryptedRoomId": 0
+                },
+                "tags": [
+                    {
+                        "name": "",
+                        "tagTitle": "DISCOUNTAMOUNT",
+                        "tagId": 90001,
+                        "tagDesc": "",
+                        "value": "15",
+                        "subTagId": 0,
+                        "tagPosition": 0,
+                        "labelExtensions": [],
+                        "tagTemplateId": 0
+                    },
+                    {
+                        "name": "Great service|Clean and tidy",
+                        "tagTitle": "OneSentenceComment",
+                        "tagId": 0,
+                        "tagDesc": "",
+                        "value": "",
+                        "subTagId": 0,
+                        "tagPosition": 0,
+                        "labelExtensions": [],
+                        "tagTemplateId": 0
+                    },
+                    {
+                        "name": "",
+                        "tagTitle": "PROMOTION",
+                        "tagId": 11600,
+                        "tagDesc": "Special Discount",
+                        "value": "",
+                        "subTagId": 0,
+                        "tagPosition": 0,
+                        "labelExtensions": [],
+                        "tagTemplateId": 0
+                    }
+                ],
+                "saleRoom": {
+                    "person": 2,
+                    "mealNum": 2,
+                    "mealType": 4
+                },
+                "promotion": [
+                    {
+                        "type": 1,
+                        "tagIcon": "ic_tag_sale",
+                        "text": "Special Discount"
+                    }
+                ],
+                "discountLabels": [
+                    {
+                        "type": 21,
+                        "text": "",
+                        "value": "15"
+                    },
+                    {
+                        "type": 1,
+                        "tagIcon": "ic_tag_sale",
+                        "text": "Special Discount"
+                    },
+                    {
+                        "type": 6,
+                        "tagIcon": "ic_new_tripcoins",
+                        "text": "Earn {0}£1.61{/0} in Trip Coins"
+                    }
+                ],
+                "specialPriceLabels": [],
+                "memberGrade": {},
+                "trace": {
+                    "traceLogId": "bbece0027a397",
+                    "timestamp": "1734085150415"
+                },
+                "extensions": {
+                    "hotelUniqueKey": "H4sIAAAAAAAAAON6w8jFJMEkxMTBKPWQkeND1_ytrBa_BR2rRda5PxTpdPBkAIEbPQ4BPIVgZkKCwyTGEE4wu2KCg6AxCPzvdlAS5_jdtMdCoJFR4n_H0tWMCowWB8WDGKIYlBQUWDRhWg1hDItnnEGsHF3cEixRDE6sHAcjJVhmMO7e8tx4I6NmTP-hrxJxDjsYmU4wpixgun1zl-kuJoiaQ0B6LpcEyykmhktMDLeYGB4xQUx5xcTwiYnhF1RZEzNDFzPDJGaI4lnMEDWLmBmkeJOSUpNTDQyMzBONLc0VhDTmTfmwi81IaRIjk7vTKUYpQ3NjEwMLU0MTExNjY73ENOPEcP_0UseSgjQrZilGNw_GIDZLVzcTQ6MoLS5mZ79IQbCHGD7YSzG7OwUo7mEVErFPU3LQYnZyCTG8FvZGf7f6evsk1tQ8XXenjL8CBYwNjMxdjBwCjB6MEYwVjK8YQdp-gH0OAHGlE46LAQAA",
+                    "quarantineTip": "",
+                    "recommendFilter": 0,
+                    "priceHigh": -1,
+                    "attachedFilters": [],
+                    "dispatchId": "899b6575-79a9-4213-95a3-bf1b6adbfe6f@5_6-157"
+                },
+                "queryType": "NORMAL",
+                "isCombinedRoom": false,
+                "combinedRoomQuality": null,
+                "extras": {
+                    "COMPENSATE_FILTER_ITEMS_INDEX": null,
+                    "PropertyCurrency": "BDT",
+                    "PropertyCurrencyExchange": "0.06085",
+                    "PriceCalendarRecommend": null,
+                    "ChildPriceRoom": null
+                },
+                "token": "eJyrVkrJLC7ISawMKMpMTlWyMjQw0FHKTSwuSS3yyC9JzfFMAYlZmJlYGhha6ijlJBaXhBakJJakhmTmgpSbG5sYWJgamhoYm5rWAgDRCheV",
+                "hotelNameTags": [
+                    {
+                        "tagTitle": "Opened in 2023",
+                        "tagTemplateId": 202333
+                    }
+                ],
+                "roomTags": {
+                    "advantageTags": [
+                        {
+                            "tagTitle": "Breakfast included",
+                            "tagId": 12367,
+                            "tagTemplateId": 10001,
+                            "tagPosition": 2
+                        }
+                    ],
+                    "promotionTags": [
+                        {
+                            "tagTitle": "Special Discount",
+                            "tagTemplateId": 400030
+                        }
+                    ],
+                    "discountPercentTags": [
+                        {
+                            "tagTitle": "£15 Off",
+                            "tagTemplateId": 40006
+                        }
+                    ],
+                    "encourageTags": [
+                        {
+                            "tagTitle": "We only have 2 rooms left",
+                            "tagTemplateId": 10009
+                        }
+                    ]
+                }
+            },
+            {
+                "hotelBasicInfo": {
+                    "hotelId": 739547,
+                    "masterHotelId": 739547,
+                    "hotelName": "Hotel Sarina",
+                    "hotelEnName": "Hotel Sarina",
+                    "hotelImg": "https://ak-d.tripcdn.com/images/02204120009tpqqmwE146_R_250_250_R5_D.jpg",
+                    "hotelImgRoundLoad": [
+                        {
+                            "position": 5,
+                            "group": 1,
+                            "url": "https://ak-d.tripcdn.com/images/02204120009tpqqmwE146_R_250_250_R5_D.jpg",
+                            "pictureId": 378791079
+                        },
+                        {
+                            "position": 5,
+                            "group": 2,
+                            "url": "https://ak-d.tripcdn.com/images/02204120009tpqqmwE146_R_600_600_R5_D.jpg",
+                            "pictureId": 378791079
+                        }
+                    ],
+                    "hotelAddress": "Plot #27, Road #17, Banani C/A",
+                    "superStar": 1,
+                    "favorityCount": 288,
+                    "browseCount": 0,
+                    "topRecommend": false,
+                    "topRecommendReason": "",
+                    "payType": 1,
+                    "isAdHotel": false,
+                    "adTraceid": "H4sIAAAAAAAA/+N40jnvz24jAUYDLg/GAMYoVkMrc2PjBKYC1g5GuQmMLjMYmQAoHBNFIwAAAA==",
+                    "isAdSlot": false,
+                    "starIcon": "",
+                    "hourRoomHours": "",
+                    "hourEarliestArriveTime": "",
+                    "hourLatestArriveTime": "",
+                    "price": 99,
+                    "originPrice": "",
+                    "onlineTaxPrice": "99",
+                    "onlineAndShopTaxPrice": "98.87",
+                    "isEncrypt": false,
+                    "payAtHotelTax": 0,
+                    "isCollected": false,
+                    "isFullRoom": false,
+                    "isFullRoomCanFold": false,
+                    "hotelCloseInfo": null,
+                    "canNotBeOrderedInfo": {
+                        "messageBold": "",
+                        "cannotReserveCode": ""
+                    },
+                    "isPriceMask": 0,
+                    "medalInfo": {
+                        "medalType": 5,
+                        "description": "",
+                        "badgeHover": "Highly recommended hotels/suppliers have established a close partnership with Trip.com to provide attractive offers"
+                    },
+                    "wowHotel": false,
+                    "lastBookingTimeRemark": "",
+                    "additionTexts": [
+                        {
+                            "additionName": "ChildrenNormalTag",
+                            "additionText": ""
+                        },
+                        {
+                            "additionName": "FreeBreakfast",
+                            "additionText": "Breakfast included"
+                        },
+                        {
+                            "additionName": "LastBooking",
+                            "additionText": "Last booked 19 hours ago on our site"
+                        }
+                    ],
+                    "isThirtyFreeCancel": false,
+                    "openYear": "2003",
+                    "guestInfoEntity": {
+                        "childAge": [],
+                        "childBed": [],
+                        "childMeal": [],
+                        "childType": [],
+                        "guestHover": "",
+                        "childCount": 0,
+                        "adultCount": 2
+                    },
+                    "signInNote": "",
+                    "hidePrice": false,
+                    "priceExplanation": "Incl. taxes & fees",
+                    "payAtHotelTaxText": "",
+                    "hotelMultiImgs": [
+                        [
+                            {
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/02204120009tpqqmwE146_R_600_600_R5_D.jpg",
+                                "pictureId": 378791079
+                            },
+                            {
+                                "position": 29,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/02204120009tpqqmwE146_R_600_600_R5_D.jpg",
+                                "pictureId": 378791079
+                            }
+                        ],
+                        [
+                            {
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0225p120009tpqsd86DB7_R_600_600_R5_D.jpg",
+                                "pictureId": 127942408
+                            },
+                            {
+                                "position": 29,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0225p120009tpqsd86DB7_R_600_600_R5_D.jpg",
+                                "pictureId": 127942408
+                            }
+                        ],
+                        [
+                            {
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0226k12000a04hqah9CC2_R_600_600_R5_D.jpg",
+                                "pictureId": 779794777
+                            },
+                            {
+                                "position": 29,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0226k12000a04hqah9CC2_R_600_600_R5_D.jpg",
+                                "pictureId": 779794777
+                            }
+                        ],
+                        [
+                            {
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0222j12000amr7ut3C048_R_600_600_R5_D.jpg",
+                                "pictureId": 741093841
+                            },
+                            {
+                                "position": 29,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0222j12000amr7ut3C048_R_600_600_R5_D.jpg",
+                                "pictureId": 741093841
+                            }
+                        ],
+                        [
+                            {
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/1mc6x12000bny5lxnFC10_R_600_600_R5_D.jpg",
+                                "pictureId": 900847649
+                            },
+                            {
+                                "position": 29,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/1mc6x12000bny5lxnFC10_R_600_600_R5_D.jpg",
+                                "pictureId": 900847649
+                            }
+                        ]
+                    ],
+                    "hotelNames": [
+                        "Hotel Sarina"
+                    ],
+                    "needHighlight": false
+                },
+                "hotelDecorateInfo": {},
+                "hotelFeatureTagInfo": [],
+                "hotelStarInfo": {
+                    "star": 5,
+                    "isLicenseStar": false,
+                    "starType": 1
+                },
+                "commentInfo": {
+                    "commentScore": "4.4",
+                    "commentDescription": "Very Good",
+                    "commenterNumber": "64 reviews",
+                    "subScore": [
+                        {
+                            "number": "4.5",
+                            "content": "Location",
+                            "scoreAvg": "4.3",
+                            "scoreType": 2
+                        },
+                        {
+                            "number": "4.5",
+                            "content": "Cleanliness",
+                            "scoreAvg": "4.3",
+                            "scoreType": 3
+                        },
+                        {
+                            "number": "4.4",
+                            "content": "Service",
+                            "scoreAvg": "4.3",
+                            "scoreType": 4
+                        },
+                        {
+                            "number": "4.1",
+                            "content": "Amenities",
+                            "scoreAvg": "4.3",
+                            "scoreType": 5
+                        }
+                    ],
+                    "tARatingInfo": null,
+                    "taAlt": "",
+                    "taUrl": "",
+                    "taCount": 0,
+                    "taReview": ""
+                },
+                "roomInfo": {
+                    "roomId": "473736318",
+                    "shadowId": 0,
+                    "name": "",
+                    "adult": 2,
+                    "physicalRoomName": "Deluxe King Room Non smoking",
+                    "isBooking": false,
+                    "bed": {
+                        "list": [
+                            "ic_new_double_bed"
+                        ],
+                        "contentListHover": [],
+                        "contentList": [
+                            "1 king bed"
+                        ],
+                        "cpxBedInfo": {
+                            "title": "",
+                            "bedDetail": [
+                                {
+                                    "roomName": "Bedroom 1",
+                                    "detail": [
+                                        "1 king bed(1.81m-3m wide)"
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                },
+                "positionInfo": {
+                    "cityId": 733,
+                    "cityName": "Dhaka",
+                    "cityNameEn": "Dhaka",
+                    "positionDesc": "Near Hazrat Shahjalal International Airport",
+                    "positionName": "Near Hazrat Shahjalal International Airport",
+                    "positionInfo": "2.1 km from centre",
+                    "transport": {},
+                    "coordinate": {
+                        "cityId": 733,
+                        "lat": 23.793233,
+                        "lng": 90.404393,
+                        "isOversea": true,
+                        "coordinateType": 1
+                    },
+                    "zoneNames": [
+                        "Near Hazrat Shahjalal International Airport"
+                    ],
+                    "isOversea": true,
+                    "mapCoordinate": [
+                        {
+                            "coordinateType": 1,
+                            "latitude": "23.793233",
+                            "longitude": "90.404393",
+                            "gcoordType": "WGS84"
+                        },
+                        {
+                            "coordinateType": 2,
+                            "latitude": "23.793233",
+                            "longitude": "90.404393",
+                            "gcoordType": "WGS84"
+                        },
+                        {
+                            "coordinateType": 3,
+                            "latitude": "23.79640927505637",
+                            "longitude": "90.41254381326866",
+                            "gcoordType": "BD09"
+                        }
+                    ],
+                    "linearDist": 2.0755659
+                },
+                "minRoomInfo": {
+                    "roomId": "473736318",
+                    "roomName": "",
+                    "shadowId": 0,
+                    "encryptedRoomId": 0
+                },
+                "tags": [
+                    {
+                        "name": "Great service|Great stay!",
+                        "tagTitle": "OneSentenceComment",
+                        "tagId": 0,
+                        "tagDesc": "",
+                        "value": "",
+                        "subTagId": 0,
+                        "tagPosition": 0,
+                        "labelExtensions": [],
+                        "tagTemplateId": 0
+                    }
+                ],
+                "saleRoom": {
+                    "person": 2,
+                    "mealNum": 2,
+                    "mealType": 4
+                },
+                "promotion": [],
+                "discountLabels": [
+                    {
+                        "type": 6,
+                        "tagIcon": "ic_new_tripcoins",
+                        "text": "Earn {0}£1.58{/0} in Trip Coins"
+                    }
+                ],
+                "specialPriceLabels": [],
+                "memberGrade": {},
+                "trace": {
+                    "traceLogId": "bbece0027a397",
+                    "timestamp": "1734085150416"
+                },
+                "extensions": {
+                    "hotelUniqueKey": "H4sIAAAAAAAAAOPaw8jFJMEkxMTBKLWRkePfiU8PGYUYjQzuM1pslXdsfR24Q865zcHzYZXIOvfsHocAnkmMRpxnzwCBTbyDINf1xQW2VdEOSuIcv5v2WAg0Mkr871i6mlGB0eKgeBBDFIMTK8d8XwmWGYy3J-puZCy0BWpYkOGwg5HpBGPyAqbTly4y7mKCKDkEpO8JSLCcYmK4xMRwi4nhERPDKyaGT0wMv6AqmpgZupgZJjFD1M1iZljEzCDFm5SUmpxqYGBknmhsaa4gpDFvyoddbEZKkxiZ3J1OMUoZmhubGFiYGpqYmBgb6yWmGSeG-6eXOpYUpFkxSzG6eTAGsZkZGTs6ukZpcTGHBrsIKv39VvpARtZBitndKUBxD6uQiH2akoMWSM4QJpfEmpqn6-6U8VeggLGBkbmLkUOA0YMxgrGC8RUjSNsPkHcB-wrEFFoBAAA",
+                    "quarantineTip": "",
+                    "recommendFilter": 0,
+                    "priceHigh": -1,
+                    "attachedFilters": [],
+                    "dispatchId": "308736fb-12d4-4328-8cc2-e82c59a82918-104"
+                },
+                "queryType": "NORMAL",
+                "isCombinedRoom": false,
+                "combinedRoomQuality": null,
+                "extras": {
+                    "COMPENSATE_FILTER_ITEMS_INDEX": null,
+                    "PropertyCurrency": "USD",
+                    "PropertyCurrencyExchange": "7.2782",
+                    "PriceCalendarRecommend": null,
+                    "ChildPriceRoom": null
+                },
+                "token": "eJyrVkrJLC7ISawMKMpMTlWysrTUUcpNLC5JLfLIL0nN8UxRsjI3tjQ1MddRykksLgktSEksSQ3JzE1VsjI0NzYxsDA1NDUwNjWtBQCIABbj",
+                "hotelNameTags": [],
+                "roomTags": {
+                    "advantageTags": [
+                        {
+                            "tagTitle": "Breakfast included",
+                            "tagId": 12367,
+                            "tagTemplateId": 10001,
+                            "tagPosition": 2
+                        }
+                    ],
+                    "promotionTags": [],
+                    "discountPercentTags": [],
+                    "encourageTags": [
+                        {
+                            "tagTitle": "Last booked 19 hrs ago",
+                            "tagTemplateId": 10011
+                        }
+                    ]
+                }
+            },
+            {
+                "hotelBasicInfo": {
+                    "hotelId": 3725840,
+                    "masterHotelId": 3725840,
+                    "hotelName": "Bengal Blueberry",
+                    "hotelEnName": "Bengal Blueberry",
+                    "hotelImg": "https://ak-d.tripcdn.com/images/0584912000cy45cuz0085_R_250_250_R5_D.jpg",
+                    "hotelImgRoundLoad": [
+                        {
+                            "position": 5,
+                            "group": 1,
+                            "url": "https://ak-d.tripcdn.com/images/0584912000cy45cuz0085_R_250_250_R5_D.jpg",
+                            "pictureId": 997081379
+                        },
+                        {
+                            "position": 5,
+                            "group": 2,
+                            "url": "https://ak-d.tripcdn.com/images/0584912000cy45cuz0085_R_600_600_R5_D.jpg",
+                            "pictureId": 997081379
+                        }
+                    ],
+                    "hotelAddress": "Rd 90",
+                    "superStar": 1,
+                    "favorityCount": 185,
+                    "browseCount": 0,
+                    "topRecommend": false,
+                    "topRecommendReason": "",
+                    "payType": 1,
+                    "isAdHotel": false,
+                    "adTraceid": "H4sIAAAAAAAA/+N40jnvz24jAUYDLg/GAMYoVkMrc2PjBKYC1g5GuQmMLjMYmQAoHBNFIwAAAA==",
+                    "isAdSlot": false,
+                    "starIcon": "",
+                    "hourRoomHours": "",
+                    "hourEarliestArriveTime": "",
+                    "hourLatestArriveTime": "",
+                    "price": 59,
+                    "originPrice": 67,
+                    "onlineTaxPrice": "59",
+                    "onlineAndShopTaxPrice": "58.93",
+                    "isEncrypt": false,
+                    "payAtHotelTax": 0,
+                    "isCollected": false,
+                    "isFullRoom": false,
+                    "isFullRoomCanFold": false,
+                    "hotelCloseInfo": null,
+                    "canNotBeOrderedInfo": {
+                        "messageBold": "",
+                        "cannotReserveCode": ""
+                    },
+                    "isPriceMask": 0,
+                    "medalInfo": {
+                        "medalType": 5,
+                        "description": "",
+                        "badgeHover": "Highly recommended hotels/suppliers have established a close partnership with Trip.com to provide attractive offers"
+                    },
+                    "wowHotel": false,
+                    "lastBookingTimeRemark": "",
+                    "additionTexts": [
+                        {
+                            "additionName": "ChildrenNormalTag",
+                            "additionText": ""
+                        },
+                        {
+                            "additionName": "LowestPriceWillSellout",
+                            "additionText": "We only have 1 room left"
+                        },
+                        {
+                            "additionName": "FreeBreakfast",
+                            "additionText": "Breakfast included"
+                        }
+                    ],
+                    "isThirtyFreeCancel": false,
+                    "openYear": "2014",
+                    "guestInfoEntity": {
+                        "childAge": [],
+                        "childBed": [],
+                        "childMeal": [],
+                        "childType": [],
+                        "guestHover": "",
+                        "childCount": 0,
+                        "adultCount": 2
+                    },
+                    "signInNote": "",
+                    "hidePrice": false,
+                    "priceExplanation": "Incl. taxes & fees",
+                    "payAtHotelTaxText": "",
+                    "hotelMultiImgs": [
+                        [
+                            {
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0584912000cy45cuz0085_R_600_600_R5_D.jpg",
+                                "pictureId": 997081379
+                            },
+                            {
+                                "position": 29,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0584912000cy45cuz0085_R_600_600_R5_D.jpg",
+                                "pictureId": 997081379
+                            }
+                        ],
+                        [
+                            {
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0582j12000dnoh2349C68_R_600_600_R5_D.jpg",
+                                "pictureId": 1057243043
+                            },
+                            {
+                                "position": 29,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0582j12000dnoh2349C68_R_600_600_R5_D.jpg",
+                                "pictureId": 1057243043
+                            }
+                        ],
+                        [
+                            {
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0226g12000cluz0ma55E4_R_600_600_R5_D.jpg",
+                                "pictureId": 1073381345
+                            },
+                            {
+                                "position": 29,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0226g12000cluz0ma55E4_R_600_600_R5_D.jpg",
+                                "pictureId": 1073381345
+                            }
+                        ],
+                        [
+                            {
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0221n120009umbwfc739E_R_600_600_R5_D.jpg",
+                                "pictureId": 375605111
+                            },
+                            {
+                                "position": 29,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0221n120009umbwfc739E_R_600_600_R5_D.jpg",
+                                "pictureId": 375605111
+                            }
+                        ],
+                        [
+                            {
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0582i12000dv2b06821C8_R_600_600_R5_D.jpg",
+                                "pictureId": 1068446887
+                            },
+                            {
+                                "position": 29,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0582i12000dv2b06821C8_R_600_600_R5_D.jpg",
+                                "pictureId": 1068446887
+                            }
+                        ]
+                    ],
+                    "topAwardInfo": {
+                        "listSubTitle": "No.9 of 4-star Select Hotels in Dhaka",
+                        "hotelRank": 9,
+                        "lableId": "10006063",
+                        "rankId": "100200156625",
+                        "rankType": 2
+                    },
+                    "hotelNames": [
+                        "Bengal Blueberry"
+                    ],
+                    "needHighlight": false
+                },
+                "hotelDecorateInfo": {},
+                "hotelFeatureTagInfo": [],
+                "hotelStarInfo": {
+                    "star": 4,
+                    "isLicenseStar": false,
+                    "starType": 1
+                },
+                "commentInfo": {
+                    "commentScore": "4.4",
+                    "commentDescription": "Very Good",
+                    "commenterNumber": "69 reviews",
+                    "subScore": [
+                        {
+                            "number": "4.4",
+                            "content": "Location",
+                            "scoreAvg": "4",
+                            "scoreType": 2
+                        },
+                        {
+                            "number": "4.4",
+                            "content": "Cleanliness",
+                            "scoreAvg": "3.9",
+                            "scoreType": 3
+                        },
+                        {
+                            "number": "4.4",
+                            "content": "Service",
+                            "scoreAvg": "4",
+                            "scoreType": 4
+                        },
+                        {
+                            "number": "4.3",
+                            "content": "Amenities",
+                            "scoreAvg": "3.9",
+                            "scoreType": 5
+                        }
+                    ],
+                    "tARatingInfo": null,
+                    "taAlt": "",
+                    "taUrl": "",
+                    "taCount": 0,
+                    "taReview": ""
+                },
+                "roomInfo": {
+                    "roomId": "1274544408",
+                    "shadowId": 0,
+                    "name": "",
+                    "adult": 2,
+                    "physicalRoomName": "Premium Queen Room",
+                    "isBooking": false,
+                    "bed": {
+                        "list": [
+                            "ic_new_double_bed"
+                        ],
+                        "contentListHover": [],
+                        "contentList": [
+                            "1 queen bed"
+                        ],
+                        "cpxBedInfo": {
+                            "title": "",
+                            "bedDetail": [
+                                {
+                                    "roomName": "Bedroom 1",
+                                    "detail": [
+                                        "1 queen bed(1.51m wide)"
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                },
+                "positionInfo": {
+                    "cityId": 733,
+                    "cityName": "Dhaka",
+                    "cityNameEn": "Dhaka",
+                    "positionDesc": "Near Hazrat Shahjalal International Airport",
+                    "positionName": "Near Hazrat Shahjalal International Airport",
+                    "positionInfo": "1.6 km from centre",
+                    "transport": {},
+                    "coordinate": {
+                        "cityId": 733,
+                        "lat": 23.796215,
+                        "lng": 90.415261,
+                        "isOversea": true,
+                        "coordinateType": 1
+                    },
+                    "zoneNames": [
+                        "Near Hazrat Shahjalal International Airport"
+                    ],
+                    "isOversea": true,
+                    "mapCoordinate": [
+                        {
+                            "coordinateType": 1,
+                            "latitude": "23.796215",
+                            "longitude": "90.415261",
+                            "gcoordType": "WGS84"
+                        },
+                        {
+                            "coordinateType": 2,
+                            "latitude": "23.796215",
+                            "longitude": "90.415261",
+                            "gcoordType": "WGS84"
+                        },
+                        {
+                            "coordinateType": 3,
+                            "latitude": "23.799320289100287",
+                            "longitude": "90.42341850944932",
+                            "gcoordType": "BD09"
+                        }
+                    ],
+                    "linearDist": 1.5961355
+                },
+                "minRoomInfo": {
+                    "roomId": "1274544408",
+                    "roomName": "",
+                    "shadowId": 0,
+                    "encryptedRoomId": 0
+                },
+                "tags": [
+                    {
+                        "name": "",
+                        "tagTitle": "DISCOUNTAMOUNT",
+                        "tagId": 90001,
+                        "tagDesc": "",
+                        "value": "8",
+                        "subTagId": 0,
+                        "tagPosition": 0,
+                        "labelExtensions": [],
+                        "tagTemplateId": 0
+                    },
+                    {
+                        "name": "Great service|Delicious breakfast",
+                        "tagTitle": "OneSentenceComment",
+                        "tagId": 0,
+                        "tagDesc": "",
+                        "value": "",
+                        "subTagId": 0,
+                        "tagPosition": 0,
+                        "labelExtensions": [],
+                        "tagTemplateId": 0
+                    },
+                    {
+                        "name": "",
+                        "tagTitle": "PROMOTION",
+                        "tagId": 11600,
+                        "tagDesc": "Special Discount",
+                        "value": "",
+                        "subTagId": 0,
+                        "tagPosition": 0,
+                        "labelExtensions": [],
+                        "tagTemplateId": 0
+                    }
+                ],
+                "saleRoom": {
+                    "person": 2,
+                    "mealNum": 2,
+                    "mealType": 4
+                },
+                "promotion": [
+                    {
+                        "type": 1,
+                        "tagIcon": "ic_tag_sale",
+                        "text": "Special Discount"
+                    }
+                ],
+                "discountLabels": [
+                    {
+                        "type": 21,
+                        "text": "",
+                        "value": "8"
+                    },
+                    {
+                        "type": 1,
+                        "tagIcon": "ic_tag_sale",
+                        "text": "Special Discount"
+                    },
+                    {
+                        "type": 6,
+                        "tagIcon": "ic_new_tripcoins",
+                        "text": "Earn {0}£0.94{/0} in Trip Coins"
+                    }
+                ],
+                "specialPriceLabels": [],
+                "memberGrade": {},
+                "trace": {
+                    "traceLogId": "bbece0027a397",
+                    "timestamp": "1734085150416"
+                },
+                "extensions": {
+                    "hotelUniqueKey": "H4sIAAAAAAAAAON6w8jFJMEkxMTBKPWQkWNG04P7LBa_BR09HlaJrBOudvA0BoG3DQ4BPIUMIOAQ7DCJMYQTwg51EAQzBIIclMQ5fjftsRBoZJT437F0NaMCo8VB8SCGKAYlBQUWTZhWQxjD4hlnECvHQTYJligGJ1aOYyYSLDMYJ2x5zLiRsVpknftDqWiHHYxMJxitFzCdPN3CtosJouYQkJ7FKcFyionhEhPDLSaGR0wQU14xMXxiYvgFVdbEzNDFzDCJGaJ4FjNEzSJmBinepKTU5FQDAyPzRGNLcwUhjXlTPuxiM1KaxMjk7nSKUcrQ3NjEwMLU0MTExNhYLzHNODHcP73UsaQgzYpZitHNgzGIzc3cwMjMNEqLizk02EVQ6e-30gcysg5SzO5OAYp7WIVE7NOUHLRAcoYwuSTW1Dxdd6eMvwIFjA2MzF2MHAKMHowRjBWMrxhB2n6AfQ4ArD6r7YsBAAA",
+                    "quarantineTip": "",
+                    "recommendFilter": 0,
+                    "priceHigh": -1,
+                    "attachedFilters": [],
+                    "dispatchId": "308736fb-12d4-4328-8cc2-e82c59a82918-104"
+                },
+                "queryType": "NORMAL",
+                "isCombinedRoom": false,
+                "combinedRoomQuality": null,
+                "extras": {
+                    "COMPENSATE_FILTER_ITEMS_INDEX": null,
+                    "PropertyCurrency": "USD",
+                    "PropertyCurrencyExchange": "7.2782",
+                    "PriceCalendarRecommend": null,
+                    "ChildPriceRoom": "T"
+                },
+                "token": "eJyrVkrJLC7ISawMKMpMTlWyMrXUUcpNLC5JLfLIL0nN8UxRsjI2NzK1MDHQUcpJLC4JLUhJLEkNycxNVbIyNDc2MbAwNTQ1MDY1rQUAmd4XCQ==",
+                "hotelNameTags": [],
+                "roomTags": {
+                    "advantageTags": [
+                        {
+                            "tagTitle": "Breakfast included",
+                            "tagId": 12367,
+                            "tagTemplateId": 10001,
+                            "tagPosition": 2
+                        }
+                    ],
+                    "promotionTags": [
+                        {
+                            "tagTitle": "Special Discount",
+                            "tagTemplateId": 400030
+                        }
+                    ],
+                    "discountPercentTags": [
+                        {
+                            "tagTitle": "£8 Off",
+                            "tagTemplateId": 40006
+                        }
+                    ],
+                    "encourageTags": [
+                        {
+                            "tagTitle": "We only have 1 room left",
+                            "tagTemplateId": 10009
+                        }
+                    ]
+                }
+            },
+            {
+                "hotelBasicInfo": {
+                    "hotelId": 6443806,
+                    "masterHotelId": 6443806,
+                    "hotelName": "Blossom Hotel Dhaka",
+                    "hotelEnName": "Blossom Hotel Dhaka",
+                    "hotelImg": "https://ak-d.tripcdn.com/images/0584p12000dwzcihz8DCE_R_250_250_R5_D.jpg",
+                    "hotelImgRoundLoad": [
+                        {
+                            "position": 5,
+                            "group": 1,
+                            "url": "https://ak-d.tripcdn.com/images/0584p12000dwzcihz8DCE_R_250_250_R5_D.jpg",
+                            "pictureId": 1070350623
+                        },
+                        {
+                            "position": 5,
+                            "group": 2,
+                            "url": "https://ak-d.tripcdn.com/images/0584p12000dwzcihz8DCE_R_600_600_R5_D.jpg",
+                            "pictureId": 1070350623
+                        }
+                    ],
+                    "hotelAddress": "House# 5, Road# 1/A, Block# J, Baridhara, US Embassy Rd",
+                    "superStar": 1,
+                    "favorityCount": 125,
+                    "browseCount": 0,
+                    "topRecommend": false,
+                    "topRecommendReason": "",
+                    "payType": 1,
+                    "isAdHotel": false,
+                    "adTraceid": "H4sIAAAAAAAA/+N40jnvz24jAUYDLg/GAMYoVkMrc2PjBKYC1g5GuQmMLjMYmQAoHBNFIwAAAA==",
+                    "isAdSlot": false,
+                    "starIcon": "",
+                    "hourRoomHours": "",
+                    "hourEarliestArriveTime": "",
+                    "hourLatestArriveTime": "",
+                    "price": 20,
+                    "originPrice": 28,
+                    "onlineTaxPrice": "20",
+                    "onlineAndShopTaxPrice": "20.49",
+                    "isEncrypt": false,
+                    "payAtHotelTax": 0,
+                    "isCollected": false,
+                    "isFullRoom": false,
+                    "isFullRoomCanFold": false,
+                    "hotelCloseInfo": null,
+                    "canNotBeOrderedInfo": {
+                        "messageBold": "",
+                        "cannotReserveCode": ""
+                    },
+                    "isPriceMask": 0,
+                    "medalInfo": {
+                        "medalType": 5,
+                        "description": "",
+                        "badgeHover": "Highly recommended hotels/suppliers have established a close partnership with Trip.com to provide attractive offers"
+                    },
+                    "wowHotel": false,
+                    "lastBookingTimeRemark": "",
+                    "additionTexts": [
+                        {
+                            "additionName": "ChildrenNormalTag",
+                            "additionText": ""
+                        },
+                        {
+                            "additionName": "LowestPriceWillSellout",
+                            "additionText": "We only have 2 rooms left"
+                        },
+                        {
+                            "additionName": "FreeBreakfast",
+                            "additionText": "Breakfast included"
+                        }
+                    ],
+                    "isThirtyFreeCancel": false,
+                    "openYear": "2015",
+                    "guestInfoEntity": {
+                        "childAge": [],
+                        "childBed": [],
+                        "childMeal": [],
+                        "childType": [],
+                        "guestHover": "",
+                        "childCount": 0,
+                        "adultCount": 2
+                    },
+                    "signInNote": "",
+                    "hidePrice": false,
+                    "priceExplanation": "Incl. taxes & fees",
+                    "payAtHotelTaxText": "",
+                    "hotelMultiImgs": [
+                        [
+                            {
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0584p12000dwzcihz8DCE_R_600_600_R5_D.jpg",
+                                "pictureId": 1070350623
+                            },
+                            {
+                                "position": 29,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0584p12000dwzcihz8DCE_R_600_600_R5_D.jpg",
+                                "pictureId": 1070350623
+                            }
+                        ],
+                        [
+                            {
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0226d12000acbjazw6606_R_600_600_R5_D.jpg",
+                                "pictureId": 1114860623
+                            },
+                            {
+                                "position": 29,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0226d12000acbjazw6606_R_600_600_R5_D.jpg",
+                                "pictureId": 1114860623
+                            }
+                        ],
+                        [
+                            {
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0226t12000am2vapgE3B9_R_600_600_R5_D.jpg",
+                                "pictureId": 1016322289
+                            },
+                            {
+                                "position": 29,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0226t12000am2vapgE3B9_R_600_600_R5_D.jpg",
+                                "pictureId": 1016322289
+                            }
+                        ],
+                        [
+                            {
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0223r12000b5e6tcu1DEA_R_600_600_R5_D.jpg",
+                                "pictureId": 839004227
+                            },
+                            {
+                                "position": 29,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0223r12000b5e6tcu1DEA_R_600_600_R5_D.jpg",
+                                "pictureId": 839004227
+                            }
+                        ],
+                        [
+                            {
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0222c12000alamvq7A461_R_600_600_R5_D.jpg",
+                                "pictureId": 1114860293
+                            },
+                            {
+                                "position": 29,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0222c12000alamvq7A461_R_600_600_R5_D.jpg",
+                                "pictureId": 1114860293
+                            }
+                        ]
+                    ],
+                    "hotelNames": [
+                        "Blossom Hotel Dhaka"
+                    ],
+                    "needHighlight": false
+                },
+                "hotelDecorateInfo": {},
+                "hotelFeatureTagInfo": [],
+                "hotelStarInfo": {
+                    "star": 3,
+                    "isLicenseStar": false,
+                    "starType": 1
+                },
+                "commentInfo": {
+                    "commentScore": "4.0",
+                    "commentDescription": "Very Good",
+                    "commenterNumber": "37 reviews",
+                    "subScore": [
+                        {
+                            "number": "4.1",
+                            "content": "Location",
+                            "scoreAvg": "3.3",
+                            "scoreType": 2
+                        },
+                        {
+                            "number": "4.1",
+                            "content": "Cleanliness",
+                            "scoreAvg": "3.3",
+                            "scoreType": 3
+                        },
+                        {
+                            "number": "4.0",
+                            "content": "Service",
+                            "scoreAvg": "3.3",
+                            "scoreType": 4
+                        },
+                        {
+                            "number": "4.0",
+                            "content": "Amenities",
+                            "scoreAvg": "3.3",
+                            "scoreType": 5
+                        }
+                    ],
+                    "tARatingInfo": null,
+                    "taAlt": "",
+                    "taUrl": "",
+                    "taCount": 0,
+                    "taReview": ""
+                },
+                "roomInfo": {
+                    "roomId": "1559729575",
+                    "shadowId": 0,
+                    "name": "",
+                    "adult": 2,
+                    "physicalRoomName": "Super Deluxe Double Room",
+                    "isBooking": false,
+                    "bed": {
+                        "list": [
+                            "ic_new_double_bed"
+                        ],
+                        "contentListHover": [],
+                        "contentList": [
+                            "1 double bed"
+                        ],
+                        "cpxBedInfo": {
+                            "title": "",
+                            "bedDetail": [
+                                {
+                                    "roomName": "Bedroom 1",
+                                    "detail": [
+                                        "1 double bed(1.31m-1.5m wide)"
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                },
+                "positionInfo": {
+                    "cityId": 733,
+                    "cityName": "Dhaka",
+                    "cityNameEn": "Dhaka",
+                    "positionDesc": "Near Hazrat Shahjalal International Airport",
+                    "positionName": "Near Hazrat Shahjalal International Airport",
+                    "positionInfo": "1.9 km from centre",
+                    "transport": {},
+                    "coordinate": {
+                        "cityId": 733,
+                        "lat": 23.797509,
+                        "lng": 90.425268,
+                        "isOversea": true,
+                        "coordinateType": 1
+                    },
+                    "zoneNames": [
+                        "Near Hazrat Shahjalal International Airport"
+                    ],
+                    "isOversea": true,
+                    "mapCoordinate": [
+                        {
+                            "coordinateType": 1,
+                            "latitude": "23.797509",
+                            "longitude": "90.425268",
+                            "gcoordType": "WGS84"
+                        },
+                        {
+                            "coordinateType": 2,
+                            "latitude": "23.797509",
+                            "longitude": "90.425268",
+                            "gcoordType": "WGS84"
+                        },
+                        {
+                            "coordinateType": 3,
+                            "latitude": "23.800619051421393",
+                            "longitude": "90.43340712709322",
+                            "gcoordType": "BD09"
+                        }
+                    ],
+                    "linearDist": 1.9297431
+                },
+                "minRoomInfo": {
+                    "roomId": "1559729575",
+                    "roomName": "",
+                    "shadowId": 0,
+                    "encryptedRoomId": 0
+                },
+                "tags": [
+                    {
+                        "name": "",
+                        "tagTitle": "DISCOUNTAMOUNT",
+                        "tagId": 90001,
+                        "tagDesc": "",
+                        "value": "8",
+                        "subTagId": 0,
+                        "tagPosition": 0,
+                        "labelExtensions": [],
+                        "tagTemplateId": 0
+                    },
+                    {
+                        "name": "Friendly host",
+                        "tagTitle": "OneSentenceComment",
+                        "tagId": 0,
+                        "tagDesc": "",
+                        "value": "",
+                        "subTagId": 0,
+                        "tagPosition": 0,
+                        "labelExtensions": [],
+                        "tagTemplateId": 0
+                    },
+                    {
+                        "name": "",
+                        "tagTitle": "PROMOTION",
+                        "tagId": 11600,
+                        "tagDesc": "Final Rooms Sale",
+                        "value": "",
+                        "subTagId": 0,
+                        "tagPosition": 0,
+                        "labelExtensions": [],
+                        "tagTemplateId": 0
+                    }
+                ],
+                "saleRoom": {
+                    "person": 2,
+                    "mealNum": 1,
+                    "mealType": 4
+                },
+                "promotion": [
+                    {
+                        "type": 1,
+                        "tagIcon": "ic_tag_sale",
+                        "text": "Final Rooms Sale"
+                    }
+                ],
+                "discountLabels": [
+                    {
+                        "type": 21,
+                        "text": "",
+                        "value": "8"
+                    },
+                    {
+                        "type": 1,
+                        "tagIcon": "ic_tag_sale",
+                        "text": "Final Rooms Sale"
+                    }
+                ],
+                "specialPriceLabels": [],
+                "memberGrade": {},
+                "trace": {
+                    "traceLogId": "bbece0027a397",
+                    "timestamp": "1734085150416"
+                },
+                "extensions": {
+                    "hotelUniqueKey": "H4sIAAAAAAAAAON6wsTFJMEkxMTBKHWTiWP56nvPWS1-Czoe_qoR05-U4uDZ-jpwh1xpukMATyEDCBwIcGhkXFJgy3Vd2cdhEuM-Rk55kJI6RwdBoNjigr22DkouHJ-v73AU0JeYeXfvQyYFRk2wTgYrB0MYw6JR0DENBJaZOnjCGEGsHFOZJFiiWDleM0qwAE15eA5oirLEyi1IpjS4QE0BMizOMToWgmwNcHTwhDGApuxmBpvyE2iYkjjH76Y9FgKNjBL_O5auZlRgtDgoHsQQxeDEynFRVIJlBuO8ZZ3MGxlF1rk_rJpi4bCDkekEo8gCpn1bjnHuYoKoOQSku4FmnWJiuMTEcIuJ4RETC4eHBNMrJoZPQKknLBIsv6BKm5gZupgZJjFDNMxiBqtbxMwgxZuUlJqcamBgZJ5obGmuIKQxb8qHXWxGSpMYmdydTjFKGZobmxhYmBqamJgYG-slphknhvunlzqWFKRZMUsxunkwBrEZW5q4GZtHaXExhwa7CCr9_Vb6QEbWQYrZ3SlAcQ-rkIh9mpKDFkjOECaXxJqap-vulPFXoICxgZG5i5FDgNGDMYKxgvEVI0jbD7DnAeD3YZcDAgAA",
+                    "quarantineTip": "",
+                    "recommendFilter": 0,
+                    "priceHigh": -1,
+                    "attachedFilters": [],
+                    "dispatchId": "308736fb-12d4-4328-8cc2-e82c59a82918-104"
+                },
+                "queryType": "NORMAL",
+                "isCombinedRoom": false,
+                "combinedRoomQuality": null,
+                "extras": {
+                    "COMPENSATE_FILTER_ITEMS_INDEX": null,
+                    "PropertyCurrency": "USD",
+                    "PropertyCurrencyExchange": "7.2782",
+                    "PriceCalendarRecommend": null,
+                    "ChildPriceRoom": null
+                },
+                "token": "eJyrVkrJLC7ISawMKMpMTlWyMjLQUcpNLC5JLfLIL0nN8UxRsjIzMTG2MDDTUcpJLC4JLUhJLEkNycxNVbIyNDc2MbAwNTQ1MDY1rQUAl3IW/w==",
+                "hotelNameTags": [],
+                "roomTags": {
+                    "advantageTags": [
+                        {
+                            "tagTitle": "Breakfast included",
+                            "tagId": 12367,
+                            "tagTemplateId": 10001,
+                            "tagPosition": 2
+                        }
+                    ],
+                    "promotionTags": [
+                        {
+                            "tagTitle": "Final Rooms Sale",
+                            "tagTemplateId": 400030
+                        }
+                    ],
+                    "discountPercentTags": [
+                        {
+                            "tagTitle": "£8 Off",
+                            "tagTemplateId": 40006
+                        }
+                    ],
+                    "encourageTags": [
+                        {
+                            "tagTitle": "We only have 2 rooms left",
+                            "tagTemplateId": 10009
+                        }
+                    ]
+                }
+            },
+            {
+                "hotelBasicInfo": {
+                    "hotelId": 31402104,
+                    "masterHotelId": 31402104,
+                    "hotelName": "Holiday Inn Dhaka City Centre",
+                    "hotelEnName": "Holiday Inn Dhaka City Centre",
+                    "hotelImg": "https://ak-d.tripcdn.com/images/0580e12000d52xi0t3B49_R_250_250_R5_D.jpg",
+                    "hotelImgRoundLoad": [
+                        {
+                            "position": 5,
+                            "group": 1,
+                            "url": "https://ak-d.tripcdn.com/images/0580e12000d52xi0t3B49_R_250_250_R5_D.jpg",
+                            "pictureId": 538208428
+                        },
+                        {
+                            "position": 5,
+                            "group": 2,
+                            "url": "https://ak-d.tripcdn.com/images/0580e12000d52xi0t3B49_R_600_600_R5_D.jpg",
+                            "pictureId": 538208428
+                        }
+                    ],
+                    "hotelAddress": "23 Shaheed Tajuddin Ahmed Ave",
+                    "superStar": 1,
+                    "favorityCount": 207,
+                    "browseCount": 0,
+                    "topRecommend": false,
+                    "topRecommendReason": "",
+                    "payType": 3,
+                    "isAdHotel": false,
+                    "adTraceid": "H4sIAAAAAAAA/+N40jnvz24jAUYDLg/GAMYoVkMrc2PjBKYC1g5GuQmMLjMYmQAoHBNFIwAAAA==",
+                    "isAdSlot": false,
+                    "starIcon": "",
+                    "hourRoomHours": "",
+                    "hourEarliestArriveTime": "",
+                    "hourLatestArriveTime": "",
+                    "price": 129,
+                    "originPrice": "",
+                    "onlineTaxPrice": "129",
+                    "onlineAndShopTaxPrice": "128.63",
+                    "isEncrypt": false,
+                    "payAtHotelTax": 0,
+                    "isCollected": false,
+                    "isFullRoom": false,
+                    "isFullRoomCanFold": false,
+                    "hotelCloseInfo": null,
+                    "canNotBeOrderedInfo": {
+                        "messageBold": "",
+                        "cannotReserveCode": ""
+                    },
+                    "isPriceMask": 0,
+                    "medalInfo": {
+                        "medalType": 0,
+                        "description": "",
+                        "badgeHover": ""
+                    },
+                    "wowHotel": false,
+                    "lastBookingTimeRemark": "",
+                    "additionTexts": [
+                        {
+                            "additionName": "ChildrenNormalTag",
+                            "additionText": ""
+                        }
+                    ],
+                    "isThirtyFreeCancel": false,
+                    "openYear": "2021",
+                    "guestInfoEntity": {
+                        "childAge": [],
+                        "childBed": [],
+                        "childMeal": [],
+                        "childType": [],
+                        "guestHover": "",
+                        "childCount": 0,
+                        "adultCount": 2
+                    },
+                    "decorator": {
+                        "type": "LoginDeal",
+                        "signInNote": "{0}Sign in{/0} or {1}register{/1} to see lower prices"
+                    },
+                    "signInNote": "{0}Sign in{/0} or {1}register{/1} to see lower prices",
+                    "hidePrice": false,
+                    "priceExplanation": "Incl. taxes & fees",
+                    "payAtHotelTaxText": "",
+                    "hotelMultiImgs": [
+                        [
+                            {
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0580e12000d52xi0t3B49_R_600_600_R5_D.jpg",
+                                "pictureId": 538208428
+                            },
+                            {
+                                "position": 29,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0580e12000d52xi0t3B49_R_600_600_R5_D.jpg",
+                                "pictureId": 538208428
+                            }
+                        ],
+                        [
+                            {
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0226s12000a5qanya1D0B_R_600_600_R5_D.jpg",
+                                "pictureId": 636647495
+                            },
+                            {
+                                "position": 29,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0226s12000a5qanya1D0B_R_600_600_R5_D.jpg",
+                                "pictureId": 636647495
+                            }
+                        ],
+                        [
+                            {
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0581n12000d52w39r5510_R_600_600_R5_D.jpg",
+                                "pictureId": 735180777
+                            },
+                            {
+                                "position": 29,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0581n12000d52w39r5510_R_600_600_R5_D.jpg",
+                                "pictureId": 735180777
+                            }
+                        ],
+                        [
+                            {
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0586u12000ejspxm063CA_R_600_600_R5_D.jpg",
+                                "pictureId": 1086628377
+                            },
+                            {
+                                "position": 29,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0586u12000ejspxm063CA_R_600_600_R5_D.jpg",
+                                "pictureId": 1086628377
+                            }
+                        ],
+                        [
+                            {
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0580q12000eyye0an1296_R_600_600_R5_D.jpg",
+                                "pictureId": 1100852627
+                            },
+                            {
+                                "position": 29,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0580q12000eyye0an1296_R_600_600_R5_D.jpg",
+                                "pictureId": 1100852627
+                            }
+                        ]
+                    ],
+                    "topAwardInfo": {
+                        "listSubTitle": "No.3 of Premium Hotels in Dhaka",
+                        "hotelRank": 3,
+                        "lableId": "10001049",
+                        "rankId": "100200214917",
+                        "rankType": 2
+                    },
+                    "hotelNames": [
+                        "Holiday Inn Dhaka City Centre"
+                    ],
+                    "needHighlight": false
+                },
+                "hotelDecorateInfo": {},
+                "hotelFeatureTagInfo": [],
+                "hotelStarInfo": {
+                    "star": 5,
+                    "isLicenseStar": false,
+                    "starType": 1
+                },
+                "commentInfo": {
+                    "commentScore": "4.4",
+                    "commentDescription": "Very Good",
+                    "commenterNumber": "53 reviews",
+                    "subScore": [
+                        {
+                            "number": "4.2",
+                            "content": "Location",
+                            "scoreAvg": "4.3",
+                            "scoreType": 2
+                        },
+                        {
+                            "number": "4.4",
+                            "content": "Cleanliness",
+                            "scoreAvg": "4.3",
+                            "scoreType": 3
+                        },
+                        {
+                            "number": "4.5",
+                            "content": "Service",
+                            "scoreAvg": "4.3",
+                            "scoreType": 4
+                        },
+                        {
+                            "number": "4.4",
+                            "content": "Amenities",
+                            "scoreAvg": "4.3",
+                            "scoreType": 5
+                        }
+                    ],
+                    "tARatingInfo": null,
+                    "taAlt": "",
+                    "taUrl": "",
+                    "taCount": 0,
+                    "taReview": ""
+                },
+                "roomInfo": {
+                    "roomId": "1415574797",
+                    "shadowId": 0,
+                    "name": "",
+                    "adult": 2,
+                    "physicalRoomName": "1 King Bed Standard",
+                    "isBooking": false,
+                    "bed": {
+                        "list": [
+                            "ic_new_double_bed"
+                        ],
+                        "contentListHover": [],
+                        "contentList": [
+                            "1 king bed"
+                        ],
+                        "cpxBedInfo": {
+                            "title": "",
+                            "bedDetail": [
+                                {
+                                    "roomName": "Bedroom 1",
+                                    "detail": [
+                                        "1 king bed(1.81m wide)"
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                },
+                "positionInfo": {
+                    "cityId": 733,
+                    "cityName": "Dhaka",
+                    "cityNameEn": "Dhaka",
+                    "positionDesc": "Near Bangladesh National Museum",
+                    "positionName": "Near Bangladesh National Museum",
+                    "positionInfo": "6.4 km from centre",
+                    "transport": {},
+                    "coordinate": {
+                        "cityId": 733,
+                        "lat": 23.754054,
+                        "lng": 90.400004,
+                        "isOversea": true,
+                        "coordinateType": 1
+                    },
+                    "zoneNames": [
+                        "Near Bangladesh National Museum"
+                    ],
+                    "isOversea": true,
+                    "mapCoordinate": [
+                        {
+                            "coordinateType": 1,
+                            "latitude": "23.754054",
+                            "longitude": "90.400004",
+                            "gcoordType": "WGS84"
+                        },
+                        {
+                            "coordinateType": 2,
+                            "latitude": "23.754054",
+                            "longitude": "90.400004",
+                            "gcoordType": "WGS84"
+                        },
+                        {
+                            "coordinateType": 3,
+                            "latitude": "23.75728174013262",
+                            "longitude": "90.40811671311312",
+                            "gcoordType": "BD09"
+                        }
+                    ],
+                    "linearDist": 6.3932183
+                },
+                "minRoomInfo": {
+                    "roomId": "1415574797",
+                    "roomName": "",
+                    "shadowId": 0,
+                    "encryptedRoomId": 0
+                },
+                "tags": [
+                    {
+                        "name": "",
+                        "tagTitle": "HAVECHEAPER",
+                        "tagId": 10396,
+                        "tagDesc": "Sign in to access member-only rates",
+                        "value": "",
+                        "subTagId": 0,
+                        "tagPosition": 0,
+                        "labelExtensions": [],
+                        "tagTemplateId": 0
+                    },
+                    {
+                        "name": "Friendly owner|Great stay!",
+                        "tagTitle": "OneSentenceComment",
+                        "tagId": 0,
+                        "tagDesc": "",
+                        "value": "",
+                        "subTagId": 0,
+                        "tagPosition": 0,
+                        "labelExtensions": [],
+                        "tagTemplateId": 0
+                    }
+                ],
+                "saleRoom": {
+                    "person": 2,
+                    "mealNum": 0,
+                    "mealType": 4
+                },
+                "promotion": [],
+                "discountLabels": [
+                    {
+                        "type": 6,
+                        "tagIcon": "ic_new_tripcoins",
+                        "text": "Earn {0}£1.03{/0} in Trip Coins"
+                    }
+                ],
+                "specialPriceLabels": [],
+                "memberGrade": {},
+                "trace": {
+                    "traceLogId": "bbece0027a397",
+                    "timestamp": "1734085150416"
+                },
+                "extensions": {
+                    "hotelUniqueKey": "H4sIAAAAAAAAAONawsjFJMEkxMTBKDWTkaP31f9FrEKMRgYSFpOFHL9pxPQfMu5x8Dz8FciqmeQQwDOJUZIzaIdc6-vAFAdBeSC1QyzJwYmVY3-KBMsMxh8X_vBtZAQLdxU67GBkOsHYyLiAqXvGJL5dTBBFh4D0a3EJllNMDJeYGG4xMTxiYnjFxPCJieEXVEUTM0MXM8MkZoi6WcwMi5gZpHiTklKTUw0MjMwTjS3NFYQ05k35sIvNSGkSI5O70ylGKUNzYxMDC1NDExMTY2O9xDTjxHD_9FLHkoI0K2YpRjcPxiA2N1Mjc2ezKC0u5tBgF0Glv99KH8jIOkgxuzsFKO5hFRKxT1Ny0GJ2cgkxvBb2Rn-3-nr7JNbUPF13p4y_AgWMDYzMXYwcAowejBGMFYyvGEHafoA9DACRTzDpQwEAAA",
+                    "quarantineTip": "",
+                    "recommendFilter": 0,
+                    "priceHigh": -1,
+                    "attachedFilters": [],
+                    "dispatchId": "308736fb-12d4-4328-8cc2-e82c59a82918-104"
+                },
+                "queryType": "NORMAL",
+                "isCombinedRoom": false,
+                "combinedRoomQuality": null,
+                "extras": {
+                    "COMPENSATE_FILTER_ITEMS_INDEX": null,
+                    "PropertyCurrency": "BDT",
+                    "PropertyCurrencyExchange": "0.06085",
+                    "PriceCalendarRecommend": null,
+                    "ChildPriceRoom": null
+                },
+                "token": "eJyrVkrJLC7ISawMKMpMTlWyMjSy1FHKTSwuSS3yyC9JzfFMUbIyNjQxMDI0MNFRykksLgktSEksSQ3JzAWpNjc2MbAwNTQ1MDY1rQUAvEUXWQ==",
+                "hotelNameTags": [],
+                "roomTags": {
+                    "advantageTags": [],
+                    "promotionTags": [],
+                    "discountPercentTags": [],
+                    "encourageTags": []
+                }
+            },
+            {
+                "hotelBasicInfo": {
+                    "hotelId": 113084470,
+                    "masterHotelId": 113084470,
+                    "hotelName": "Lakeshore Heights",
+                    "hotelEnName": "Lakeshore Heights",
+                    "hotelImg": "https://ak-d.tripcdn.com/images/1mc5t12000dyh671x473D_R_250_250_R5_D.jpg",
+                    "hotelImgRoundLoad": [
+                        {
+                            "position": 5,
+                            "group": 1,
+                            "url": "https://ak-d.tripcdn.com/images/1mc5t12000dyh671x473D_R_250_250_R5_D.jpg",
+                            "pictureId": 1071654961
+                        },
+                        {
+                            "position": 5,
+                            "group": 2,
+                            "url": "https://ak-d.tripcdn.com/images/1mc5t12000dyh671x473D_R_600_600_R5_D.jpg",
+                            "pictureId": 1071654961
+                        }
+                    ],
+                    "hotelAddress": "Rd 126",
+                    "superStar": 1,
+                    "favorityCount": 101,
+                    "browseCount": 0,
+                    "topRecommend": false,
+                    "topRecommendReason": "",
+                    "payType": 1,
+                    "isAdHotel": false,
+                    "adTraceid": "H4sIAAAAAAAA/+N40jnvz24jAUYDLg/GAMYoVkMrc2PjBKYC1g5GuQmMLjMYmQAoHBNFIwAAAA==",
+                    "isAdSlot": false,
+                    "starIcon": "",
+                    "hourRoomHours": "",
+                    "hourEarliestArriveTime": "",
+                    "hourLatestArriveTime": "",
+                    "price": 69,
+                    "originPrice": 99,
+                    "onlineTaxPrice": "69",
+                    "onlineAndShopTaxPrice": "69.49",
+                    "isEncrypt": false,
+                    "payAtHotelTax": 0,
+                    "isCollected": false,
+                    "isFullRoom": false,
+                    "isFullRoomCanFold": false,
+                    "hotelCloseInfo": null,
+                    "canNotBeOrderedInfo": {
+                        "messageBold": "",
+                        "cannotReserveCode": ""
+                    },
+                    "isPriceMask": 0,
+                    "medalInfo": {
+                        "medalType": 5,
+                        "description": "",
+                        "badgeHover": "Highly recommended hotels/suppliers have established a close partnership with Trip.com to provide attractive offers"
+                    },
+                    "wowHotel": false,
+                    "lastBookingTimeRemark": "",
+                    "additionTexts": [
+                        {
+                            "additionName": "ChildrenNormalTag",
+                            "additionText": ""
+                        },
+                        {
+                            "additionName": "FreeBreakfast",
+                            "additionText": "Breakfast included"
+                        }
+                    ],
+                    "isThirtyFreeCancel": false,
+                    "openYear": "2023",
+                    "guestInfoEntity": {
+                        "childAge": [],
+                        "childBed": [],
+                        "childMeal": [],
+                        "childType": [],
+                        "guestHover": "",
+                        "childCount": 0,
+                        "adultCount": 2
+                    },
+                    "signInNote": "",
+                    "hidePrice": false,
+                    "priceExplanation": "Incl. taxes & fees",
+                    "payAtHotelTaxText": "",
+                    "hotelMultiImgs": [
+                        [
+                            {
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/1mc5t12000dyh671x473D_R_600_600_R5_D.jpg",
+                                "pictureId": 1071654961
+                            },
+                            {
+                                "position": 29,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/1mc5t12000dyh671x473D_R_600_600_R5_D.jpg",
+                                "pictureId": 1071654961
+                            }
+                        ],
+                        [
+                            {
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0586612000dff4qcqD39C_R_600_600_R5_D.jpg",
+                                "pictureId": 964962217
+                            },
+                            {
+                                "position": 29,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0586612000dff4qcqD39C_R_600_600_R5_D.jpg",
+                                "pictureId": 964962217
+                            }
+                        ],
+                        [
+                            {
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0584712000dzfjavo85EF_R_600_600_R5_D.jpg",
+                                "pictureId": 1071653127
+                            },
+                            {
+                                "position": 29,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0584712000dzfjavo85EF_R_600_600_R5_D.jpg",
+                                "pictureId": 1071653127
+                            }
+                        ],
+                        [
+                            {
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0582x12000dzfle2r4299_R_600_600_R5_D.jpg",
+                                "pictureId": 1071653121
+                            },
+                            {
+                                "position": 29,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0582x12000dzfle2r4299_R_600_600_R5_D.jpg",
+                                "pictureId": 1071653121
+                            }
+                        ],
+                        [
+                            {
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0221r12000d15w9wgDD08_R_600_600_R5_D.jpg",
+                                "pictureId": 1042377491
+                            },
+                            {
+                                "position": 29,
+                                "group": 1,
+                                "url": "https://ak-d.tripcdn.com/images/0221r12000d15w9wgDD08_R_600_600_R5_D.jpg",
+                                "pictureId": 1042377491
+                            }
+                        ]
+                    ],
+                    "topAwardInfo": {
+                        "listSubTitle": "No.7 of 4-star Select Hotels in Dhaka",
+                        "hotelRank": 7,
+                        "lableId": "10006063",
+                        "rankId": "100200156625",
+                        "rankType": 2
+                    },
+                    "hotelNames": [
+                        "Lakeshore Heights"
+                    ],
+                    "needHighlight": false
+                },
+                "hotelDecorateInfo": {
+                    "tagName": "Opened in 2023"
+                },
+                "hotelFeatureTagInfo": [],
+                "hotelStarInfo": {
+                    "star": 4,
+                    "isLicenseStar": false,
+                    "starType": 1
+                },
+                "commentInfo": {
+                    "commentScore": "4.6",
+                    "commentDescription": "Great",
+                    "commenterNumber": "46 reviews",
+                    "subScore": [
+                        {
+                            "number": "4.6",
+                            "content": "Location",
+                            "scoreAvg": "4",
+                            "scoreType": 2
+                        },
+                        {
+                            "number": "4.5",
+                            "content": "Cleanliness",
+                            "scoreAvg": "3.9",
+                            "scoreType": 3
+                        },
+                        {
+                            "number": "4.6",
+                            "content": "Service",
+                            "scoreAvg": "4",
+                            "scoreType": 4
+                        },
+                        {
+                            "number": "4.6",
+                            "content": "Amenities",
+                            "scoreAvg": "3.9",
+                            "scoreType": 5
+                        }
+                    ],
+                    "tARatingInfo": null,
+                    "taAlt": "",
+                    "taUrl": "",
+                    "taCount": 0,
+                    "taReview": ""
+                },
+                "roomInfo": {
+                    "roomId": "1543373228",
+                    "shadowId": 0,
+                    "name": "",
+                    "adult": 2,
+                    "physicalRoomName": "Executive Premium Deluxe",
+                    "isBooking": false,
+                    "bed": {
+                        "list": [
+                            "ic_new_double_bed"
+                        ],
+                        "contentListHover": [],
+                        "contentList": [
+                            "1 king bed"
+                        ],
+                        "cpxBedInfo": {
+                            "title": "",
+                            "bedDetail": [
+                                {
+                                    "roomName": "Bedroom 1",
+                                    "detail": [
+                                        "1 king bed(1.81m wide)"
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                },
+                "positionInfo": {
+                    "cityId": 733,
+                    "cityName": "Dhaka",
+                    "cityNameEn": "Dhaka",
+                    "positionDesc": "3.3 km from centre",
+                    "positionName": "",
+                    "positionInfo": "3.3 km from centre",
+                    "transport": {},
+                    "coordinate": {
+                        "cityId": 733,
+                        "lat": 23.781355,
+                        "lng": 90.417838,
+                        "isOversea": true,
+                        "coordinateType": 1
+                    },
+                    "zoneNames": [
+                        "Dhaka"
+                    ],
+                    "isOversea": true,
+                    "mapCoordinate": [
+                        {
+                            "coordinateType": 1,
+                            "latitude": "23.781355",
+                            "longitude": "90.417838",
+                            "gcoordType": "WGS84"
+                        },
+                        {
+                            "coordinateType": 2,
+                            "latitude": "23.781355",
+                            "longitude": "90.417838",
+                            "gcoordType": "WGS84"
+                        },
+                        {
+                            "coordinateType": 3,
+                            "latitude": "23.784459041068818",
+                            "longitude": "90.42598991692485",
+                            "gcoordType": "BD09"
+                        }
+                    ],
+                    "linearDist": 3.2709003
+                },
+                "minRoomInfo": {
+                    "roomId": "1543373228",
+                    "roomName": "",
+                    "shadowId": 0,
+                    "encryptedRoomId": 0
+                },
+                "tags": [
+                    {
+                        "name": "",
+                        "tagTitle": "DISCOUNTAMOUNT",
+                        "tagId": 90001,
+                        "tagDesc": "",
+                        "value": "30",
+                        "subTagId": 0,
+                        "tagPosition": 0,
+                        "labelExtensions": [],
+                        "tagTemplateId": 0
+                    },
+                    {
+                        "name": "Great service|Great rooms",
+                        "tagTitle": "OneSentenceComment",
+                        "tagId": 0,
+                        "tagDesc": "",
+                        "value": "",
+                        "subTagId": 0,
+                        "tagPosition": 0,
+                        "labelExtensions": [],
+                        "tagTemplateId": 0
+                    },
+                    {
+                        "name": "",
+                        "tagTitle": "PROMOTION",
+                        "tagId": 11600,
+                        "tagDesc": "Special Discount",
+                        "value": "",
+                        "subTagId": 0,
+                        "tagPosition": 0,
+                        "labelExtensions": [],
+                        "tagTemplateId": 0
+                    }
+                ],
+                "saleRoom": {
+                    "person": 2,
+                    "mealNum": 2,
+                    "mealType": 4
+                },
+                "promotion": [
+                    {
+                        "type": 1,
+                        "tagIcon": "ic_tag_sale",
+                        "text": "Special Discount"
+                    }
+                ],
+                "discountLabels": [
+                    {
+                        "type": 21,
+                        "text": "",
+                        "value": "30"
+                    },
+                    {
+                        "type": 1,
+                        "tagIcon": "ic_tag_sale",
+                        "text": "Special Discount"
+                    },
+                    {
+                        "type": 6,
+                        "tagIcon": "ic_new_tripcoins",
+                        "text": "Earn {0}£1.11{/0} in Trip Coins"
+                    }
+                ],
+                "specialPriceLabels": [],
+                "memberGrade": {},
+                "trace": {
+                    "traceLogId": "bbece0027a397",
+                    "timestamp": "1734085150416"
+                },
+                "extensions": {
+                    "hotelUniqueKey": "H4sIAAAAAAAAAOOaz8TFJMEkxMTBKDWFiWNN84_7rBa_BR2rRda5P7xV5-DJAALfmh0CeArBTIVCh0ZGMEsi12ESYwUnmO1z1kEQzHh-wkHJheP90omOAooSk2ecvcekwKgJ02gIY1g8lHCEmeEJYwSxciwWl2CJYuV4IizBoiTO8btpj4VAI6PE_46lqxkVGC0OigcxRDE4sXKc8JVgmcG4bcI3042MXNcXF9gqJTnsYGQ6wei6gOnozz7LXUwQNYeA9CoeCZZTTAyXmBhuMTE8YoLY8YqJ4RMTxJ5fULVNzAxdzAyTmCE6ZjFDFC5iZpDiTUpKTU41MDAyTzS2NFcQ0pg35cMuNiOlSYxM7k6nGKUMzY1NDCxMDU1MTIyN9RLTjBPD_dNLHUsK0qyYpRjdPBiD2MyNzU3MDaO0uJidXEIEr4W90d-tvt5eitndKUBxD6uQiH2akoMWSM4QJpfEmpqn6-6U8VeggLGBkbmLkUOA0YMxgrGC8RUjSNsPsPcB-8o9mL4BAAA",
+                    "quarantineTip": "",
+                    "recommendFilter": 0,
+                    "priceHigh": -1,
+                    "attachedFilters": [],
+                    "dispatchId": "308736fb-12d4-4328-8cc2-e82c59a82918-104"
+                },
+                "queryType": "NORMAL",
+                "isCombinedRoom": false,
+                "combinedRoomQuality": null,
+                "extras": {
+                    "COMPENSATE_FILTER_ITEMS_INDEX": null,
+                    "PropertyCurrency": "BDT",
+                    "PropertyCurrencyExchange": "0.06085",
+                    "PriceCalendarRecommend": null,
+                    "ChildPriceRoom": null
+                },
+                "token": "eJyrVkrJLC7ISawMKMpMTlWyMrPUUcpNLC5JLfLIL0nN8UxRsjI0NDawMDExN9BRykksLgktSEksSQ3JzE1VsjI0NzYxsDA1NDUwNjWtBQDBhRdp",
+                "hotelNameTags": [
+                    {
+                        "tagTitle": "Opened in 2023",
+                        "tagTemplateId": 202333
+                    }
+                ],
+                "roomTags": {
+                    "advantageTags": [
+                        {
+                            "tagTitle": "Breakfast included",
+                            "tagId": 12367,
+                            "tagTemplateId": 10001,
+                            "tagPosition": 2
+                        }
+                    ],
+                    "promotionTags": [
+                        {
+                            "tagTitle": "Special Discount",
+                            "tagTemplateId": 400030
+                        }
+                    ],
+                    "discountPercentTags": [
+                        {
+                            "tagTitle": "£30 Off",
+                            "tagTemplateId": 40006
+                        }
+                    ],
+                    "encourageTags": []
+                }
+            }
+        ]
+    }
+]

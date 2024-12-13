@@ -1,0 +1,247 @@
+[
+    {
+        "hotelName": "HANSA- A Premium Residence",
+        "commentScore": "4.6",
+        "positionName": "Near Hazrat Shahjalal International Airport",
+        "latitude": 23.87914,
+        "longitude": 90.400251,
+        "roomType": "Executive Deluxe Room",
+        "price": 72,
+        "hotelImg": "https://ak-d.tripcdn.com/images/0222n12000a0chl7v44F2_R_250_250_R5_D.jpg"
+    },
+    {
+        "hotelName": "Best Western Plus Maple Leaf",
+        "commentScore": "4.2",
+        "positionName": "Near Hazrat Shahjalal International Airport",
+        "latitude": 23.855243,
+        "longitude": 90.404097,
+        "roomType": "Deluxe King Room",
+        "price": 110,
+        "hotelImg": "https://ak-d.tripcdn.com/images/200k0s000000i31cdA937_R_250_250_R5_D.jpg"
+    },
+    {
+        "hotelName": "Hotel Sarina",
+        "commentScore": "4.4",
+        "positionName": "Near Hazrat Shahjalal International Airport",
+        "latitude": 23.793233,
+        "longitude": 90.404393,
+        "roomType": "Deluxe King Room Non smoking",
+        "price": 99,
+        "hotelImg": "https://ak-d.tripcdn.com/images/02204120009tpqqmwE146_R_250_250_R5_D.jpg"
+    },
+    {
+        "hotelName": "Lakeshore Heights",
+        "commentScore": "4.6",
+        "positionName": "",
+        "latitude": 23.781355,
+        "longitude": 90.417838,
+        "roomType": "Executive Premium Deluxe",
+        "price": 69,
+        "hotelImg": "https://ak-d.tripcdn.com/images/1mc5t12000dyh671x473D_R_250_250_R5_D.jpg"
+    },
+    {
+        "hotelName": "Pan Pacific Sonargaon Dhaka",
+        "commentScore": "4.3",
+        "positionName": "Near Bangladesh National Museum",
+        "latitude": 23.749489,
+        "longitude": 90.394466,
+        "roomType": "Deluxe Twin Room",
+        "price": 150,
+        "hotelImg": "https://ak-d.tripcdn.com/images/02271120009h92ygsEDDE_R_250_250_R5_D.jpg"
+    },
+    {
+        "hotelName": "Hua BiSi  Guest House",
+        "commentScore": "4.8",
+        "positionName": "Near Hazrat Shahjalal International Airport",
+        "latitude": 23.790639,
+        "longitude": 90.419125,
+        "roomType": "Business Twin Room",
+        "price": 17,
+        "hotelImg": "https://ak-d.tripcdn.com/images/20061a0000018gd4dB640_R_250_250_R5_D.jpg"
+    },
+    {
+        "hotelName": "Ascott the Residence Dhaka",
+        "commentScore": "4.4",
+        "positionName": "Near International Convention City Bashundhara",
+        "latitude": 23.804658,
+        "longitude": 90.419637,
+        "roomType": "Premium Queen Room",
+        "price": 58,
+        "hotelImg": "https://ak-d.tripcdn.com/images/0581q12000cs51lrxF467_R_250_250_R5_D.jpg"
+    },
+    {
+        "hotelName": "White Palace Hotel",
+        "commentScore": "4.2",
+        "positionName": "Near Hazrat Shahjalal International Airport",
+        "latitude": 23.879744,
+        "longitude": 90.39683,
+        "roomType": "Super Deluxe Twin Room",
+        "price": 36,
+        "hotelImg": "https://ak-d.tripcdn.com/images/0581612000d3euoz5C29D_R_250_250_R5_D.jpg"
+    },
+    {
+        "hotelName": "Unique Regency Hotel Dhaka",
+        "commentScore": "4.4",
+        "positionName": "Near Hazrat Shahjalal International Airport",
+        "latitude": 23.793024,
+        "longitude": 90.404174,
+        "roomType": "Deluxe Twin Room",
+        "price": 47,
+        "hotelImg": "https://ak-d.tripcdn.com/images/0586112000dg9v53o4E93_R_250_250_R5_D.jpg"
+    },
+    {
+        "hotelName": "After Hours Residence",
+        "commentScore": "4.0",
+        "positionName": "Near Hazrat Shahjalal International Airport",
+        "latitude": 23.799473,
+        "longitude": 90.406978,
+        "roomType": "Premium Twin Room",
+        "price": 47,
+        "hotelImg": "https://ak-d.tripcdn.com/images/0222n12000abp71ogDAE2_R_250_250_R5_D.jpg"
+    }
+]
+[
+    {
+        "city_id": 733,
+        "city_name": "Dhaka",
+        "hotel_id": 45570507,
+        "hotelName": "White Palace Hotel",
+        "commentScore": "4.2",
+        "positionName": "Near Hazrat Shahjalal International Airport",
+        "latitude": 23.879744,
+        "longitude": 90.39683,
+        "roomType": "Super Deluxe Twin Room",
+        "price": 36,
+        "hotelImg": "https://ak-d.tripcdn.com/images/0581612000d3euoz5C29D_R_250_250_R5_D.jpg"
+    },
+    {
+        "city_id": 733,
+        "city_name": "Dhaka",
+        "hotel_id": 120229404,
+        "hotelName": "Grand Vistana",
+        "commentScore": "4.7",
+        "positionName": "Near Hazrat Shahjalal International Airport",
+        "latitude": 23.856941,
+        "longitude": 90.401835,
+        "roomType": "Deluxe Room With City View",
+        "price": 37,
+        "hotelImg": "https://ak-d.tripcdn.com/images/1mc5z12000gjtddur706C_R_250_250_R5_D.jpg"
+    },
+    {
+        "city_id": 733,
+        "city_name": "Dhaka",
+        "hotel_id": 2199579,
+        "hotelName": "Six Seasons Hotel",
+        "commentScore": "4.6",
+        "positionName": "Near Hazrat Shahjalal International Airport",
+        "latitude": 23.794703,
+        "longitude": 90.419378,
+        "roomType": "Deluxe Room",
+        "price": 92,
+        "hotelImg": "https://ak-d.tripcdn.com/images/0580n12000cuqbd6u494F_R_250_250_R5_D.jpg"
+    },
+    {
+        "city_id": 733,
+        "city_name": "Dhaka",
+        "hotel_id": 2510907,
+        "hotelName": "Best Western Plus Maple Leaf",
+        "commentScore": "4.2",
+        "positionName": "Near Hazrat Shahjalal International Airport",
+        "latitude": 23.855243,
+        "longitude": 90.404097,
+        "roomType": "Deluxe King Room",
+        "price": 110,
+        "hotelImg": "https://ak-d.tripcdn.com/images/200k0s000000i31cdA937_R_250_250_R5_D.jpg"
+    },
+    {
+        "city_id": 733,
+        "city_name": "Dhaka",
+        "hotel_id": 3725948,
+        "hotelName": "Hotel Afford Inn",
+        "commentScore": "3.9",
+        "positionName": "Near Hazrat Shahjalal International Airport",
+        "latitude": 23.85611,
+        "longitude": 90.403093,
+        "roomType": "Deluxe Double Room",
+        "price": 32,
+        "hotelImg": "https://ak-d.tripcdn.com/images/0221y120009uosuq43515_R_250_250_R5_D.jpg"
+    },
+    {
+        "city_id": 733,
+        "city_name": "Dhaka",
+        "hotel_id": 108649019,
+        "hotelName": "Palm Tree Business Hotel",
+        "commentScore": "4.8",
+        "positionName": "",
+        "latitude": 23.776807,
+        "longitude": 90.417501,
+        "roomType": "Deluxe City View Twin Room",
+        "price": 100,
+        "hotelImg": "https://ak-d.tripcdn.com/images/0203r12000by2vv006317_R_250_250_R5_D.jpg"
+    },
+    {
+        "city_id": 733,
+        "city_name": "Dhaka",
+        "hotel_id": 739547,
+        "hotelName": "Hotel Sarina",
+        "commentScore": "4.4",
+        "positionName": "Near Hazrat Shahjalal International Airport",
+        "latitude": 23.793233,
+        "longitude": 90.404393,
+        "roomType": "Deluxe King Room Non smoking",
+        "price": 99,
+        "hotelImg": "https://ak-d.tripcdn.com/images/02204120009tpqqmwE146_R_250_250_R5_D.jpg"
+    },
+    {
+        "city_id": 733,
+        "city_name": "Dhaka",
+        "hotel_id": 3725840,
+        "hotelName": "Bengal Blueberry",
+        "commentScore": "4.4",
+        "positionName": "Near Hazrat Shahjalal International Airport",
+        "latitude": 23.796215,
+        "longitude": 90.415261,
+        "roomType": "Premium Queen Room",
+        "price": 59,
+        "hotelImg": "https://ak-d.tripcdn.com/images/0584912000cy45cuz0085_R_250_250_R5_D.jpg"
+    },
+    {
+        "city_id": 733,
+        "city_name": "Dhaka",
+        "hotel_id": 6443806,
+        "hotelName": "Blossom Hotel Dhaka",
+        "commentScore": "4.0",
+        "positionName": "Near Hazrat Shahjalal International Airport",
+        "latitude": 23.797509,
+        "longitude": 90.425268,
+        "roomType": "Super Deluxe Double Room",
+        "price": 20,
+        "hotelImg": "https://ak-d.tripcdn.com/images/0584p12000dwzcihz8DCE_R_250_250_R5_D.jpg"
+    },
+    {
+        "city_id": 733,
+        "city_name": "Dhaka",
+        "hotel_id": 113084470,
+        "hotelName": "Lakeshore Heights",
+        "commentScore": "4.6",
+        "positionName": "",
+        "latitude": 23.781355,
+        "longitude": 90.417838,
+        "roomType": "Executive Premium Deluxe",
+        "price": 69,
+        "hotelImg": "https://ak-d.tripcdn.com/images/1mc5t12000dyh671x473D_R_250_250_R5_D.jpg"
+    },
+    {
+        "city_id": 733,
+        "city_name": "Dhaka",
+        "hotel_id": 31402104,
+        "hotelName": "Holiday Inn Dhaka City Centre",
+        "commentScore": "4.4",
+        "positionName": "Near Bangladesh National Museum",
+        "latitude": 23.754054,
+        "longitude": 90.400004,
+        "roomType": "1 King Bed Standard",
+        "price": 129,
+        "hotelImg": "https://ak-d.tripcdn.com/images/0580e12000d52xi0t3B49_R_250_250_R5_D.jpg"
+    }
+]
